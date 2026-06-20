@@ -1,0 +1,8 @@
+Why:
+To provide visibility, alignment, and decision support.
+
+What:
+Project status, milestones, risks, issues, budget, and timelines.
+
+How:
+Status reports, dashboards, leadership meetings, emails, and executive reviews.
