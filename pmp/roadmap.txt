@@ -1,0 +1,268 @@
+PMP MASTER LEARNING SERIES
+
+=================================================
+PHASE 1: PMP FOUNDATIONS
+=================================================
+
+1. Introduction to PMP
+2. Project vs Program vs Portfolio
+3. Role of a Project Manager
+4. Project Life Cycle
+5. Predictive vs Agile vs Hybrid
+6. Organizational Structures
+7. PMO Types
+
+=================================================
+PHASE 2: PROCESS GROUPS
+=================================================
+
+INITIATING
+• Business Case
+• Benefits Management Plan
+• Project Charter
+• Stakeholder Identification
+
+PLANNING
+• Project Management Plan
+• Scope Planning
+• Schedule Planning
+• Cost Planning
+• Risk Planning
+• Communication Planning
+
+EXECUTING
+• Team Management
+• Stakeholder Engagement
+• Quality Assurance
+• Vendor Coordination
+
+MONITORING & CONTROLLING
+• Change Control
+• Performance Monitoring
+• Risk Tracking
+• Issue Management
+
+CLOSING
+• Project Closure
+• Lessons Learned
+• Handover
+• Final Sign-off
+
+=================================================
+PHASE 3: KNOWLEDGE AREAS
+=================================================
+
+INTEGRATION MANAGEMENT
+• Project Charter
+• Project Management Plan
+• Change Control
+
+SCOPE MANAGEMENT
+• Requirements Gathering
+• Scope Statement
+• WBS
+
+SCHEDULE MANAGEMENT
+• Activity Sequencing
+• Critical Path
+• Schedule Compression
+
+COST MANAGEMENT
+• Budgeting
+• Cost Baseline
+• Earned Value Management (EVM)
+
+QUALITY MANAGEMENT
+• Quality Planning
+• Quality Assurance
+• Quality Control
+
+RESOURCE MANAGEMENT
+• Team Formation
+• Conflict Resolution
+• Motivation
+
+COMMUNICATION MANAGEMENT
+• Communication Models
+• Communication Planning
+• Status Reporting
+
+RISK MANAGEMENT
+• Risk Identification
+• Risk Analysis
+• Risk Responses
+
+PROCUREMENT MANAGEMENT
+• Contracts
+• Vendor Management
+• Procurement Control
+
+STAKEHOLDER MANAGEMENT
+• Stakeholder Analysis
+• Power Interest Grid
+• Engagement Strategy
+
+=================================================
+PHASE 4: AGILE & HYBRID
+=================================================
+
+AGILE FUNDAMENTALS
+• Agile Manifesto
+• Agile Principles
+• Scrum Framework
+
+SCRUM
+• Product Owner
+• Scrum Master
+• Development Team
+• Sprint Planning
+• Sprint Review
+• Sprint Retrospective
+
+AGILE ARTIFACTS
+• Product Backlog
+• Sprint Backlog
+• Increment
+
+HYBRID PROJECT MANAGEMENT
+• Waterfall + Agile
+• Enterprise Agile
+
+=================================================
+PHASE 5: PMP FORMULAS
+=================================================
+
+Earned Value Management (EVM)
+
+CV = EV - AC
+SV = EV - PV
+CPI = EV / AC
+SPI = EV / PV
+EAC = BAC / CPI
+ETC = EAC - AC
+
+Communication Channels
+
+n(n-1)/2
+
+PERT Formula
+
+(O + 4M + P) / 6
+
+Where:
+O = Optimistic
+M = Most Likely
+P = Pessimistic
+
+=================================================
+PHASE 6: LEADERSHIP
+=================================================
+
+Leadership Styles
+• Servant Leadership
+• Democratic
+• Autocratic
+• Coaching
+• Laissez-Faire
+
+Conflict Resolution
+• Collaborate / Problem Solve
+• Compromise / Reconcile
+• Smooth / Accommodate
+• Force / Direct
+• Withdraw / Avoid
+
+Emotional Intelligence
+• Self-Awareness
+• Self-Management
+• Social Awareness
+• Relationship Management
+
+=================================================
+PHASE 7: PMP INTERVIEW PREPARATION
+=================================================
+
+1. Tell me about yourself.
+2. Explain your project management experience.
+3. How do you handle scope creep?
+4. How do you manage stakeholders?
+5. Explain risk management.
+6. What is a critical path?
+7. Explain CPI and SPI.
+8. Agile vs Waterfall.
+9. How do you resolve conflicts?
+10. Describe a challenging project.
+
+=================================================
+PHASE 8: PMP MOCK TESTS
+=================================================
+
+Beginner Level
+• 100 Questions
+
+Intermediate Level
+• 200 Questions
+
+Advanced Level
+• 300 Questions
+
+Full PMP Simulation
+• 180 Questions
+• 230 Minutes
+
+=================================================
+PHASE 9: PMP DOCUMENT TEMPLATES
+=================================================
+
+• Project Charter
+• Business Case
+• Scope Statement
+• WBS
+• Risk Register
+• RAID Log
+• Stakeholder Register
+• Communication Plan
+• Change Request
+• Status Report
+• Lessons Learned
+
+=================================================
+PHASE 10: TPM + PMP MAPPING
+=================================================
+
+PMP Area → TPM Activity
+
+Scope Management → Requirement Gathering
+Schedule Management → Sprint Planning
+Cost Management → Budget Tracking
+Risk Management → RAID Management
+Stakeholder Management → Executive Communication
+Quality Management → QA Coordination
+Integration Management → Cross-Team Delivery
+
+=================================================
+RECOMMENDED LEARNING ORDER
+=================================================
+
+1. PMP Foundations
+2. Process Groups
+3. Knowledge Areas
+4. Agile & Hybrid
+5. PMP Formulas
+6. Leadership
+7. Documentation Templates
+8. Interview Preparation
+9. Mock Tests
+10. Full PMP Simulation
+
+=================================================
+PMP STUDY GOAL
+=================================================
+
+Understand Concepts
+→ Learn Processes
+→ Practice Formulas
+→ Solve Questions
+→ Attempt Mock Exams
+→ Pass PMP Certification
+→ Apply in Real Projects
