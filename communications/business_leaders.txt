@@ -1,0 +1,248 @@
+=========================================================
+WHY, WHAT, AND HOW A TPM COMMUNICATES WITH BUSINESS LEADERS
+=========================================================
+
+1. WHO ARE BUSINESS LEADERS?
+
+Business leaders are decision-makers responsible for
+business outcomes and strategic direction.
+
+Examples:
+- CEO
+- CTO
+- CIO
+- VP Engineering
+- VP Product
+- Director
+- Business Unit Head
+
+=========================================================
+
+2. WHY DOES A TPM COMMUNICATE WITH BUSINESS LEADERS?
+
+A TPM communicates with business leaders to:
+
+1. Provide Project Status
+2. Report Risks and Issues
+3. Escalate Blockers
+4. Share Progress Against Goals
+5. Align Technical Work with Business Objectives
+6. Support Decision Making
+7. Ensure Stakeholder Visibility
+
+Without regular communication, leadership may not know:
+- Project health
+- Delivery risks
+- Budget concerns
+- Timeline impacts
+
+=========================================================
+
+3. WHAT DOES A TPM COMMUNICATE?
+
+A. Project Status
+
+Examples:
+- Green
+- Yellow
+- Red
+
+Example:
+Project Status = Green
+
+Meaning:
+Project is progressing as planned.
+
+---------------------------------------------------------
+
+B. Milestone Progress
+
+Examples:
+- Requirements Completed
+- Design Completed
+- Development 80% Complete
+- Testing Started
+
+---------------------------------------------------------
+
+C. Risks
+
+Examples:
+- Resource shortage
+- Vendor dependency
+- Technical complexity
+
+Example:
+Risk:
+Key developer unavailable next month.
+
+---------------------------------------------------------
+
+D. Issues
+
+Examples:
+- Environment outage
+- Production defect
+- Delayed API delivery
+
+---------------------------------------------------------
+
+E. Schedule Updates
+
+Examples:
+- On Track
+- Delayed by 1 Week
+- Ahead of Schedule
+
+---------------------------------------------------------
+
+F. Budget Updates
+
+Examples:
+- Budget On Track
+- Budget Overrun Risk
+
+---------------------------------------------------------
+
+G. Key Metrics
+
+Examples:
+- Sprint Velocity
+- Defect Count
+- Completion Percentage
+- Resource Utilization
+
+=========================================================
+
+4. HOW DOES A TPM COMMUNICATE?
+
+A. Weekly Status Reports
+
+Sent to:
+- Leadership
+- Product Managers
+- Engineering Managers
+
+Contains:
+- Progress
+- Risks
+- Issues
+- Next Steps
+
+---------------------------------------------------------
+
+B. Steering Committee Meetings
+
+Purpose:
+Review major project updates and decisions.
+
+Topics:
+- Timeline
+- Budget
+- Risks
+- Dependencies
+
+---------------------------------------------------------
+
+C. Executive Dashboards
+
+Tools:
+- Excel
+- Power BI
+- Jira Dashboards
+
+Shows:
+- Project Health
+- Milestones
+- Delivery Metrics
+
+---------------------------------------------------------
+
+D. Email Updates
+
+Used for:
+- Escalations
+- Decisions
+- Important Announcements
+
+---------------------------------------------------------
+
+E. Leadership Reviews
+
+Monthly or Quarterly Reviews
+
+Purpose:
+- Strategic alignment
+- Business impact review
+- Portfolio updates
+
+=========================================================
+
+5. COMMUNICATION STYLE FOR BUSINESS LEADERS
+
+Business leaders care about:
+
+- Outcomes
+- Timelines
+- Risks
+- Costs
+- Business Impact
+
+They usually do NOT need:
+- Detailed code discussions
+- Technical implementation details
+
+Example:
+
+Bad Update:
+"The API authentication layer has OAuth token
+refresh issues."
+
+Good Update:
+"Login functionality may be delayed by 3 days due
+to a technical issue. The team is implementing a fix."
+
+=========================================================
+
+6. TPM RESPONSIBILITY
+
+The TPM acts as a bridge between:
+
+Business Leaders
+        ↕
+Product Team
+        ↕
+Engineering Team
+        ↕
+QA Team
+        ↕
+Operations Team
+
+The TPM translates technical progress into business
+language that leaders can understand.
+
+=========================================================
+
+7. TPM INTERVIEW ANSWER
+
+Q: Why do you communicate with business leaders?
+
+Answer:
+
+I communicate with business leaders to provide visibility
+into project progress, risks, issues, timelines, and
+business impact. My goal is to ensure alignment between
+technical execution and business objectives while enabling
+leadership to make informed decisions.
+
+=========================================================
+
+8. ONE-LINE INTERVIEW ANSWER
+
+A TPM communicates with business leaders to provide
+project visibility, manage expectations, highlight risks,
+and ensure technical delivery aligns with business goals.
+
+=========================================================
+END OF DOCUMENT
+=========================================================
