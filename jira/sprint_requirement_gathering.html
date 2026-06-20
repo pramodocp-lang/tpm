@@ -1,0 +1,117 @@
+EPIC-001: User Authentication & Password Management
+
+Goal:
+Enable users to securely access the application and reset their passwords when needed.
+
+Business Value:
+Improve user experience and reduce account-access issues.
+
+====================================================
+USER STORY 1: User Login
+====================================================
+
+Story ID: US-001
+
+User Story:
+As a user, I want to log in to the application so that I can access my account securely.
+
+Acceptance Criteria:
+- User can enter email and password.
+- System validates credentials.
+- User is redirected to dashboard after successful login.
+- Error message displayed for invalid credentials.
+
+Tasks:
+- Create Login UI
+- Develop Login API
+- Implement Authentication Logic
+- Write Unit Tests
+- Perform QA Testing
+
+====================================================
+USER STORY 2: Forgot Password
+====================================================
+
+Story ID: US-002
+
+User Story:
+As a user, I want to reset my password so that I can regain access to my account.
+
+Acceptance Criteria:
+- User can click "Forgot Password".
+- Reset link is sent to registered email.
+- Link expires after configured duration.
+- User can create a new password.
+
+Tasks:
+- Design Forgot Password Screen
+- Create Reset Password API
+- Configure Email Service
+- Implement Token Validation
+- Test End-to-End Flow
+
+====================================================
+USER STORY 3: Strong Password Validation
+====================================================
+
+Story ID: US-003
+
+User Story:
+As a user, I want password validation so that my account remains secure.
+
+Acceptance Criteria:
+- Minimum 8 characters.
+- At least 1 uppercase letter.
+- At least 1 number.
+- At least 1 special character.
+
+Tasks:
+- Implement Password Validation Rules
+- Add Frontend Validation Messages
+- Create Unit Tests
+- Execute QA Testing
+
+====================================================
+USER STORY 4: Account Lockout
+====================================================
+
+Story ID: US-004
+
+User Story:
+As a security administrator, I want accounts locked after multiple failed login attempts so that unauthorized access is prevented.
+
+Acceptance Criteria:
+- Lock account after 5 failed attempts.
+- Display appropriate error message.
+- Allow unlock through password reset.
+
+Tasks:
+- Implement Lockout Logic
+- Update Database Schema
+- Create Audit Logs
+- Test Security Scenarios
+
+====================================================
+SPRINT PLAN
+====================================================
+
+Sprint 1:
+- US-001 User Login
+- UI Design
+- Login API Development
+
+Sprint 2:
+- US-002 Forgot Password
+- Email Integration
+- Token Management
+
+Sprint 3:
+- US-003 Password Policy
+- US-004 Account Lockout
+- Security Testing
+
+====================================================
+TPM INTERVIEW ANSWER
+====================================================
+
+During requirement gathering, I work with stakeholders to understand business needs and convert them into Epics and User Stories in Jira. I define acceptance criteria, identify dependencies, collaborate with engineering teams for effort estimation, and plan delivery across sprints while managing risks and stakeholder expectations.

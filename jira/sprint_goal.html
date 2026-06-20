@@ -1,0 +1,98 @@
+EPIC: User Authentication
+
+====================================================
+SPRINT 01 - AUTHENTICATION FOUNDATION
+====================================================
+
+Sprint Goal:
+Deliver secure user login functionality that allows users to authenticate and access the application successfully.
+
+Story:
+US-001 User Login
+
+User Story:
+As a user, I want to log in to the application so that I can access my account securely.
+
+Acceptance Criteria:
+- User can enter email and password.
+- System validates credentials.
+- User is redirected to dashboard after successful login.
+- Error message displayed for invalid credentials.
+
+Tasks:
+- Design Login Screen
+- Develop Login API
+- Implement Authentication Logic
+- Unit Testing
+- QA Testing
+
+====================================================
+SPRINT 02 - PASSWORD MANAGEMENT
+====================================================
+
+Sprint Goal:
+Enable users to securely reset their passwords through an email-based password recovery process.
+
+Story:
+US-002 Forgot Password
+
+User Story:
+As a user, I want to reset my password so that I can regain access to my account.
+
+Acceptance Criteria:
+- User can click Forgot Password.
+- Reset link is sent to registered email.
+- Link expires after configured duration.
+- User can create a new password.
+
+Tasks:
+- Design Reset Password Screen
+- Develop Reset Password API
+- Email Integration
+- Token Validation
+- QA Testing
+
+====================================================
+SPRINT 03 - AUTHENTICATION SECURITY
+====================================================
+
+Sprint Goal:
+Enhance application security by implementing password policy enforcement and account lockout mechanisms.
+
+Stories:
+US-003 Password Validation
+US-004 Account Lockout
+
+User Story:
+As a user, I want strong password validation so that my account remains secure.
+
+Acceptance Criteria:
+- Minimum 8 characters.
+- At least 1 uppercase letter.
+- At least 1 number.
+- At least 1 special character.
+
+Tasks:
+- Implement Password Validation Rules
+- Frontend Validation Messages
+- Unit Testing
+- QA Testing
+
+User Story:
+As a security administrator, I want accounts locked after multiple failed login attempts so that unauthorized access is prevented.
+
+Acceptance Criteria:
+- Lock account after 5 failed attempts.
+- Display appropriate error message.
+- Allow unlock through password reset.
+
+Tasks:
+- Implement Lockout Logic
+- Audit Logging
+- Security Testing
+
+====================================================
+TPM INTERVIEW ANSWER
+====================================================
+
+During requirement gathering, I work with stakeholders to understand business needs and convert them into Epics and User Stories in Jira. I define acceptance criteria, identify dependencies, collaborate with engineering teams for estimation, and plan delivery across sprints while managing risks and stakeholder expectations.
