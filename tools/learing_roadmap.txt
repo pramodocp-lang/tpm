@@ -1,0 +1,9 @@
+Recommended Learning Order
+1. Jira
+2. Confluence
+3. Excel
+4. Power BI
+5. Microsoft Project
+6. Airtable / Smartsheet
+
+For TPM interviews, Jira + Confluence + Excel are the three most important tools to know well.

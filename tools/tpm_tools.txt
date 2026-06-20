@@ -1,0 +1,170 @@
+TPM TOOLS REFERENCE GUIDE
+
+1. MICROSOFT EXCEL
+Purpose:
+- Project tracking
+- Reporting
+- Resource management
+- Risk tracking
+- Data analysis
+
+Common Uses:
+- Status reports
+- Risk registers
+- Budget tracking
+- Sprint metrics
+- Dashboards
+
+--------------------------------------------------
+
+2. JIRA
+Purpose:
+- Agile project management
+- Sprint planning
+- Backlog management
+
+Common Uses:
+- Create Epics
+- Create User Stories
+- Create Tasks
+- Sprint Planning
+- Sprint Tracking
+- Burndown Charts
+
+--------------------------------------------------
+
+3. CONFLUENCE
+Purpose:
+- Documentation
+- Knowledge management
+
+Common Uses:
+- Requirement documents
+- Meeting notes
+- Project plans
+- Sprint retrospectives
+- Technical documentation
+
+--------------------------------------------------
+
+4. POWER BI
+Purpose:
+- Reporting and dashboards
+
+Common Uses:
+- Executive dashboards
+- KPI tracking
+- Resource utilization reports
+- Sprint analytics
+
+--------------------------------------------------
+
+5. MICROSOFT PROJECT
+Purpose:
+- Project scheduling
+
+Common Uses:
+- Gantt charts
+- Timeline management
+- Dependency tracking
+- Critical path analysis
+
+--------------------------------------------------
+
+6. GOOGLE SHEETS
+Purpose:
+- Cloud-based spreadsheet
+
+Common Uses:
+- Collaborative reporting
+- Resource tracking
+- Project planning
+
+--------------------------------------------------
+
+7. AIRTABLE
+Purpose:
+- Spreadsheet + Database
+
+Common Uses:
+- Project tracking
+- Resource management
+- Workflow tracking
+
+--------------------------------------------------
+
+8. SMARTSHEET
+Purpose:
+- Project management spreadsheet
+
+Common Uses:
+- Gantt charts
+- Project plans
+- Status reporting
+
+--------------------------------------------------
+
+9. SLACK
+Purpose:
+- Team communication
+
+Common Uses:
+- Daily coordination
+- Team discussions
+- Project updates
+
+--------------------------------------------------
+
+10. MICROSOFT TEAMS
+Purpose:
+- Communication and collaboration
+
+Common Uses:
+- Meetings
+- Status updates
+- Team collaboration
+- File sharing
+
+--------------------------------------------------
+
+MOST COMMON TPM TOOL STACK
+
+Project Planning:
+- Jira
+- Microsoft Project
+
+Documentation:
+- Confluence
+
+Reporting:
+- Excel
+- Power BI
+
+Communication:
+- Microsoft Teams
+- Slack
+
+--------------------------------------------------
+
+TPM INTERVIEW ANSWER
+
+Q: What tools have you used as a TPM?
+
+A:
+I have worked with Jira for Agile project management, sprint planning, backlog management, and tracking project delivery. I use Confluence for documentation, requirement management, and knowledge sharing. For reporting and data analysis, I use Microsoft Excel and Power BI to create dashboards, track KPIs, monitor project health, and provide stakeholder updates. For communication and collaboration, I regularly use Microsoft Teams and Slack to coordinate with cross-functional teams and stakeholders.
+
+--------------------------------------------------
+
+TOP 5 TOOLS TO LEARN FOR TPM INTERVIEWS
+
+1. Jira
+2. Confluence
+3. Microsoft Excel
+4. Power BI
+5. Microsoft Project
+
+--------------------------------------------------
+
+KEY BENEFIT
+
+A TPM uses these tools to improve planning, execution, tracking, reporting, communication, risk management, and stakeholder visibility throughout the project lifecycle.

@@ -1,0 +1,268 @@
+=========================================================
+HOW PROJECT TRACKING IS DONE - TPM GUIDE
+=========================================================
+
+1. WHAT IS PROJECT TRACKING?
+
+Project Tracking is the process of monitoring project
+activities and comparing actual progress against the
+planned schedule.
+
+Goal:
+- Deliver on time
+- Deliver within budget
+- Deliver with expected quality
+
+=========================================================
+
+2. STEP 1 - CREATE A PROJECT PLAN
+
+Before tracking begins, create a project plan.
+
+Example:
+
+Task                      Owner        Start      End
+---------------------------------------------------------
+Requirement Gathering     TPM          01-Jun     03-Jun
+UI Design                 Designer     04-Jun     07-Jun
+Development               Developer    08-Jun     15-Jun
+Testing                   QA           16-Jun     20-Jun
+
+This is called the baseline plan.
+
+=========================================================
+
+3. STEP 2 - TRACK TASK STATUS
+
+Update the status of each task regularly.
+
+Example:
+
+Task                      Owner        Status
+---------------------------------------------------------
+Requirement Gathering     TPM          Completed
+UI Design                 Designer     Completed
+Development               Developer    In Progress
+Testing                   QA           Not Started
+
+Status Values:
+- Not Started
+- In Progress
+- Blocked
+- Completed
+
+=========================================================
+
+4. STEP 3 - IDENTIFY DELAYS
+
+Compare planned dates with actual progress.
+
+Example:
+
+Planned Completion:
+Development = 15-Jun
+
+Current Date:
+16-Jun
+
+Actual Status:
+Still In Progress
+
+Result:
+Task is delayed.
+
+TPM Actions:
+- Investigate cause
+- Identify blockers
+- Escalate if needed
+- Update project plan
+- Inform stakeholders
+
+=========================================================
+
+5. STEP 4 - TRACK RISKS
+
+A Risk is a possible future problem.
+
+Examples:
+
+Risk 1:
+Key developer may go on leave.
+
+Risk 2:
+Vendor delivery may be delayed.
+
+Risk Register Example:
+
+Risk ID | Description | Impact | Mitigation
+---------------------------------------------------------
+R1      | Resource Risk | High | Backup Resource
+R2      | Vendor Delay  | Medium | Weekly Follow-up
+
+=========================================================
+
+6. STEP 5 - TRACK ISSUES
+
+An Issue is a problem happening right now.
+
+Examples:
+
+- Environment unavailable
+- Production defect
+- API failure
+
+Issue Log Example:
+
+Issue ID | Description | Owner | Status
+---------------------------------------------------------
+I1       | Server Down | DevOps | Open
+I2       | API Failure | Dev Team | In Progress
+
+=========================================================
+
+7. STEP 6 - TRACK DEPENDENCIES
+
+Dependencies are tasks that rely on other tasks.
+
+Example:
+
+Task:
+Testing
+
+Dependency:
+Development must be completed first.
+
+Without dependency tracking,
+the project timeline can slip.
+
+=========================================================
+
+8. STEP 7 - CONDUCT STATUS MEETINGS
+
+Typical Daily or Weekly Questions:
+
+1. What was completed?
+2. What is in progress?
+3. What is blocked?
+4. Any risks?
+5. Any issues?
+6. Any dependencies?
+7. Any support needed?
+
+Purpose:
+- Gather updates
+- Resolve blockers
+- Improve visibility
+
+=========================================================
+
+9. STEP 8 - MEASURE PROJECT PROGRESS
+
+Example:
+
+Total Tasks = 20
+Completed Tasks = 12
+
+Formula:
+
+Completion Percentage =
+(Completed Tasks / Total Tasks) x 100
+
+Calculation:
+
+(12 / 20) x 100 = 60%
+
+Project Completion = 60%
+
+=========================================================
+
+10. STEP 9 - PREPARE STATUS REPORT
+
+Example Weekly Report
+
+Project:
+Educational CRM System
+
+Status:
+GREEN
+
+Completed:
+- Requirement Gathering
+- UI Design
+
+In Progress:
+- API Development
+- Lead Management
+
+Risks:
+- Resource Availability
+
+Issues:
+- None
+
+Overall Completion:
+60%
+
+=========================================================
+
+11. TOOLS USED FOR PROJECT TRACKING
+
+Primary Tools:
+
+- Jira
+- Confluence
+- Microsoft Excel
+- Microsoft Project
+- Power BI
+
+=========================================================
+
+12. TPM RESPONSIBILITIES
+
+Daily:
+- Review Jira Board
+- Check Sprint Progress
+- Monitor Blockers
+- Follow Up with Owners
+
+Weekly:
+- Update Dashboard
+- Review Risks
+- Review Issues
+- Send Stakeholder Report
+
+Monthly:
+- Track Milestones
+- Measure KPIs
+- Review Project Health
+
+=========================================================
+
+13. TPM INTERVIEW ANSWER
+
+Q: How do you track project progress?
+
+Answer:
+
+I track project progress by maintaining a project plan,
+monitoring task completion, reviewing risks and issues,
+tracking dependencies, and measuring progress against
+milestones. I use Jira for sprint tracking and Excel
+dashboards for reporting. Regular status meetings help
+identify blockers early and keep stakeholders informed.
+
+=========================================================
+
+KEY TAKEAWAY
+
+Project Tracking =
+Plan Work
++ Track Progress
++ Monitor Risks
++ Resolve Issues
++ Manage Dependencies
++ Report Status
+
+=========================================================
+END OF DOCUMENT
+=========================================================

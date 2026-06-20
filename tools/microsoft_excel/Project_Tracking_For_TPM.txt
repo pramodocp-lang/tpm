@@ -1,0 +1,164 @@
+=========================================================
+PROJECT TRACKING FOR TPM
+=========================================================
+
+1. WHAT IS PROJECT TRACKING?
+
+Project Tracking is the process of monitoring project
+progress against the planned schedule, scope, and goals.
+
+The objective is to ensure that the project is delivered:
+
+- On Time
+- Within Budget
+- With Expected Quality
+
+---------------------------------------------------------
+
+2. WHY IS PROJECT TRACKING IMPORTANT?
+
+Project tracking helps a TPM:
+
+- Monitor progress
+- Identify delays early
+- Track dependencies
+- Manage risks and issues
+- Improve team accountability
+- Provide stakeholder visibility
+
+---------------------------------------------------------
+
+3. PROJECT TRACKING COMPONENTS
+
+A. Tasks
+Individual work items.
+
+Examples:
+- Design Login Page
+- Develop Login API
+- Test Login Feature
+
+B. Owner
+Person responsible for completing the task.
+
+Examples:
+- Developer
+- QA Engineer
+- Designer
+
+C. Start Date
+Date when work begins.
+
+D. End Date
+Expected completion date.
+
+E. Status
+Current progress of the task.
+
+Examples:
+- Not Started
+- In Progress
+- Blocked
+- Completed
+
+---------------------------------------------------------
+
+4. PROJECT TRACKER TEMPLATE
+
+Task ID | Task Name | Owner | Start Date | End Date | Status
+--------------------------------------------------------------------
+T1 | Requirement Gathering | TPM | 01-Jun | 03-Jun | Completed
+T2 | UI Design | Designer | 04-Jun | 07-Jun | Completed
+T3 | API Development | Developer | 08-Jun | 15-Jun | In Progress
+T4 | Testing | QA | 16-Jun | 20-Jun | Not Started
+
+---------------------------------------------------------
+
+5. STATUS DEFINITIONS
+
+Not Started
+- Work has not begun.
+
+In Progress
+- Work is actively being performed.
+
+Blocked
+- Progress cannot continue due to dependency or issue.
+
+Completed
+- Task has been finished successfully.
+
+---------------------------------------------------------
+
+6. RED FLAGS TO TRACK
+
+- Missed deadlines
+- Blocked tasks
+- Resource shortages
+- Scope changes
+- High-risk items
+- Unresolved defects
+
+---------------------------------------------------------
+
+7. WEEKLY TPM REVIEW
+
+Review the following:
+
+1. Completed Tasks
+2. Upcoming Tasks
+3. Delayed Tasks
+4. Risks
+5. Issues
+6. Dependencies
+7. Resource Availability
+
+---------------------------------------------------------
+
+8. SAMPLE PROJECT DASHBOARD
+
+Project Name : Educational CRM System
+
+Total Tasks      : 50
+Completed Tasks  : 35
+In Progress      : 10
+Not Started      : 5
+
+Completion Rate  : 70%
+
+Open Risks       : 3
+Open Issues      : 2
+
+Project Status   : GREEN
+
+---------------------------------------------------------
+
+9. TPM INTERVIEW QUESTION
+
+Q: How do you track project progress?
+
+Answer:
+
+I track project progress using project trackers and Agile
+tools such as Jira. I monitor task completion, sprint
+progress, risks, issues, dependencies, and resource
+utilization. I regularly review project status with the
+team and provide updates to stakeholders through reports
+and dashboards.
+
+---------------------------------------------------------
+
+10. KEY METRICS
+
+- % Completion
+- Tasks Completed
+- Tasks Delayed
+- Open Risks
+- Open Issues
+- Sprint Velocity
+- Defect Count
+- Resource Utilization
+
+=========================================================
+END OF PROJECT TRACKING
+=========================================================

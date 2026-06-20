@@ -1,0 +1,187 @@
+=========================================================
+MICROSOFT EXCEL FOR TPM - LESSON 1
+=========================================================
+
+1. WHAT IS MICROSOFT EXCEL?
+
+Microsoft Excel is a spreadsheet application used to organize,
+analyze, track, and report data.
+
+As a Technical Project Manager (TPM), Excel is commonly used for:
+
+- Project Tracking
+- Sprint Tracking
+- Risk Management
+- Resource Planning
+- Budget Tracking
+- Status Reporting
+- Dashboard Creation
+
+---------------------------------------------------------
+
+2. WHY TPMS USE EXCEL
+
+Imagine you are managing a project with:
+
+- 5 Developers
+- 2 QA Engineers
+- 1 Designer
+- 1 Product Manager
+
+You need to track tasks, owners, and status.
+
+Example:
+
+Task             Owner        Status
+------------------------------------------------
+Login API        Dev 1        In Progress
+UI Design        Designer     Done
+Testing          QA 1         Not Started
+
+Excel helps keep all project information organized
+in a single place.
+
+---------------------------------------------------------
+
+3. BASIC EXCEL STRUCTURE
+
+Rows:
+Horizontal lines in Excel.
+
+Example:
+
+Row 1
+Row 2
+Row 3
+
+Columns:
+Vertical lines in Excel.
+
+Example:
+
+A   B   C   D
+
+Cells:
+Intersection of a row and column.
+
+Examples:
+
+A1
+B2
+C5
+
+---------------------------------------------------------
+
+4. SAMPLE EXCEL SHEET
+
+A           B           C
+---------------------------------
+Task        Owner       Status
+Login API   John        Done
+
+Cell References:
+
+A1 = Task
+B1 = Owner
+C1 = Status
+
+---------------------------------------------------------
+
+5. TPM PROJECT TRACKER TEMPLATE
+
+Task ID | Task Name | Owner | Start Date | End Date | Status
+------------------------------------------------------------------
+T1      | Login API | Dev 1 | 01-Jun     | 05-Jun   | Done
+T2      | UI Design | Design| 02-Jun     | 06-Jun   | In Progress
+T3      | Testing   | QA 1  | 07-Jun     | 09-Jun   | Not Started
+
+Purpose:
+- Track project progress
+- Monitor task ownership
+- Identify delays
+- Share status with stakeholders
+
+---------------------------------------------------------
+
+6. SORTING DATA
+
+Sort allows you to arrange data.
+
+Examples:
+
+A to Z
+Z to A
+
+Sort By:
+- Owner
+- Status
+- Due Date
+- Priority
+
+Benefits:
+- Easier reporting
+- Faster status reviews
+
+---------------------------------------------------------
+
+7. FILTERING DATA
+
+Filters allow you to display specific records.
+
+Examples:
+
+Status = In Progress
+
+Owner = QA Team
+
+Priority = High
+
+Benefits:
+- Quickly find information
+- Review team-specific work
+- Prepare status updates
+
+---------------------------------------------------------
+
+8. TPM USE CASES FOR EXCEL
+
+1. Project Tracking
+2. Sprint Tracking
+3. Risk Register
+4. Issue Log
+5. Resource Allocation
+6. Budget Tracking
+7. Stakeholder Reporting
+8. Dashboard Creation
+9. Defect Tracking
+10. Dependency Tracking
+
+---------------------------------------------------------
+
+9. TPM INTERVIEW QUESTION
+
+Q: Why do TPMs use Excel?
+
+Answer:
+
+TPMs use Excel to track project progress, manage risks
+and issues, monitor resource allocation, create reports,
+analyze project data, and provide stakeholders with
+project status updates through dashboards and metrics.
+
+---------------------------------------------------------
+
+10. KEY TAKEAWAYS
+
+- Excel is a core TPM tool.
+- Used for planning, tracking, and reporting.
+- Helps manage tasks, risks, budgets, and resources.
+- Commonly used alongside Jira and Confluence.
+- Strong Excel skills are valuable in TPM interviews.
+
+=========================================================
+END OF LESSON 1
+NEXT LESSON:
+ESSENTIAL EXCEL FORMULAS FOR TPM
+(SUM, COUNT, COUNTIF, IF, VLOOKUP, XLOOKUP)
+=========================================================

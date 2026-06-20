@@ -1,0 +1,49 @@
+CROSS-FUNCTIONAL TEAM VS STAKEHOLDERS
+
+1. Cross-functional Team:
+Cross-functional teams are groups of people from different roles such as developers, QA, 
+designers, DevOps, and product managers who directly work together to build and deliver a product or feature. 
+They are responsible for execution, development, testing, and release.
+
+
+Example:
+- Developers
+- QA Engineers
+- UI/UX Designers
+- DevOps Engineers
+- Product Managers
+- TPM / Project Manager
+
+Key Point:
+They are directly involved in daily execution and delivery of work.
+
+------------------------------------------------------------
+
+2. Stakeholders:
+Stakeholders are individuals or groups who have an interest in the project or are impacted by it. 
+They do not work on daily execution but influence decisions, provide requirements, and give feedback.
+
+Example:
+- Business Leaders / Executives
+- Customers / End Users
+- Sales & Marketing Teams
+- Finance Team
+- Legal / Compliance Team
+- Support / Customer Success
+
+Key Point:
+They influence the project but are not part of daily execution.
+
+------------------------------------------------------------
+
+3. Key Difference:
+
+Cross-functional Team → Builds and delivers the product (Execution)
+Stakeholders → Guide, approve, and influence the product (Decision & Feedback)
+
+------------------------------------------------------------
+
+4. TPM Perspective:
+As a Technical Project Manager, I coordinate with cross-functional teams 
+for execution and align with stakeholders for requirements, priorities, 
+and approvals to ensure smooth, predictable, and high-quality delivery.

@@ -1,0 +1,132 @@
+Agile Hierarchy: Sprint → Epic → Story → Task
+
+Sprint
+ ├── Epic
+ │    ├── User Story
+ │    │    ├── Task
+ │    │    ├── Task
+ │    │    └── Task
+ │    └── User Story
+ └── Epic
+
+--------------------------------------------------
+
+1. Sprint
+
+Definition:
+A Sprint is a fixed time period (usually 1–2 weeks) during which the team completes planned work.
+
+Example:
+Sprint Name: Sprint 1 – Student Registration
+Duration: 2 Weeks
+Goal: Enable student onboarding process
+
+Interview Answer:
+A sprint is a time-boxed iteration where the team delivers a set of committed user stories to achieve a specific business goal.
+
+--------------------------------------------------
+
+2. Epic
+
+Definition:
+An Epic is a large feature or business objective that cannot usually be completed in a single sprint.
+
+Example:
+Epic: Student Registration Management
+
+Interview Answer:
+An epic is a large body of work that is broken down into multiple user stories for implementation across one or more sprints.
+
+--------------------------------------------------
+
+3. User Story
+
+Definition:
+A User Story describes a requirement from the user's perspective.
+
+Format:
+As a <user>,
+I want <functionality>,
+So that <benefit>.
+
+Example:
+As a student,
+I want to register online,
+So that I can enroll in courses.
+
+Interview Answer:
+A user story captures a functional requirement from the end user's perspective and represents a deliverable piece of value.
+
+--------------------------------------------------
+
+4. Task
+
+Definition:
+A Task is the actual technical work needed to complete a story.
+
+Examples:
+Design registration form UI
+Create registration API
+Develop database table
+Implement validation rules
+Write test cases
+Deploy to staging
+
+Interview Answer:
+Tasks are implementation-level activities assigned to team members to complete a user story.
+
+--------------------------------------------------
+
+Real Jira Example
+
+Sprint 1: Student Registration
+
+Epic:
+Student Registration Management
+
+User Story 1:
+As a student,
+I want to create an account,
+So that I can access the portal.
+
+Tasks:
+Create signup page
+Develop registration API
+Create user table
+Write unit tests
+
+User Story 2:
+As a student,
+I want email verification,
+So that my account is secure.
+
+Tasks:
+Generate OTP
+Send verification email
+Validate OTP
+Write test cases
+
+--------------------------------------------------
+
+Interview Question
+
+Q: What is the difference between Epic, Story, Task, and Sprint?
+
+Answer:
+
+Epic = Large feature or business objective
+
+Story = User requirement within the Epic
+
+Task = Technical work required to complete the Story
+
+Sprint = Time-box in which Stories and Tasks are completed
+
+--------------------------------------------------
+
+Memory Trick
+
+Sprint = When
+Epic = What (Big Feature)
+Story = What (User Need)
+Task = How (Implementation Work)
