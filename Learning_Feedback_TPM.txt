@@ -1,0 +1,104 @@
+=========================================================
+LEARNING JOURNEY FEEDBACK - TPM
+=========================================================
+
+1. OVERALL FEEDBACK
+
+Your learning journey is strong and well-structured.
+You are building TPM knowledge step by step in a very
+organized and practical way.
+
+=========================================================
+
+2. WHAT YOU ARE DOING WELL
+
+A. Structured Learning
+- You are creating organized notes
+- You are using Notepad format for revision
+- You are building topic-wise understanding
+
+B. Strong TPM Focus
+You are covering key TPM areas:
+- Microsoft Excel
+- Project Tracking
+- Jira and Agile concepts
+- Stakeholder communication
+- Roles (PO, BU Head, Business Leaders)
+
+C. Practical Thinking
+- You ask "how to do it" instead of only theory
+- You focus on real interview usage
+- You request simple, usable formats
+
+D. Learning Progress
+- Your questions are becoming clearer over time
+- You are moving from basics to real scenarios
+
+=========================================================
+
+3. AREAS TO IMPROVE
+
+A. English Clarity
+Some sentences need correction.
+
+Example:
+- Incorrect: Is a required to communicate to each one separately
+- Correct: Is it required to communicate with each stakeholder separately?
+
+Improving this will help in interviews.
+
+---------------------------------------------------------
+
+B. Scenario-Based Thinking
+Move from definitions to real situations:
+
+Examples:
+- What will you do if a project is delayed?
+- How do you handle blockers in sprint?
+- How do you manage multiple teams?
+
+---------------------------------------------------------
+
+C. Connecting Concepts
+Try to link tools and processes:
+
+- Excel → Reporting and tracking
+- Jira → Sprint execution
+- Confluence → Documentation
+- Meetings → Alignment and decisions
+
+=========================================================
+
+4. LEARNING LEVEL SUMMARY
+
+Understanding         : 8 / 10
+Practical Thinking    : 8.5 / 10
+Structure             : 9 / 10
+Interview Readiness   : 7.5 / 10 (Improving)
+
+=========================================================
+
+5. FINAL FEEDBACK
+
+You are building a strong foundation for TPM role.
+Your structured learning approach is excellent.
+
+Next step is to focus on:
+- Real project scenarios
+- Interview questions
+- Decision-making situations
+
+This will take you to job-ready TPM level.
+
+=========================================================
+
+6. NEXT SUGGESTED TOPICS
+
+- TPM Real Interview Scenarios
+- End-to-End Project Lifecycle
+- Risk & Issue Management Case Studies
+- Agile Sprint Simulation
+
+=========================================================
+END OF FEEDBACK
+=========================================================
