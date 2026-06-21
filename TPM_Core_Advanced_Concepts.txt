@@ -1,0 +1,150 @@
+=========================================================
+TPM CORE ADVANCED CONCEPTS (INTERVIEW CRITICAL)
+=========================================================
+
+1. DEPENDENCY MANAGEMENT
+
+What is it?
+Dependency management is tracking relationships between
+tasks, teams, and systems where one work item depends on
+another.
+
+Example:
+- QA testing depends on development completion
+- UI depends on design approval
+- Backend depends on API integration
+
+TPM ROLE:
+- Identify dependencies early
+- Track them in Jira/Excel
+- Ensure no idle time between teams
+- Escalate delays immediately
+
+=========================================================
+
+2. RISK MANAGEMENT
+
+What is it?
+Risk is a potential future problem that may impact the project.
+
+Types of risks:
+- Resource risk (people unavailability)
+- Technical risk (system complexity)
+- Schedule risk (delay possibility)
+- External risk (vendor/API delay)
+
+TPM ROLE:
+- Maintain risk register
+- Define mitigation plan
+- Track risk status weekly
+- Escalate high-impact risks
+
+=========================================================
+
+3. ISSUE MANAGEMENT
+
+What is it?
+Issue is a problem that is happening RIGHT NOW.
+
+Examples:
+- Production bug
+- API failure
+- Environment downtime
+
+TPM ROLE:
+- Assign owner
+- Track resolution
+- Ensure closure
+- Communicate impact
+
+=========================================================
+
+4. CHANGE MANAGEMENT (SCOPE CHANGE)
+
+What is it?
+Change management handles modifications in project scope
+after planning has started.
+
+Examples:
+- New feature request
+- Priority change
+- Requirement update
+
+TPM ROLE:
+- Analyze impact on timeline
+- Evaluate resource impact
+- Get approval from Product Owner / Business
+- Update Jira and plan
+
+RULE:
+No change without impact analysis.
+
+=========================================================
+
+5. STAKEHOLDER MANAGEMENT STRATEGY
+
+Key stakeholders:
+- Product Owner
+- Business Unit Head
+- Engineering Team
+- QA Team
+- Business Leaders
+
+TPM APPROACH:
+
+A. Identify stakeholders
+B. Understand their expectations
+C. Define communication frequency
+D. Provide right level of detail
+
+Communication levels:
+- Executives → High-level status only
+- Product Owner → Feature + sprint level
+- Teams → Task-level details
+
+=========================================================
+
+6. RAID LOG (VERY IMPORTANT TPM TOOL)
+
+RAID = Risks, Assumptions, Issues, Dependencies
+
+Used to track all critical project factors in one place.
+
+Structure:
+
+R - Risks
+A - Assumptions
+I - Issues
+D - Dependencies
+
+TPM ROLE:
+- Maintain RAID log in Excel or Confluence
+- Update weekly
+- Review in status meetings
+
+=========================================================
+
+7. TPM INTERVIEW ANSWER
+
+Q: What is RAID in TPM?
+
+Answer:
+
+RAID stands for Risks, Assumptions, Issues, and Dependencies.
+It is a key project management tool used to track all critical
+factors affecting project delivery. As a TPM, I maintain and
+update RAID regularly to ensure risks are mitigated, issues
+are resolved, dependencies are tracked, and assumptions are
+validated.
+
+=========================================================
+
+8. ONE-LINE SUMMARY
+
+Advanced TPM work focuses on managing dependencies, risks,
+issues, changes, and stakeholders using structured tracking
+tools like RAID.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

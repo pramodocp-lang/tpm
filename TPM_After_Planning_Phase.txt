@@ -1,0 +1,181 @@
+=========================================================
+TPM AFTER PLANNING PHASE (EXECUTION STARTS)
+=========================================================
+
+1. WHAT IS AFTER PLANNING PHASE?
+
+After planning, the project moves into execution where
+actual development, testing, and delivery work begins.
+
+Goal:
+- Execute planned work
+- Track progress
+- Manage risks and issues
+- Ensure on-time delivery
+
+=========================================================
+
+2. TPM ROLE AFTER PLANNING
+
+A TPM shifts from "planning owner" to "execution driver".
+
+Key responsibilities:
+
+1. Start sprint execution
+2. Track daily progress
+3. Manage dependencies
+4. Resolve blockers
+5. Monitor risks and issues
+6. Communicate with stakeholders
+7. Ensure delivery alignment
+
+=========================================================
+
+3. SPRINT EXECUTION START
+
+TPM ensures:
+
+- Sprint goals are clear
+- Tasks are assigned
+- Teams are aligned
+- Capacity is confirmed
+
+Example:
+Sprint 1 Goal = Login Module + User Registration
+
+=========================================================
+
+4. DAILY TRACKING (VERY IMPORTANT)
+
+TPM monitors daily:
+
+- What is completed?
+- What is in progress?
+- What is blocked?
+
+Tools:
+- Jira board
+- Daily stand-ups
+- Team updates
+
+=========================================================
+
+5. BLOCKER MANAGEMENT
+
+Common blockers:
+
+- API not ready
+- Environment issues
+- Dependency delays
+- Resource unavailability
+
+TPM ACTION:
+
+- Identify blocker early
+- Coordinate with teams
+- Escalate if needed
+- Remove dependency roadblocks
+
+=========================================================
+
+6. RISK & ISSUE MANAGEMENT
+
+TPM continuously tracks:
+
+RISKS (future problems):
+- Resource may go on leave
+- Vendor delay expected
+
+ISSUES (current problems):
+- Server down
+- Feature broken in testing
+
+=========================================================
+
+7. DEPENDENCY MANAGEMENT
+
+Example:
+
+Task: QA Testing
+Depends on: Development completion
+
+TPM ensures:
+- Dependencies are tracked in Jira
+- No idle time between teams
+- Work flows smoothly
+
+=========================================================
+
+8. STAKEHOLDER COMMUNICATION
+
+TPM updates:
+
+A. Product Owner
+- Sprint progress
+- Feature completion
+
+B. Business Leaders
+- Project health (Green/Yellow/Red)
+- Risks & delays
+
+C. Teams
+- Daily coordination
+- Priority alignment
+
+=========================================================
+
+9. STATUS REPORTING
+
+Weekly Report Includes:
+
+- Completed tasks
+- In-progress tasks
+- Blocked tasks
+- Risks
+- Issues
+- Next steps
+
+Example:
+
+Project Status: GREEN
+Progress: 60%
+Risks: 2
+Issues: 1
+
+=========================================================
+
+10. METRICS TRACKED
+
+- Sprint velocity
+- Completion %
+- Defect count
+- Blocker count
+- Cycle time
+
+=========================================================
+
+11. TPM INTERVIEW ANSWER
+
+Q: What do you do after planning phase?
+
+Answer:
+
+After the planning phase, I focus on execution and tracking.
+I ensure sprint execution starts smoothly, monitor daily
+progress through Jira, manage risks and dependencies, and
+resolve blockers. I coordinate between development, QA,
+and product teams while providing regular updates to
+stakeholders. My goal is to ensure timely and predictable
+delivery.
+
+=========================================================
+
+12. ONE-LINE SUMMARY
+
+After planning, TPM ensures execution, tracking, risk
+management, dependency handling, and continuous
+stakeholder communication.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

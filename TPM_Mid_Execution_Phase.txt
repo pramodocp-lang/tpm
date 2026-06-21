@@ -1,0 +1,193 @@
+=========================================================
+TPM MID EXECUTION PHASE (CONTROL & ADJUSTMENT STAGE)
+=========================================================
+
+1. WHAT IS MID EXECUTION PHASE?
+
+Mid Execution is the stage where the project is already
+in progress and TPM focuses on control, correction,
+and acceleration.
+
+Goal:
+- Ensure sprint is on track
+- Fix deviations early
+- Manage risks actively
+- Improve delivery flow
+
+=========================================================
+
+2. TPM ROLE IN MID EXECUTION
+
+TPM becomes a control tower.
+
+Key responsibilities:
+
+1. Track sprint progress closely
+2. Identify delays early
+3. Manage blockers actively
+4. Rebalance resources if needed
+5. Handle escalations
+6. Update stakeholders frequently
+7. Ensure delivery stability
+
+=========================================================
+
+3. PROGRESS MONITORING
+
+TPM checks:
+
+- Planned vs Actual progress
+- Story completion rate
+- Sprint burn-down trend
+
+Example:
+
+Planned Completion: 70%
+Actual Completion: 55%
+
+Action:
+Investigate delay immediately
+
+=========================================================
+
+4. DELAY MANAGEMENT
+
+Common causes:
+
+- Underestimated tasks
+- Dependency delays
+- Resource bottlenecks
+- Technical issues
+
+TPM ACTION:
+
+- Re-prioritize tasks
+- Add additional resources if possible
+- Remove non-critical scope
+- Escalate blockers
+
+=========================================================
+
+5. BLOCKER HANDLING (CRITICAL)
+
+Types of blockers:
+
+A. Technical blocker
+- API failure
+- Code integration issue
+
+B. Process blocker
+- Approval pending
+- Requirement unclear
+
+C. Resource blocker
+- Developer unavailable
+
+TPM ACTION:
+- Assign owner
+- Escalate if needed
+- Track until resolved
+
+=========================================================
+
+6. SCOPE CONTROL
+
+Mid execution is where scope creep may happen.
+
+TPM ensures:
+- No new requirements added without approval
+- Changes go through proper process
+- Impact is clearly communicated
+
+=========================================================
+
+7. RESOURCE ADJUSTMENT
+
+TPM may:
+
+- Shift developers between tasks
+- Add QA support
+- Adjust workload distribution
+
+Goal:
+Balance team capacity for smooth delivery
+
+=========================================================
+
+8. STAKEHOLDER COMMUNICATION
+
+TPM updates stakeholders more frequently:
+
+Product Owner:
+- Sprint progress
+- Feature completion status
+
+Business Leaders:
+- Delivery risk updates
+- Timeline impact
+
+Teams:
+- Priority changes
+- Blocker resolution updates
+
+=========================================================
+
+9. RISK MANAGEMENT
+
+Risks are actively monitored:
+
+Examples:
+- Sprint may miss deadline
+- Integration may fail
+- Dependency delay
+
+TPM ACTION:
+- Update risk register
+- Define mitigation steps
+- Escalate if required
+
+=========================================================
+
+10. STATUS REPORTING
+
+Mid sprint report includes:
+
+- Current progress
+- Deviations from plan
+- Blockers
+- Risks
+- Adjustments made
+
+Example:
+
+Status: YELLOW
+Progress: 55%
+Delay: 2 days
+Risks: 3
+Issues: 2
+
+=========================================================
+
+11. TPM INTERVIEW ANSWER
+
+Q: What do you do in mid execution phase?
+
+Answer:
+
+In mid execution, I closely monitor sprint progress,
+identify delays early, and manage blockers, risks, and
+dependencies proactively. I ensure scope is controlled,
+resources are balanced, and stakeholders are updated
+frequently. My focus is to bring the sprint back on track
+if there are any deviations from the plan.
+
+=========================================================
+
+12. ONE-LINE SUMMARY
+
+Mid execution is about monitoring progress, fixing issues,
+managing risks, and ensuring the project stays on track.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

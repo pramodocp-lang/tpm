@@ -1,0 +1,190 @@
+=========================================================
+TPM EXECUTION PHASE (WORK STARTS)
+=========================================================
+
+1. WHAT IS EXECUTION PHASE?
+
+Execution phase is when actual project work starts.
+
+Goal:
+- Deliver planned features
+- Track progress daily
+- Manage teams and dependencies
+- Ensure sprint goals are achieved
+
+=========================================================
+
+2. TPM ROLE DURING EXECUTION
+
+TPM becomes execution driver and coordinator.
+
+Key responsibilities:
+
+1. Monitor daily progress
+2. Run stand-ups coordination
+3. Track Jira board
+4. Remove blockers
+5. Manage dependencies
+6. Handle risks and issues
+7. Communicate with stakeholders
+8. Ensure sprint goals are met
+
+=========================================================
+
+3. DAILY EXECUTION MONITORING
+
+TPM checks daily:
+
+- What is completed?
+- What is in progress?
+- What is blocked?
+
+Tools:
+- Jira board
+- Stand-up meetings
+- Team updates
+
+Example:
+
+Task        Status
+-------------------------
+Login API   In Progress
+UI Design   Completed
+Testing     Blocked
+
+=========================================================
+
+4. BLOCKER MANAGEMENT
+
+Common blockers:
+
+- API not ready
+- Environment issues
+- Missing dependencies
+- Resource availability issues
+
+TPM ACTIONS:
+
+- Identify blocker early
+- Coordinate with teams
+- Escalate if needed
+- Ensure quick resolution
+
+=========================================================
+
+5. DEPENDENCY MANAGEMENT
+
+Example:
+
+QA Testing depends on Development completion
+
+TPM ensures:
+- No idle time between teams
+- Smooth handoffs
+- Clear ownership of dependencies
+
+=========================================================
+
+6. RISK & ISSUE MANAGEMENT
+
+RISKS (future problems):
+- Resource may go on leave
+- Vendor delay expected
+
+ISSUES (current problems):
+- Production bug
+- Environment failure
+
+TPM ACTION:
+- Track in Jira/Excel
+- Assign owner
+- Follow until closure
+
+=========================================================
+
+7. SPRINT MANAGEMENT
+
+TPM ensures:
+
+- Sprint goals are clear
+- Work is distributed properly
+- Capacity is not overloaded
+- Sprint is tracked daily
+
+Example Sprint Goal:
+"Complete Login + Registration Module"
+
+=========================================================
+
+8. STAKEHOLDER COMMUNICATION
+
+TPM communicates with:
+
+Product Owner:
+- Sprint progress
+- Feature completion
+
+Business Leaders:
+- Project health (Green/Yellow/Red)
+- Risks and delays
+
+Teams:
+- Daily coordination
+- Priority alignment
+
+=========================================================
+
+9. STATUS REPORTING
+
+Weekly Report Includes:
+
+- Completed work
+- In-progress work
+- Blockers
+- Risks
+- Issues
+- Next steps
+
+Example:
+
+Status: GREEN
+Progress: 65%
+Risks: 2
+Issues: 1
+
+=========================================================
+
+10. METRICS TRACKED DURING EXECUTION
+
+- Sprint velocity
+- Completion percentage
+- Defect count
+- Blockers count
+- Cycle time
+- Team capacity utilization
+
+=========================================================
+
+11. TPM INTERVIEW ANSWER
+
+Q: What do you do during execution phase?
+
+Answer:
+
+During execution, I monitor daily progress using Jira,
+conduct stand-ups, manage risks and dependencies, and
+ensure blockers are resolved quickly. I coordinate between
+development, QA, and product teams to ensure sprint goals
+are achieved. I also provide regular status updates to
+stakeholders and ensure smooth delivery.
+
+=========================================================
+
+12. ONE-LINE SUMMARY
+
+During execution, TPM tracks progress, removes blockers,
+manages dependencies, and ensures sprint delivery success.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

@@ -1,0 +1,191 @@
+=========================================================
+TPM DURING PLANNING PHASE
+=========================================================
+
+1. WHAT IS PLANNING PHASE?
+
+The Planning Phase is the stage where the TPM defines
+HOW the project will be executed before actual development starts.
+
+Goal:
+- Define scope
+- Create roadmap
+- Set timelines
+- Identify risks
+- Align stakeholders
+
+=========================================================
+
+2. TPM RESPONSIBILITIES IN PLANNING
+
+A TPM plays a key role in structuring the project.
+
+Main responsibilities:
+
+1. Understand business requirements
+2. Define project scope
+3. Identify stakeholders
+4. Break down work into epics and milestones
+5. Create project timeline
+6. Identify dependencies
+7. Identify risks early
+8. Decide tracking tools (Jira, Excel, etc.)
+9. Align all teams before execution
+
+=========================================================
+
+3. REQUIREMENTS UNDERSTANDING
+
+TPM works with:
+- Product Owner
+- Business Unit Head
+- Business Analysts
+
+Activities:
+- Clarify requirements
+- Resolve ambiguity
+- Define success criteria
+
+Output:
+- Clear requirement document
+
+=========================================================
+
+4. SCOPE DEFINITION
+
+TPM ensures clarity on:
+
+IN SCOPE:
+- Features to be built
+- Modules included
+
+OUT OF SCOPE:
+- Features not included
+- Future enhancements
+
+=========================================================
+
+5. PROJECT BREAKDOWN
+
+TPM breaks work into:
+
+- Epics
+- User Stories
+- Tasks
+
+Example:
+
+Epic:
+- Student Management System
+
+Stories:
+- Add Student
+- Edit Student
+- Delete Student
+
+=========================================================
+
+6. TIMELINE & ROADMAP
+
+TPM creates:
+
+- Sprint plan
+- Release plan
+- Milestone plan
+
+Example:
+
+Sprint 1 → Login Module
+Sprint 2 → Lead Management
+Sprint 3 → Reporting Dashboard
+
+=========================================================
+
+7. RESOURCE PLANNING
+
+TPM coordinates:
+
+- Developers
+- QA Engineers
+- Designers
+- DevOps
+
+Activities:
+- Check availability
+- Assign responsibilities
+- Balance workload
+
+=========================================================
+
+8. RISK IDENTIFICATION
+
+TPM identifies early risks:
+
+Examples:
+- Resource unavailability
+- Technical complexity
+- Dependency delays
+- External vendor delays
+
+Risk Output:
+- Risk register
+
+=========================================================
+
+9. DEPENDENCY MAPPING
+
+TPM tracks dependencies:
+
+Example:
+- QA depends on Development
+- UI depends on Design approval
+
+=========================================================
+
+10. TOOLS USED IN PLANNING
+
+- Jira → Work breakdown
+- Confluence → Documentation
+- Excel → Planning & tracking
+- Whiteboards → Architecture discussions
+
+=========================================================
+
+11. OUTPUT OF PLANNING PHASE
+
+Final deliverables:
+
+- Project plan
+- Sprint roadmap
+- Risk register
+- Dependency list
+- Stakeholder alignment
+- Jira setup
+
+=========================================================
+
+12. TPM INTERVIEW ANSWER
+
+Q: What do you do during the planning phase?
+
+Answer:
+
+During the planning phase, I work with stakeholders to
+understand requirements, define scope, and break down
+the work into epics and user stories. I create a project
+roadmap with sprint and milestone planning, identify risks
+and dependencies, and ensure resource availability. I also
+set up tracking tools like Jira and align all teams before
+execution begins.
+
+=========================================================
+
+13. ONE-LINE SUMMARY
+
+TPM planning phase focuses on defining scope, breaking work,
+creating roadmap, identifying risks, and aligning all teams
+before execution starts.
+
+=========================================================
+END OF DOCUMENT
+=========================================================
