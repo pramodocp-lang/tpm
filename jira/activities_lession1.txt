@@ -1,0 +1,160 @@
+========================================
+WHERE DO YOU DO THESE ACTIVITIES IN JIRA?
+========================================
+
+1. CREATE PROJECT
+----------------------------------------
+Home → Projects → Create Project
+
+Used by:
+- TPM
+- Project Manager
+- Jira Admin
+
+========================================
+
+2. CREATE EPIC
+----------------------------------------
+Project → Backlog → Epic Panel → Create Epic
+
+Example:
+Epic Name:
+Student Counseling Module
+
+========================================
+
+3. CREATE USER STORY
+----------------------------------------
+Project → Backlog → Create Issue
+
+Issue Type:
+Story
+
+Example:
+As a student, I want to book a counseling
+session so that I can get guidance.
+
+========================================
+
+4. CREATE TASK
+----------------------------------------
+Open Story → Create Child Issue
+
+Issue Type:
+Task
+
+Examples:
+- Design UI
+- Develop API
+- Create Database
+- Write Test Cases
+
+========================================
+
+5. CREATE SUB-TASK
+----------------------------------------
+Open Task → More Actions → Create Sub-task
+
+Examples:
+Task:
+Develop API
+
+Sub-tasks:
+- Create Endpoint
+- Validate Request
+- Unit Testing
+
+========================================
+
+6. SPRINT PLANNING
+----------------------------------------
+Project → Backlog
+
+Activities:
+- Select Stories
+- Estimate Work
+- Prioritize Items
+- Create Sprint
+- Start Sprint
+
+========================================
+
+7. DAILY TRACKING
+----------------------------------------
+Project → Board
+
+Columns typically:
+To Do
+In Progress
+Testing
+Done
+
+TPM checks:
+- Progress
+- Blockers
+- Delays
+
+========================================
+
+8. ASSIGN WORK
+----------------------------------------
+Open Issue → Assignee Field
+
+Assign to:
+- Developer
+- QA
+- Designer
+- DevOps
+
+========================================
+
+9. TRACK BUGS
+----------------------------------------
+Create Issue → Issue Type = Bug
+
+Example:
+Login page crashes on invalid input
+
+========================================
+
+10. REPORTING
+----------------------------------------
+Project → Reports
+
+Common Reports:
+- Burndown Chart
+- Sprint Report
+- Velocity Chart
+- Cumulative Flow Diagram
+
+========================================
+
+11. DASHBOARD
+----------------------------------------
+Jira Home → Dashboards
+
+Used by TPM for:
+- Stakeholder updates
+- Team status
+- Release tracking
+- Risk monitoring
+
+========================================
+
+MOST USED AREAS FOR TPM
+----------------------------------------
+
+1. Backlog      (Planning)
+2. Board        (Execution Tracking)
+3. Reports      (Metrics)
+4. Dashboard    (Status Updates)
+5. Issues       (Work Management)
+
+TPM spends most of the day in:
+Backlog + Board + Dashboard
+
+========================================
+NEXT LESSON:
+JIRA PROJECT STRUCTURE
+(Project → Epic → Story → Task → Sub-task)
+========================================

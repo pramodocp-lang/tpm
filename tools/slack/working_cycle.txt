@@ -1,0 +1,55 @@
+SLACK WORKING LIFECYCLE
+
+1. Workspace Creation
+- Company creates Slack workspace
+- Admin sets workspace name, domain, settings
+- Roles assigned (Owner, Admin)
+
+2. User Onboarding
+- Users invited via email or SSO
+- Users join workspace
+- Profiles created
+
+3. Channel Creation
+- Channels created for teams/projects
+- Types: Public, Private channels
+- Example: #project, #engineering, #announcements
+
+4. Communication
+- Messages sent in channels
+- Direct messages (1:1 or group)
+- Threads used for organized discussion
+- Mentions used (@user, @channel)
+
+5. File Sharing
+- Documents, images, reports shared
+- Links shared from Jira, Google Drive, etc.
+- Files are searchable
+
+6. Integrations
+- Connected with tools like Jira, GitHub, Calendar
+- Automated notifications from tools
+- Bots used for workflows and alerts
+
+7. Notifications
+- Alerts for mentions, updates, messages
+- Project/system notifications
+- Users can customize notifications
+
+8. Search & Retrieval
+- Search messages, files, channels
+- Retrieve past discussions and decisions
+- Acts as knowledge base
+
+9. Admin & Security
+- Admin manages users and permissions
+- Channel access control
+- Security: SSO, MFA, encryption
+
+10. Archiving / Closure
+- Completed project channels archived
+- Old data retained or deleted based on policy
+- Workspace remains clean
+
+FLOW SUMMARY
+Setup → Onboarding → Channels → Communication → Files → Integrations → Notifications → Search → Admin → Archive

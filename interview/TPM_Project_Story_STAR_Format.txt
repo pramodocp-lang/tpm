@@ -1,0 +1,82 @@
+TPM PROJECT STORY (STAR FORMAT – END-TO-END DELIVERY SCENARIO)
+
+------------------------------------------------------------
+
+SITUATION:
+I was responsible for leading the delivery of a large-scale Customer Engagement Platform used across multiple business units. The system involved multiple integrations, distributed engineering teams, and strict timelines aligned with a quarterly business release.
+
+The project had challenges such as unclear initial requirements, multiple team dependencies, tight deadlines, and evolving scope from stakeholders.
+
+------------------------------------------------------------
+
+TASK:
+As the Technical Project Manager, my responsibility was to:
+- Plan and execute the end-to-end project delivery
+- Ensure SDLC compliance and governance
+- Manage sprint and release planning
+- Handle cross-team dependencies and risks
+- Align stakeholders across business and engineering teams
+- Ensure on-time, high-quality delivery within scope
+
+------------------------------------------------------------
+
+ACTION:
+
+1. Project Planning, Execution & Delivery:
+- Created a detailed project plan with milestones, dependencies, and delivery timelines.
+- Broke down work into phases and tracked execution using weekly status reviews.
+
+2. SDLC Management & Delivery Governance:
+- Ensured all SDLC phases (requirements, design, development, testing, deployment) were followed.
+- Introduced structured governance checkpoints (design review, QA sign-off, release readiness).
+
+3. Agile / Scrum / Hybrid Execution:
+- Worked in a hybrid model combining Agile sprints with fixed release deadlines.
+- Facilitated sprint planning, backlog grooming, and retrospectives.
+
+4. Risk & Dependency Management:
+- Identified risks such as integration delays and resource constraints early.
+- Maintained a RAID log and actively tracked mitigation actions.
+- Coordinated dependency resolution across teams.
+
+5. Sprint & Release Planning:
+- Defined sprint scope with product and engineering teams.
+- Managed scope changes carefully without impacting release commitments.
+- Coordinated release readiness across all teams.
+
+6. Resource & Capacity Planning:
+- Worked with engineering managers to allocate resources based on skill and availability.
+- Balanced workloads to avoid bottlenecks and delivery delays.
+
+7. Stakeholder Management:
+- Conducted regular status updates with leadership and business stakeholders.
+- Managed expectations during scope changes and timeline risks.
+- Provided transparent communication on delivery health.
+
+8. Cross-Functional Leadership:
+- Coordinated across engineering, QA, product, and DevOps teams.
+- Resolved conflicting priorities through alignment discussions.
+- Ensured everyone was working toward the same release goal.
+
+9. Team Collaboration:
+- Encouraged open communication across distributed teams.
+- Ensured daily syncs and strong collaboration during sprint execution.
+- Addressed blockers quickly to maintain momentum.
+
+------------------------------------------------------------
+
+RESULT:
+- Successfully delivered the platform within the planned release cycle.
+- Improved delivery predictability through structured governance.
+- Reduced production risks by early identification of dependencies.
+- Improved cross-team collaboration and reduced delivery delays.
+- Stakeholder confidence increased due to transparent reporting and consistent communication.
+
+------------------------------------------------------------
+
+KEY IMPACT SUMMARY:
+- On-time delivery of complex multi-team project
+- Strong governance and SDLC compliance
+- Effective risk and dependency management
+- Smooth Agile + hybrid execution model
+- Improved stakeholder alignment and communication

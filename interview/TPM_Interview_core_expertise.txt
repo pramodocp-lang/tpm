@@ -1,0 +1,138 @@
+TPM CORE EXPERTISE → INTERVIEW QUESTIONS MAPPING
+
+------------------------------------------------------------
+
+1. Project Planning, Execution & Delivery
+------------------------------------------------------------
+Questions:
+- How do you plan a project from scratch?
+- How do you define milestones and track delivery?
+- Tell me about a project you delivered end-to-end.
+- What do you do when delivery is slipping?
+
+Focus Area:
+Delivery ownership, planning, execution, milestone tracking
+
+
+------------------------------------------------------------
+
+2. SDLC Management & Delivery Governance
+------------------------------------------------------------
+Questions:
+- Explain how SDLC works in your project.
+- How do you ensure quality at each SDLC phase?
+- What governance mechanisms do you use?
+- How do you track project health?
+
+Focus Area:
+Process control, quality gates, governance, monitoring
+
+
+------------------------------------------------------------
+
+3. Waterfall / Agile / Scrum / Hybrid
+------------------------------------------------------------
+Questions:
+- When do you choose Agile vs Waterfall?
+- What is your experience with Scrum ceremonies?
+- Have you worked in hybrid models? Why?
+- What challenges have you faced in Agile?
+
+Focus Area:
+Delivery methodology understanding & adaptability
+
+
+------------------------------------------------------------
+
+4. Risk & Dependency Management
+------------------------------------------------------------
+Questions:
+- Tell me about a major risk you handled.
+- How do you identify risks early?
+- How do you manage cross-team dependencies?
+- What tools do you use for tracking risks?
+
+Focus Area:
+Risk identification, mitigation, dependency control
+
+
+------------------------------------------------------------
+
+5. Sprint & Release Planning
+------------------------------------------------------------
+Questions:
+- How do you plan a sprint?
+- What is your role in sprint ceremonies?
+- How do you handle scope changes mid-sprint?
+- How do you coordinate releases?
+
+Focus Area:
+Agile execution, sprint planning, release coordination
+
+
+------------------------------------------------------------
+
+6. Resource & Capacity Planning
+------------------------------------------------------------
+Questions:
+- How do you allocate resources?
+- What happens when teams are overloaded?
+- How do you forecast capacity?
+- How do you handle resource conflicts?
+
+Focus Area:
+Resource optimization, capacity forecasting, team allocation
+
+
+------------------------------------------------------------
+
+7. Stakeholder Management
+------------------------------------------------------------
+Questions:
+- How do you handle difficult stakeholders?
+- How do you communicate delays?
+- How do you manage expectations?
+- Example of stakeholder conflict?
+
+Focus Area:
+Communication, alignment, expectation management
+
+
+------------------------------------------------------------
+
+8. Cross-Functional Leadership
+------------------------------------------------------------
+Questions:
+- How do you align multiple teams?
+- Example of cross-team coordination?
+- How do you handle conflicting priorities?
+- How do you ensure alignment without authority?
+
+Focus Area:
+Coordination, influence, leadership without authority
+
+
+------------------------------------------------------------
+
+9. Team Collaboration
+------------------------------------------------------------
+Questions:
+- How do you ensure team collaboration?
+- How do you handle communication gaps?
+- What if team members are not aligned?
+- How do you improve productivity?
+
+Focus Area:
+Team dynamics, communication, execution efficiency
+
+
+------------------------------------------------------------
+
+TPM INTERVIEW SUMMARY
+------------------------------------------------------------
+Everything maps into 4 pillars:
+
+1. Delivery Ownership (Planning, Execution, Sprint, Release)
+2. Process Control (SDLC, Governance, Agile/Waterfall)
+3. Risk Control (Risks, Dependencies, Capacity)
+4. People Leadership (Stakeholders, Teams, Collaboration)

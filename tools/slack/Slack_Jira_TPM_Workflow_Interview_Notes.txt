@@ -1,0 +1,40 @@
+JIRA + SLACK WORKFLOW IN REAL PROJECTS
+
+1. Requirement / Ticket Creation (Jira)
+- Product/Business creates story or task in Jira
+- TPM ensures requirement clarity and prioritization
+
+2. Slack Notification Trigger
+- Jira sends automatic notification to Slack channel (e.g. #project-alpha)
+- Team gets instant visibility of new ticket
+
+3. Discussion in Slack
+- Engineers, QA, TPM discuss requirement in Slack thread
+- Clarifications and decisions happen in real time
+
+4. Jira Update from Slack Discussion
+- Based on discussion, Jira ticket is updated:
+  - status changes (To Do → In Progress)
+  - comments added
+  - assignee updated
+
+5. Sprint Execution Tracking
+- Daily updates shared in Slack (standup channels)
+- Jira dashboard reflects sprint progress
+
+6. Issue Escalation
+- If blocker occurs:
+  - Slack alert sent to #incident or #project channel
+  - TPM coordinates resolution with stakeholders
+
+7. CI/CD & Dev Updates
+- GitHub/Jenkins integrated with Slack
+- Deployment, build failures, or success notifications posted
+
+8. Sprint Review & Closure
+- Jira tickets moved to Done
+- Slack channel used for final updates and summary
+- Channel may be archived after release
+
+FLOW SUMMARY
+Jira Ticket → Slack Notification → Discussion → Jira Update → Execution → Alerts → Deployment → Closure

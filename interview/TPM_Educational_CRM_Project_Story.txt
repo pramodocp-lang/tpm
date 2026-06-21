@@ -1,0 +1,75 @@
+FILE NAME: TPM_Educational_CRM_Project_Story.txt
+
+============================================================
+EDUCATIONAL CRM TPM PROJECT STORY (BANKING/E-COM/SaaS STYLE)
+============================================================
+
+SITUATION:
+I led the development and delivery of an Educational CRM System designed for managing student admissions, counselling, branch operations, mentors, and centralized head-office reporting.
+
+The system had multiple roles like Counsellor, Front Office, Branch Office, Mentor, and Admin, and required integration across workflows, dashboards, and reporting modules.
+
+============================================================
+
+TASK:
+My responsibility was to manage end-to-end delivery of the CRM platform, ensure SDLC compliance, coordinate multiple cross-functional teams, and deliver features across iterative Agile releases.
+
+I also needed to manage risks, dependencies, resource allocation, and ensure alignment between business stakeholders and engineering teams.
+
+============================================================
+
+ACTION:
+
+1. Project Planning, Execution & Delivery:
+- Defined end-to-end roadmap for CRM modules like admissions, lead tracking, counseling, and reporting.
+- Broke down delivery into phased milestones and tracked execution progress.
+
+2. SDLC Management & Delivery Governance:
+- Ensured structured SDLC flow from requirement gathering to production deployment.
+- Introduced governance checkpoints for design approval, QA sign-off, and release readiness.
+
+3. Agile / Scrum / Hybrid Execution:
+- Executed delivery using Agile sprints with structured sprint planning and backlog grooming.
+- Managed hybrid release cycles aligned with academic/business timelines.
+
+4. Risk & Dependency Management:
+- Identified risks such as integration delays between CRM modules and reporting system.
+- Managed dependencies between frontend, backend, QA, and data teams.
+
+5. Sprint & Release Planning:
+- Defined sprint scope for CRM features like student onboarding, lead management, and dashboards.
+- Ensured smooth release coordination across modules.
+
+6. Resource & Capacity Planning:
+- Allocated developers, QA, and DevOps resources based on sprint priorities and workload.
+- Balanced capacity across parallel CRM modules.
+
+7. Stakeholder Management:
+- Worked closely with business stakeholders from education domain (admissions, branch heads).
+- Managed expectations around feature delivery timelines and scope changes.
+
+8. Cross-Functional Leadership:
+- Coordinated engineering, QA, UI/UX, and product teams for CRM delivery.
+- Resolved priority conflicts between branch operations and central reporting needs.
+
+9. Team Collaboration:
+- Ensured strong collaboration across distributed teams.
+- Conducted regular sync-ups and ensured blockers were resolved quickly.
+
+============================================================
+
+RESULT:
+- Successfully delivered Educational CRM with multi-role support and modular architecture.
+- Improved visibility into student lifecycle and admission pipeline.
+- Strengthened cross-team collaboration and delivery governance.
+- Achieved predictable Agile releases with reduced dependency delays.
+- Improved stakeholder satisfaction across branches and head office teams.
+
+============================================================
+
+KEY TPM TAKEAWAY:
+- End-to-end CRM delivery ownership
+- Strong SDLC governance across modules
+- Agile + hybrid execution model
+- Effective risk and dependency management
+- Cross-functional leadership across education domain teams

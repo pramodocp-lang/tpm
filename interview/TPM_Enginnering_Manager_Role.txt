@@ -1,0 +1,101 @@
+FILE NAME: Engineering_Manager_vs_Technical_Project_Manager.txt
+
+============================================================
+ENGINEERING MANAGER (EM) vs TECHNICAL PROJECT MANAGER (TPM)
+============================================================
+
+1. PRIMARY FOCUS
+------------------------------------------------------------
+Engineering Manager (EM):
+- Focuses on PEOPLE + ENGINEERING OUTPUT
+- Owns team performance, coding standards, and technical execution
+- Responsible for building strong engineering teams
+
+Technical Project Manager (TPM):
+- Focuses on DELIVERY + COORDINATION
+- Owns project execution, timelines, dependencies, and release delivery
+- Ensures projects are delivered on time with cross-team alignment
+
+============================================================
+
+2. CORE RESPONSIBILITIES
+------------------------------------------------------------
+Engineering Manager:
+- Team hiring, mentoring, performance management
+- Technical guidance and architecture discussions
+- Code quality, engineering practices
+- Sprint execution support from engineering side
+
+Technical Project Manager:
+- Project planning, execution, and tracking
+- Sprint & release planning coordination
+- Risk and dependency management
+- Stakeholder communication and alignment
+
+============================================================
+
+3. TEAM OWNERSHIP
+------------------------------------------------------------
+Engineering Manager:
+- Direct ownership of engineers (people manager)
+- Handles appraisals, feedback, growth plans
+
+Technical Project Manager:
+- Does NOT directly manage engineers
+- Works across multiple teams (cross-functional coordination)
+
+============================================================
+
+4. TECHNICAL DEPTH
+------------------------------------------------------------
+Engineering Manager:
+- High technical depth (coding, architecture, design reviews)
+- Involved in technical decisions
+
+Technical Project Manager:
+- Medium technical understanding
+- Focus is on execution, not deep coding/architecture
+
+============================================================
+
+5. SUCCESS METRICS
+------------------------------------------------------------
+Engineering Manager:
+- Team productivity
+- Code quality
+- System reliability
+- Team growth & retention
+
+Technical Project Manager:
+- On-time delivery
+- Predictable execution
+- Risk mitigation
+- Stakeholder satisfaction
+
+============================================================
+
+6. KEY DIFFERENCE IN ONE LINE
+------------------------------------------------------------
+Engineering Manager → Builds & leads the ENGINEERING TEAM  
+Technical Project Manager → Drives & delivers the PROJECT OUTCOME
+
+============================================================
+
+7. REAL-WORLD EXAMPLE
+------------------------------------------------------------
+Engineering Manager:
+- Ensures developers write clean code and follow best practices
+- Mentors engineers and reviews architecture decisions
+
+Technical Project Manager:
+- Ensures sprint goals are met
+- Coordinates between frontend, backend, QA, and product teams
+- Ensures release happens on time without blockers
+
+============================================================
+
+SUMMARY
+------------------------------------------------------------
+Both roles work closely, but:
+- EM = People + Engineering Excellence
+- TPM = Delivery + Execution Excellence

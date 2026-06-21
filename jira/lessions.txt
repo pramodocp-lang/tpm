@@ -1,0 +1,113 @@
+========================================
+JIRA FOR TPM - LESSON 1
+WHAT IS JIRA?
+========================================
+
+Definition:
+Jira is a project management and issue tracking tool used by software teams
+to plan, track, and deliver work.
+
+Why Companies Use Jira:
+- Track project progress
+- Manage Agile/Scrum processes
+- Assign work to team members
+- Track bugs and issues
+- Monitor sprint execution
+- Generate reports and dashboards
+
+----------------------------------------
+REAL TPM EXAMPLE
+----------------------------------------
+
+Requirement:
+"Student should be able to book a counseling session."
+
+In Jira:
+
+Epic
+└── Student Counseling Module
+
+    Story
+    └── Student can book counseling session
+
+        Task
+        ├── Design UI
+        ├── Develop API
+        ├── Create Database Table
+        └── Testing
+
+----------------------------------------
+COMMON JIRA TERMS
+----------------------------------------
+
+Project   = Collection of all project work
+Issue     = Any work item in Jira
+Epic      = Large feature or initiative
+Story     = User requirement
+Task      = Technical work item
+Bug       = Defect or issue
+Sub-task  = Smaller piece of a task
+Sprint    = Time-boxed work cycle
+Backlog   = List of future work
+Board     = Visual workflow view
+
+----------------------------------------
+TYPICAL JIRA WORKFLOW
+----------------------------------------
+
+Backlog
+   ↓
+To Do
+   ↓
+In Progress
+   ↓
+Testing
+   ↓
+Done
+
+----------------------------------------
+TPM RESPONSIBILITIES IN JIRA
+----------------------------------------
+
+- Create and manage Epics
+- Create User Stories
+- Plan Sprints
+- Assign work
+- Track progress
+- Remove blockers
+- Monitor risks
+- Communicate status to stakeholders
+- Track release readiness
+
+----------------------------------------
+TPM INTERVIEW ANSWER
+----------------------------------------
+
+Q: What is Jira and how have you used it?
+
+A:
+Jira is a project and issue tracking tool used to manage Agile projects.
+I use Jira to create and manage Epics, Stories, Tasks, and Bugs, plan
+sprints, track team progress, monitor blockers, and provide project
+status updates to stakeholders. It helps maintain transparency and
+ensures smooth delivery across cross-functional teams.
+
+----------------------------------------
+PRACTICE TASK
+----------------------------------------
+
+Open Jira and identify:
+
+1. Project Name
+2. Backlog
+3. Board
+4. Create Button
+5. Sprint Section
+
+Status:
+[ ] Done
+
+Next Lesson:
+Jira Project Structure
+(Epic → Story → Task → Sub-task)
+========================================

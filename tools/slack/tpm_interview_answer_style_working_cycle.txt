@@ -1,0 +1,21 @@
+Slack is a team collaboration tool used to enable real-time and asynchronous communication across cross-functional teams.
+
+The lifecycle starts with workspace creation, where an organization sets up a centralized Slack workspace with defined admin controls and access policies. Users are then onboarded through email or SSO, and roles are assigned based on team structure.
+
+Next, channels are created to organize communication. These channels can be team-based like engineering or QA, project-based like sprint or release channels, or company-wide announcement channels.
+
+Once structure is in place, day-to-day communication happens through messages in channels, direct messages, and threaded conversations. This ensures discussions stay organized and traceable.
+
+Slack also supports file sharing, where teams share documents, reports, and links from tools like Jira, Confluence, and Google Drive, making it a central knowledge-sharing platform.
+
+A key part of Slack lifecycle is integrations. It connects with tools like Jira and GitHub to bring automated updates such as ticket status changes, build notifications, and deployment alerts directly into channels.
+
+Notifications keep teams updated in real time, and users can customize alerts based on priority or channel.
+
+Slack also provides strong search capabilities, allowing teams to retrieve past decisions and conversations quickly, which is critical for project continuity.
+
+From an admin perspective, security, permissions, and compliance are managed centrally, including SSO, MFA, and access control.
+
+Finally, once projects are completed, channels are archived to keep the workspace clean while retaining historical data for reference.
+
+Overall, Slack acts as a central communication hub that improves transparency, collaboration, and delivery efficiency across teams.
