@@ -1,0 +1,173 @@
+=========================================================
+TPM TOOLS FUNDAMENTALS (JIRA + CONFLUENCE + EXCEL)
+=========================================================
+
+1. WHY TPM NEEDS TOOLS?
+
+A TPM uses tools to:
+- Track project work
+- Manage teams across locations
+- Monitor progress
+- Handle risks and issues
+- Communicate with stakeholders
+
+=========================================================
+
+2. JIRA (WORK TRACKING TOOL)
+
+WHAT IS JIRA?
+Jira is a tool used to track project work in Agile teams.
+
+HOW TPM USES JIRA:
+
+A. Structure of work:
+- Epic → Large feature
+- Story → User requirement
+- Task → Small work item
+- Bug → Defect
+
+B. Sprint Tracking:
+- Sprint = fixed time work cycle (1-2 weeks)
+- TPM tracks what is Done / In Progress / Blocked
+
+C. TPM DAILY USE:
+- Check Jira board daily
+- Identify blocked tasks
+- Track sprint progress
+- Monitor delays
+
+EXAMPLE:
+Login Feature:
+- Story created in Jira
+- Assigned to developer
+- Moved across statuses:
+  To Do → In Progress → Testing → Done
+
+=========================================================
+
+3. CONFLUENCE (DOCUMENTATION TOOL)
+
+WHAT IS CONFLUENCE?
+Confluence is a documentation tool used to store project
+information in one place.
+
+HOW TPM USES CONFLUENCE:
+
+A. Requirements documentation
+B. Meeting notes
+C. Project plans
+D. Sprint summaries
+E. Risk documentation
+
+EXAMPLE PAGES:
+- Project Overview Page
+- Sprint Plan Document
+- RAID Log Document
+- Meeting Minutes
+
+WHY IMPORTANT:
+- Single source of truth
+- Easy for stakeholders to access information
+
+=========================================================
+
+4. EXCEL (TRACKING & REPORTING TOOL)
+
+WHAT IS EXCEL?
+Excel is used for tracking data, reporting, and analysis.
+
+HOW TPM USES EXCEL:
+
+A. Project tracking sheet:
+- Task
+- Owner
+- Status
+- Start date
+- End date
+
+B. RAID Log:
+- Risks
+- Assumptions
+- Issues
+- Dependencies
+
+C. Reporting:
+- Weekly status report
+- KPI tracking
+- Progress dashboards
+
+EXAMPLE:
+Task | Owner | Status
+Login | Dev1  | Done
+API   | Dev2  | In Progress
+
+=========================================================
+
+5. SIMPLE COMPARISON
+
+JIRA:
+- Tracks execution work
+- Used by engineering teams
+
+CONFLUENCE:
+- Stores documentation
+- Used for knowledge sharing
+
+EXCEL:
+- Used for reporting & analysis
+- Used by TPM for dashboards
+
+=========================================================
+
+6. TPM REAL WORKFLOW USING TOOLS
+
+Step 1: Requirements in Confluence
+Step 2: Tasks created in Jira
+Step 3: Progress tracked in Jira daily
+Step 4: Issues tracked in Excel/RAID log
+Step 5: Reports shared to stakeholders
+
+=========================================================
+
+7. TPM INTERVIEW ANSWER
+
+Q: What tools do you use as TPM?
+
+Answer:
+
+I use Jira for Agile project tracking, where I manage
+epics, stories, and sprint progress. I use Confluence for
+documenting requirements, meeting notes, and project plans.
+I use Excel for reporting, RAID logs, and status tracking
+to provide visibility to stakeholders.
+
+=========================================================
+
+8. ONE-LINE SUMMARY
+
+Jira is for tracking work, Confluence is for documentation,
+and Excel is for reporting and analysis in TPM execution.
+
+=========================================================
+END OF DOCUMENT
+=========================================================
+```---
+
+# 👉 What you should do next
+
+After this, we will go step-by-step:
+
+### Next Step (very important)
+👉 I will show you:
+**"Jira real screen workflow (step by step like real company use)"**
+
+Then:
+- Create Epic
+- Create Story
+- Sprint planning
+- Move task statuses
+
+---
+
+If ready, just say:
+👉 **“Start Jira practical”**
