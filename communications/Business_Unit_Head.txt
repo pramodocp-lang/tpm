@@ -1,0 +1,119 @@
+=========================================================
+BUSINESS UNIT HEAD - TPM GUIDE
+=========================================================
+
+1. WHO IS A BUSINESS UNIT HEAD?
+
+A Business Unit Head (BU Head) is a senior leader who
+manages a specific business division within an organization.
+
+They are responsible for the performance, growth, and
+strategy of that business unit.
+
+=========================================================
+
+2. SIMPLE MEANING
+
+A Business Unit Head is the person who:
+
+- Owns a business division or product line
+- Drives revenue and growth
+- Makes strategic decisions
+- Leads senior managers and teams
+- Ensures business goals are achieved
+
+=========================================================
+
+3. EXAMPLE OF BUSINESS UNITS
+
+In a technology company:
+
+Business Unit A → Cloud Services
+Business Unit B → Mobile Applications
+Business Unit C → AI Products
+
+Each unit has its own Business Unit Head.
+
+=========================================================
+
+4. KEY RESPONSIBILITIES
+
+A. Business Strategy
+- Define vision and goals for the business unit
+- Align with company strategy
+
+B. Revenue & Growth
+- Increase revenue
+- Identify new opportunities
+- Improve profitability
+
+C. Team Leadership
+- Manage managers and senior leaders
+- Oversee team performance
+
+D. Budget Management
+- Control budget allocation
+- Optimize costs
+
+E. Stakeholder Communication
+- Report to executives (CEO, CTO, etc.)
+- Coordinate with cross-functional teams
+
+=========================================================
+
+5. TPM INTERACTION WITH BU HEAD
+
+A TPM works with the Business Unit Head to:
+
+- Provide high-level project updates
+- Highlight risks impacting business goals
+- Discuss delivery timelines
+- Align technical execution with business priorities
+- Support decision-making
+
+=========================================================
+
+6. WHY BU HEAD IS IMPORTANT
+
+- Drives business direction
+- Owns financial outcomes
+- Ensures strategic alignment
+- Influences major decisions
+- Oversees multiple teams and projects
+
+=========================================================
+
+7. SIMPLE EXAMPLE
+
+If a TPM is managing a CRM project:
+
+The BU Head will care about:
+- Is the project increasing customer acquisition?
+- Is delivery on time?
+- What is the business impact?
+- Are we within budget?
+
+=========================================================
+
+8. TPM INTERVIEW ANSWER
+
+Q: Who is a Business Unit Head?
+
+Answer:
+
+A Business Unit Head is a senior leader responsible for
+managing a specific business division, driving its growth,
+strategy, revenue, and overall performance. They ensure
+alignment with organizational goals and oversee teams,
+budgets, and delivery outcomes within their unit.
+
+=========================================================
+
+9. ONE-LINE SUMMARY
+
+A Business Unit Head owns and drives the performance,
+strategy, and growth of a specific business division.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

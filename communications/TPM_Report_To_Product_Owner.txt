@@ -1,0 +1,204 @@
+=========================================================
+TPM REPORTING TO PRODUCT OWNER
+=========================================================
+
+1. WHO IS A PRODUCT OWNER?
+
+The Product Owner (PO) is responsible for maximizing
+product value and managing the product backlog.
+
+Responsibilities:
+- Define product requirements
+- Prioritize backlog
+- Clarify user stories
+- Accept completed work
+- Represent business needs
+
+=========================================================
+
+2. WHY DOES A TPM REPORT TO THE PRODUCT OWNER?
+
+A TPM reports to the Product Owner to:
+
+1. Provide delivery updates
+2. Discuss sprint progress
+3. Highlight risks and blockers
+4. Review dependencies
+5. Align development with product goals
+6. Support release planning
+7. Manage stakeholder expectations
+
+=========================================================
+
+3. WHAT DOES A TPM REPORT?
+
+A. Sprint Progress
+
+Examples:
+- Sprint completion status
+- Stories completed
+- Stories in progress
+- Blocked items
+
+---------------------------------------------------------
+
+B. Delivery Status
+
+Examples:
+- On Track
+- At Risk
+- Delayed
+
+---------------------------------------------------------
+
+C. Risks
+
+Examples:
+- Resource constraints
+- Technical challenges
+- Vendor dependencies
+
+---------------------------------------------------------
+
+D. Issues
+
+Examples:
+- Environment problems
+- Defects
+- Integration failures
+
+---------------------------------------------------------
+
+E. Dependencies
+
+Examples:
+- Waiting for API completion
+- Waiting for design approval
+- Waiting for external vendor
+
+---------------------------------------------------------
+
+F. Release Readiness
+
+Examples:
+- Development complete
+- Testing complete
+- Open defects
+- Go-live risks
+
+=========================================================
+
+4. HOW DOES A TPM COMMUNICATE WITH THE PRODUCT OWNER?
+
+A. Daily Sync Meetings
+
+Discuss:
+- Progress
+- Blockers
+- Priorities
+
+---------------------------------------------------------
+
+B. Sprint Planning
+
+Discuss:
+- Sprint scope
+- Capacity
+- Dependencies
+
+---------------------------------------------------------
+
+C. Backlog Refinement
+
+Discuss:
+- Story readiness
+- Acceptance criteria
+- Priorities
+
+---------------------------------------------------------
+
+D. Sprint Review
+
+Discuss:
+- Completed work
+- Demonstrations
+- Business value delivered
+
+---------------------------------------------------------
+
+E. Status Reports
+
+Include:
+- Progress update
+- Risks
+- Issues
+- Next steps
+
+=========================================================
+
+5. COMMUNICATION STYLE WITH PRODUCT OWNER
+
+Product Owners care about:
+
+- Feature delivery
+- Sprint commitments
+- Business value
+- Release dates
+- Customer impact
+
+Focus on:
+- Outcomes
+- Progress
+- Risks
+- Decisions needed
+
+=========================================================
+
+6. SAMPLE UPDATE TO PRODUCT OWNER
+
+Sprint Status: Green
+
+Completed:
+- Student Registration Module
+- Lead Management API
+
+In Progress:
+- Mentor Assignment Feature
+
+Risks:
+- Third-party API dependency
+
+Issues:
+- None
+
+Expected Sprint Completion:
+- On Track
+
+=========================================================
+
+7. TPM INTERVIEW ANSWER
+
+Q: How do you communicate with a Product Owner?
+
+Answer:
+
+I work closely with the Product Owner to provide updates
+on sprint progress, delivery timelines, risks, issues,
+and dependencies. I ensure that engineering execution
+remains aligned with product priorities and business
+objectives. Through regular meetings and status reports,
+I help the Product Owner make informed decisions and
+manage stakeholder expectations.
+
+=========================================================
+
+8. ONE-LINE INTERVIEW ANSWER
+
+A TPM communicates with the Product Owner to ensure
+delivery progress, risks, dependencies, and technical
+execution remain aligned with product priorities and
+business goals.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

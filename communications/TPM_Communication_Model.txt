@@ -1,0 +1,108 @@
+=========================================================
+TPM COMMUNICATION - GROUP VS INDIVIDUAL
+=========================================================
+
+1. QUESTION
+
+Is it required for a TPM to communicate with each
+stakeholder separately?
+
+=========================================================
+
+2. ANSWER
+
+No, a TPM is NOT required to communicate with each
+stakeholder separately all the time.
+
+Communication is based on:
+- Purpose
+- Urgency
+- Audience
+- Impact
+
+=========================================================
+
+3. GROUP COMMUNICATION (MOST COMMON)
+
+TPMs mainly use group communication methods:
+
+Examples:
+- Sprint meetings
+- Daily stand-ups
+- Status review meetings
+- Steering committee meetings
+- Emails to all stakeholders
+- Dashboards (Jira, Excel, Power BI)
+
+Benefits:
+- Saves time
+- Ensures alignment
+- Provides transparency
+- Avoids duplicate updates
+
+=========================================================
+
+4. INDIVIDUAL COMMUNICATION (WHEN NEEDED)
+
+One-to-one communication is used only in specific cases:
+
+A. Escalations
+- Project delays
+- Critical blockers
+- Resource issues
+
+B. Decision Making
+- Scope changes
+- Budget approval
+- Priority conflicts
+
+C. Sensitive Discussions
+- Team conflicts
+- Performance concerns
+- Vendor issues
+
+=========================================================
+
+5. TPM COMMUNICATION STRATEGY
+
+A TPM balances communication:
+
+Group Communication → 80%
+Individual Communication → 20%
+
+=========================================================
+
+6. SIMPLE EXAMPLE
+
+Scenario: Project is delayed
+
+Wrong approach:
+- Contacting every stakeholder separately
+
+Correct approach:
+- Update Jira board
+- Send weekly status report
+- Discuss in sprint meeting
+- Escalate only to relevant leaders
+
+=========================================================
+
+7. TPM INTERVIEW ANSWER
+
+A TPM does not communicate with each stakeholder
+individually all the time. Instead, structured group
+communication such as meetings, reports, and dashboards
+is used for alignment. Individual communication is used
+only for escalations, decisions, or critical discussions.
+
+=========================================================
+
+8. ONE-LINE SUMMARY
+
+TPMs mainly use group communication for alignment and
+only use individual communication for escalation or
+decision-making.
+
+=========================================================
+END OF DOCUMENT
+=========================================================
