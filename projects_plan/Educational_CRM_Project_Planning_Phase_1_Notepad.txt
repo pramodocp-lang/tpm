@@ -1,0 +1,71 @@
+EDUCATIONAL CRM SYSTEM - PROJECT PLANNING (PHASE 1)
+====================================================
+
+1. PROJECT NAME
+----------------
+Educational CRM System Enhancement Project
+
+----------------------------------------------------
+
+2. PROBLEM STATEMENT
+---------------------
+Current educational CRM system lacks centralized tracking of students, counselors, and branch-level reporting.
+This leads to:
+- Manual reporting effort
+- Data inconsistency across branches
+- Delayed decision-making for management
+
+----------------------------------------------------
+
+3. PROJECT GOAL (SMART OBJECTIVES)
+-----------------------------------
+- Improve student lifecycle tracking by 40%
+- Reduce manual reporting effort by 50%
+- Enable real-time dashboards for Head Office (HO)
+- Improve counselor productivity and lead conversion visibility
+
+----------------------------------------------------
+
+4. STAKEHOLDERS
+---------------
+- Head Office (HO)
+- Branch Office Managers
+- Counsellors
+- Front Office Team
+- Mentors
+- Product Team
+- Engineering Team
+- QA Team
+- Support / Operations Team
+
+----------------------------------------------------
+
+5. SCOPE DEFINITION
+
+IN SCOPE:
+---------
+- Student onboarding and lead management
+- Role-based dashboards (Counsellor, Branch, HO)
+- Reporting system
+- Workflow automation
+- Notifications and reminders
+
+OUT OF SCOPE:
+-------------
+- Payment gateway integration (future phase)
+- Mobile application development (Phase 2)
+- AI-based recommendation system (future enhancement)
+
+----------------------------------------------------
+
+6. NEXT STEPS
+-------------
+- Break down into Epics (Jira structure)
+- Define user stories for each module
+- Prepare high-level system architecture
+- Plan sprint timeline
+- Identify risks and dependencies
+
+----------------------------------------------------
+
+END OF DOCUMENT

@@ -1,0 +1,324 @@
+=========================================================
+EDUCATIONAL CRM
+EPIC → FEATURE → USER STORY → TASK HIERARCHY
+=========================================================
+
+PROJECT:
+Educational CRM System
+
+=========================================================
+EPIC 1: LEAD MANAGEMENT
+=========================================================
+
+FEATURE 1.1: Lead Creation
+
+User Story:
+As a Counsellor,
+I want to create a lead,
+So that I can track potential students.
+
+Tasks:
+- Design Lead Creation UI
+- Create Lead API
+- Implement Validation Rules
+- Save Lead Data in Database
+- Unit Testing
+- UAT Testing
+
+---------------------------------------------------------
+
+FEATURE 1.2: Lead Search
+
+User Story:
+As a Counsellor,
+I want to search leads,
+So that I can quickly find student information.
+
+Tasks:
+- Create Search Screen
+- Develop Search API
+- Add Filters
+- Test Search Results
+- UAT Validation
+
+---------------------------------------------------------
+
+FEATURE 1.3: Lead Status Tracking
+
+User Story:
+As a Counsellor,
+I want to update lead status,
+So that I can track admission progress.
+
+Tasks:
+- Create Status Workflow
+- Update Database Model
+- Create Audit History
+- Perform Testing
+
+=========================================================
+EPIC 2: STUDENT ENROLLMENT
+=========================================================
+
+FEATURE 2.1: Lead Conversion
+
+User Story:
+As a Counsellor,
+I want to convert leads into students,
+So that admissions can be processed.
+
+Tasks:
+- Design Enrollment Screen
+- Create Conversion Logic
+- Create Student Record
+- Update Lead Status
+- Testing
+
+---------------------------------------------------------
+
+FEATURE 2.2: Course Enrollment
+
+User Story:
+As a Counsellor,
+I want to assign a course,
+So that students can start learning.
+
+Tasks:
+- Fetch Course List
+- Create Assignment API
+- Save Enrollment Record
+- Validate Enrollment Rules
+- Testing
+
+=========================================================
+EPIC 3: COURSE MANAGEMENT
+=========================================================
+
+FEATURE 3.1: Course Creation
+
+User Story:
+As an Admin,
+I want to create courses,
+So that students can enroll.
+
+Tasks:
+- Design Course Screen
+- Create Course API
+- Store Course Data
+- Validation Testing
+
+---------------------------------------------------------
+
+FEATURE 3.2: Course Update
+
+User Story:
+As an Admin,
+I want to update course details,
+So that information remains accurate.
+
+Tasks:
+- Modify Course Screen
+- Update Database
+- Audit Tracking
+- Testing
+
+=========================================================
+EPIC 4: MENTOR MANAGEMENT
+=========================================================
+
+FEATURE 4.1: Mentor Assignment
+
+User Story:
+As a Branch Manager,
+I want to assign mentors,
+So that students receive guidance.
+
+Tasks:
+- Mentor Assignment UI
+- Assignment Logic
+- Notification Integration
+- Testing
+
+---------------------------------------------------------
+
+FEATURE 4.2: Student List View
+
+User Story:
+As a Mentor,
+I want to view assigned students,
+So that I can monitor progress.
+
+Tasks:
+- Student Listing Screen
+- Search and Filter
+- Backend API
+- Testing
+
+=========================================================
+EPIC 5: ATTENDANCE MANAGEMENT
+=========================================================
+
+FEATURE 5.1: Attendance Tracking
+
+User Story:
+As a Mentor,
+I want to mark attendance,
+So that student participation is recorded.
+
+Tasks:
+- Attendance UI
+- Attendance API
+- Daily Attendance Database
+- Reporting Integration
+- Testing
+
+=========================================================
+EPIC 6: PAYMENT MANAGEMENT
+=========================================================
+
+FEATURE 6.1: Fee Collection
+
+User Story:
+As a Front Office Executive,
+I want to record payments,
+So that fee records are maintained.
+
+Tasks:
+- Payment Entry Screen
+- Receipt Generation
+- Payment API
+- Database Update
+- Testing
+
+---------------------------------------------------------
+
+FEATURE 6.2: Fee Due Tracking
+
+User Story:
+As a Counsellor,
+I want to view pending fees,
+So that follow-up actions can be taken.
+
+Tasks:
+- Due Fee Dashboard
+- Filter Options
+- Report API
+- Testing
+
+=========================================================
+EPIC 7: COMMUNICATION MANAGEMENT
+=========================================================
+
+FEATURE 7.1: Email Notifications
+
+User Story:
+As a Counsellor,
+I want to send emails,
+So that students receive updates.
+
+Tasks:
+- Email Template Setup
+- Email Service Integration
+- Delivery Tracking
+- Testing
+
+---------------------------------------------------------
+
+FEATURE 7.2: SMS Notifications
+
+User Story:
+As a Counsellor,
+I want to send SMS messages,
+So that students receive reminders.
+
+Tasks:
+- SMS Gateway Integration
+- Message Templates
+- Delivery Tracking
+- Testing
+
+=========================================================
+EPIC 8: REPORTING & DASHBOARD
+=========================================================
+
+FEATURE 8.1: Admission Dashboard
+
+User Story:
+As a Branch Manager,
+I want to monitor admissions,
+So that performance can be measured.
+
+Tasks:
+- Dashboard Design
+- KPI Calculation
+- Chart Development
+- Testing
+
+---------------------------------------------------------
+
+FEATURE 8.2: Revenue Dashboard
+
+User Story:
+As Head Office,
+I want to view revenue reports,
+So that business performance is visible.
+
+Tasks:
+- Revenue Analytics
+- Monthly Reports
+- Branch Comparison
+- Testing
+
+=========================================================
+EPIC 9: USER & ROLE MANAGEMENT
+=========================================================
+
+FEATURE 9.1: User Creation
+
+User Story:
+As a Super Admin,
+I want to create users,
+So that system access can be managed.
+
+Tasks:
+- User Management Screen
+- User API
+- Password Generation
+- Testing
+
+---------------------------------------------------------
+
+FEATURE 9.2: Permission Management
+
+User Story:
+As a Super Admin,
+I want to manage permissions,
+So that security is maintained.
+
+Tasks:
+- Role Matrix Design
+- Access Rules
+- Permission Validation
+- Testing
+
+=========================================================
+EPIC 10: AUDIT & COMPLIANCE
+=========================================================
+
+FEATURE 10.1: Audit Logging
+
+User Story:
+As a Super Admin,
+I want to track system activities,
+So that compliance requirements are met.
+
+Tasks:
+- Audit Database Table
+- Activity Tracking Logic
+- Reporting Screen
+- Export Functionality
+- Testing
+
+=========================================================
+END OF DOCUMENT
+=========================================================

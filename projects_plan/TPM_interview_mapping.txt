@@ -1,0 +1,21 @@
+Requirement Gathering
+        ↓
+Epics Created
+        ↓
+User Stories Created
+        ↓
+Story Point Estimation
+        ↓
+Sprint Planning
+        ↓
+Development
+        ↓
+Testing
+        ↓
+UAT
+        ↓
+Production Release
+        ↓
+Hypercare Support
+        ↓
+Project Closure

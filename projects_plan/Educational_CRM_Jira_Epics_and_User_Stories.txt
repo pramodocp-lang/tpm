@@ -1,0 +1,310 @@
+=========================================================
+EDUCATIONAL CRM - JIRA EPICS AND USER STORIES
+=========================================================
+
+PROJECT:
+Educational CRM System
+
+MODULES / ROLES:
+1. Counsellor
+2. Front Office
+3. Branch Office
+4. Mentor
+5. Super Admin
+6. Head Office (HO)
+
+=========================================================
+EPIC 1: LEAD MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Create Lead
+
+As a Counsellor,
+I want to create a new student lead,
+So that I can track potential admissions.
+
+Acceptance Criteria:
+- Lead name can be added.
+- Contact details can be added.
+- Course interest can be selected.
+- Lead status defaults to New.
+
+---------------------------------------------------------
+
+User Story 2
+Title: Update Lead Status
+
+As a Counsellor,
+I want to update lead status,
+So that I can track lead progress.
+
+Acceptance Criteria:
+- Status options available.
+- Changes are saved.
+- History is maintained.
+
+---------------------------------------------------------
+
+User Story 3
+Title: Search Leads
+
+As a Counsellor,
+I want to search leads,
+So that I can quickly find student records.
+
+Acceptance Criteria:
+- Search by name.
+- Search by mobile number.
+- Search by email.
+
+=========================================================
+EPIC 2: STUDENT ENROLLMENT
+=========================================================
+
+User Story 1
+Title: Convert Lead to Student
+
+As a Counsellor,
+I want to convert qualified leads into students,
+So that admissions can be processed.
+
+Acceptance Criteria:
+- Student profile is created.
+- Lead status changes to Enrolled.
+- Enrollment date is captured.
+
+---------------------------------------------------------
+
+User Story 2
+Title: Assign Course
+
+As a Counsellor,
+I want to assign a course,
+So that students can begin learning.
+
+Acceptance Criteria:
+- Course list available.
+- Course assignment saved.
+- Enrollment visible in student profile.
+
+=========================================================
+EPIC 3: COURSE MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Create Course
+
+As an Admin,
+I want to create courses,
+So that students can enroll.
+
+Acceptance Criteria:
+- Course name mandatory.
+- Duration can be defined.
+- Fee structure can be added.
+
+---------------------------------------------------------
+
+User Story 2
+Title: Update Course
+
+As an Admin,
+I want to update course details,
+So that course information remains accurate.
+
+Acceptance Criteria:
+- Course can be edited.
+- Changes are logged.
+
+=========================================================
+EPIC 4: MENTOR MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Assign Mentor
+
+As a Branch Manager,
+I want to assign mentors,
+So that students receive guidance.
+
+Acceptance Criteria:
+- Mentor list displayed.
+- Assignment saved.
+- Student notified.
+
+---------------------------------------------------------
+
+User Story 2
+Title: View Assigned Students
+
+As a Mentor,
+I want to view my students,
+So that I can support them.
+
+Acceptance Criteria:
+- Assigned students displayed.
+- Student details visible.
+
+=========================================================
+EPIC 5: ATTENDANCE MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Mark Attendance
+
+As a Mentor,
+I want to mark attendance,
+So that student participation is tracked.
+
+Acceptance Criteria:
+- Daily attendance recorded.
+- Attendance history maintained.
+
+---------------------------------------------------------
+
+User Story 2
+Title: View Attendance Report
+
+As a Mentor,
+I want to view attendance reports,
+So that I can identify irregular students.
+
+Acceptance Criteria:
+- Report generated.
+- Filters available.
+
+=========================================================
+EPIC 6: PAYMENT MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Record Payment
+
+As a Front Office Executive,
+I want to record student payments,
+So that fee records remain updated.
+
+Acceptance Criteria:
+- Amount captured.
+- Payment mode selected.
+- Receipt generated.
+
+---------------------------------------------------------
+
+User Story 2
+Title: View Outstanding Fees
+
+As a Counsellor,
+I want to view pending payments,
+So that follow-ups can be performed.
+
+Acceptance Criteria:
+- Pending fee list available.
+- Student-wise breakdown visible.
+
+=========================================================
+EPIC 7: COMMUNICATION MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Send Email Notification
+
+As a Counsellor,
+I want to send email notifications,
+So that students receive important updates.
+
+Acceptance Criteria:
+- Email template available.
+- Delivery status visible.
+
+---------------------------------------------------------
+
+User Story 2
+Title: Send SMS Notification
+
+As a Counsellor,
+I want to send SMS notifications,
+So that students receive reminders.
+
+Acceptance Criteria:
+- SMS sent successfully.
+- Delivery status tracked.
+
+=========================================================
+EPIC 8: REPORTING & DASHBOARD
+=========================================================
+
+User Story 1
+Title: Admission Dashboard
+
+As a Branch Manager,
+I want to view admission metrics,
+So that I can monitor performance.
+
+Acceptance Criteria:
+- New leads count visible.
+- Enrollments visible.
+- Conversion rate displayed.
+
+---------------------------------------------------------
+
+User Story 2
+Title: Revenue Dashboard
+
+As Head Office,
+I want to monitor revenue,
+So that business performance can be tracked.
+
+Acceptance Criteria:
+- Monthly revenue displayed.
+- Branch-wise comparison available.
+
+=========================================================
+EPIC 9: USER & ROLE MANAGEMENT
+=========================================================
+
+User Story 1
+Title: Create User
+
+As a Super Admin,
+I want to create users,
+So that staff can access the system.
+
+Acceptance Criteria:
+- User account created.
+- Role assigned.
+- Login credentials generated.
+
+---------------------------------------------------------
+
+User Story 2
+Title: Manage Permissions
+
+As a Super Admin,
+I want to manage permissions,
+So that users access only authorized features.
+
+Acceptance Criteria:
+- Permission matrix available.
+- Role-based access enforced.
+
+=========================================================
+EPIC 10: AUDIT & COMPLIANCE
+=========================================================
+
+User Story 1
+Title: Audit Trail
+
+As a Super Admin,
+I want to track system activities,
+So that compliance requirements are met.
+
+Acceptance Criteria:
+- User actions logged.
+- Date and time recorded.
+- Reports exportable.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

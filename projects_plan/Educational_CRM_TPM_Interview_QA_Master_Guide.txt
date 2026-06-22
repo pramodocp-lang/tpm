@@ -1,0 +1,15 @@
+1. Tell me about yourself.
+2. Tell me about a project you managed.
+3. How do you manage stakeholders?
+4. How do you handle risks?
+5. How do you handle changing requirements?
+6. How do you manage sprint planning?
+7. How do you estimate stories?
+8. How do you manage dependencies?
+9. How do you resolve conflicts?
+10. How do you manage releases?
+11. How do you handle production issues?
+12. How do you track project health?
+13. What metrics do you monitor?
+14. How do you run Agile ceremonies?
+15. Describe a challenging project.

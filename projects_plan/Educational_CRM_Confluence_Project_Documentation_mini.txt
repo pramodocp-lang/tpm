@@ -1,0 +1,14 @@
+This will include:
+
+Project Charter
+Business Requirements
+Scope
+Assumptions
+Risks
+Stakeholders
+RACI Matrix
+RAID Log
+Release Plan
+Communication Plan
+
+This is typically what a TPM maintains in Confluence while Jira tracks execution.

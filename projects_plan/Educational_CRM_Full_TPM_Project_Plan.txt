@@ -1,0 +1,300 @@
+EDUCATIONAL CRM SYSTEM - FULL TPM PROJECT PLAN
+==============================================
+
+1. PROJECT OVERVIEW
+===================
+
+Project Name:
+Educational CRM System Enhancement Project
+
+Project Type:
+Internal Product / Platform Enhancement
+
+Objective:
+Build a centralized CRM system to manage the student lifecycle,
+improve reporting accuracy, and provide role-based dashboards
+for Head Office (HO), Branch Offices, Counsellors, Front Office,
+and Mentors.
+
+------------------------------------------------------------
+
+2. PROBLEM STATEMENT
+====================
+
+Current CRM system is fragmented across teams, resulting in:
+
+- Manual reporting across branches
+- No single source of truth for student data
+- Limited visibility for Head Office (HO)
+- Delayed decision-making
+- Inefficient lead tracking and follow-up
+
+------------------------------------------------------------
+
+3. PROJECT GOALS
+================
+
+Business Goals:
+---------------
+- Improve student lifecycle tracking efficiency by 40%
+- Increase lead conversion visibility by 30%
+- Reduce reporting effort by 50%
+- Improve decision-making speed for HO
+
+Technical Goals:
+----------------
+- Build a centralized CRM platform
+- Implement role-based access control (RBAC)
+- Create real-time dashboards
+- Ensure scalable and secure architecture
+
+------------------------------------------------------------
+
+4. STAKEHOLDERS & ROLES
+=======================
+
+Business Stakeholders:
+----------------------
+- Head Office (HO)
+- Branch Managers
+- Counsellors
+- Front Office Team
+- Mentors
+
+Technical Stakeholders:
+-----------------------
+- Product Manager
+- Technical Project Manager (TPM)
+- Backend Engineers
+- Frontend Engineers
+- QA Engineers
+- DevOps Engineers
+- Support Team
+
+------------------------------------------------------------
+
+5. PROJECT SCOPE
+================
+
+IN SCOPE:
+---------
+- Student onboarding and registration
+- Lead management system
+- Role-based dashboards
+- Reporting and analytics
+- Workflow automation
+- Notifications and reminders
+- User management and RBAC
+
+OUT OF SCOPE:
+-------------
+- Payment gateway integration
+- Mobile application (Phase 2)
+- AI recommendation engine
+- External ERP integrations
+
+------------------------------------------------------------
+
+6. SYSTEM MODULES
+=================
+
+- Authentication & Authorization (RBAC)
+- Student Management Module
+- Lead Management Module
+- Dashboard & Reporting Module
+- Notification Service
+- Admin Panel
+
+------------------------------------------------------------
+
+7. HIGH-LEVEL MILESTONE PLAN
+============================
+
+PHASE 1 - DISCOVERY & PLANNING (Week 1-2)
+------------------------------------------
+- Requirement gathering
+- Stakeholder meetings
+- Scope finalization
+- Architecture discussions
+- Project charter creation
+
+PHASE 2 - DESIGN (Week 3-4)
+---------------------------
+- UI/UX design
+- Database design
+- Architecture finalization
+- API contract preparation
+
+PHASE 3 - DEVELOPMENT (Week 5-10)
+----------------------------------
+- Backend development
+- Frontend development
+- API integration
+- Unit testing
+- Code reviews
+
+PHASE 4 - QA & UAT (Week 11-12)
+-------------------------------
+- Functional testing
+- Regression testing
+- Bug fixing
+- User Acceptance Testing (UAT)
+
+PHASE 5 - DEPLOYMENT (Week 13)
+------------------------------
+- Production deployment
+- Monitoring setup
+- Rollback plan validation
+- Go-live support
+
+------------------------------------------------------------
+
+8. TEAM STRUCTURE
+=================
+
+Product Manager:
+- Owns requirements and prioritization
+
+Technical Project Manager:
+- Owns planning, coordination, tracking, communication, risks, and delivery
+
+Tech Lead:
+- Owns architecture and technical decisions
+
+Engineering Team:
+- Develops application features
+
+QA Team:
+- Performs testing and quality validation
+
+DevOps Team:
+- Manages infrastructure and deployments
+
+Support Team:
+- Handles post-production support
+
+------------------------------------------------------------
+
+9. RISKS & MITIGATION
+=====================
+
+Risk:
+Scope Creep
+
+Impact:
+Project delays
+
+Mitigation:
+Strict change management process
+
+------------------------------------------------------------
+
+Risk:
+Data inconsistency
+
+Impact:
+Incorrect reporting
+
+Mitigation:
+Validation rules and data audits
+
+------------------------------------------------------------
+
+Risk:
+Integration delays
+
+Impact:
+Sprint slippage
+
+Mitigation:
+Freeze API contracts early
+
+------------------------------------------------------------
+
+Risk:
+Resource dependency
+
+Impact:
+Delivery bottlenecks
+
+Mitigation:
+Backup ownership and cross-training
+
+------------------------------------------------------------
+
+10. PROJECT DEPENDENCIES
+========================
+
+- Existing CRM API availability
+- Business requirement sign-off
+- UI/UX approval
+- Infrastructure readiness
+- UAT stakeholder availability
+- Production deployment window
+
+------------------------------------------------------------
+
+11. SUCCESS METRICS (KPIs)
+==========================
+
+Business KPIs:
+--------------
+- 100% branch adoption
+- 50% reduction in manual reporting
+- Improved lead conversion tracking
+
+Technical KPIs:
+---------------
+- Dashboard response time below 2 seconds
+- 95% data accuracy
+- 99.9% system availability
+- Minimal post-production defects
+
+------------------------------------------------------------
+
+12. TPM RESPONSIBILITIES THROUGHOUT PROJECT
+===========================================
+
+Planning:
+---------
+- Requirement gathering
+- Scope definition
+- Timeline planning
+- Resource planning
+
+Execution:
+----------
+- Sprint planning
+- Daily tracking
+- Risk management
+- Stakeholder communication
+
+Monitoring:
+-----------
+- Burndown tracking
+- Status reporting
+- Dependency management
+
+Closing:
+--------
+- Project sign-off
+- Lessons learned
+- Project closure report
+- Transition to support team
+
+------------------------------------------------------------
+
+NEXT STEP
+=========
+
+Convert this project plan into:
+
+1. Jira Epics
+2. Features
+3. User Stories
+4. Acceptance Criteria
+5. Sprint Plan
+
+This becomes the execution layer of the project.
+
+================ END OF DOCUMENT ================

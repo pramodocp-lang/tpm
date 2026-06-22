@@ -1,0 +1,372 @@
+=========================================================
+EDUCATIONAL CRM SYSTEM
+TPM INTERVIEW Q&A MASTER GUIDE
+=========================================================
+
+PROJECT REFERENCE:
+Educational CRM System
+
+ROLE:
+Technical Project Manager
+
+TEAM SIZE:
+12 Members
+
+METHODOLOGY:
+Agile Scrum
+
+DURATION:
+6 Months
+
+=========================================================
+Q1. TELL ME ABOUT YOURSELF
+=========================================================
+
+I am a Technical Project Manager with experience
+managing end-to-end software delivery projects.
+
+I have worked closely with product owners,
+engineering teams, QA, DevOps, and business
+stakeholders to deliver projects using Agile
+methodologies.
+
+One of my key projects was an Educational CRM
+implementation where I managed planning,
+execution, stakeholder communication, risk
+management, sprint delivery, and production
+deployment.
+
+The project improved lead conversion by 28%
+and reduced manual effort by 55%.
+
+=========================================================
+Q2. TELL ME ABOUT A PROJECT YOU MANAGED
+=========================================================
+
+I managed an Educational CRM implementation
+designed to digitize the complete student
+admission lifecycle.
+
+The project included:
+
+- Lead Management
+- Student Enrollment
+- Course Management
+- Mentor Assignment
+- Attendance Tracking
+- Fee Management
+- Reporting
+
+I led requirement gathering, sprint planning,
+execution tracking, stakeholder management,
+release planning, and go-live support.
+
+The project was delivered successfully across
+six Agile sprints.
+
+=========================================================
+Q3. HOW DO YOU GATHER REQUIREMENTS?
+=========================================================
+
+I conduct:
+
+- Stakeholder Interviews
+- Requirement Workshops
+- Process Walkthroughs
+- Gap Analysis Sessions
+
+For the Educational CRM project, I met with:
+
+- Counsellors
+- Admissions Team
+- Mentors
+- Branch Managers
+- Finance Team
+
+Requirements were documented in Confluence and
+converted into Jira Epics and User Stories.
+
+=========================================================
+Q4. HOW DO YOU HANDLE CHANGING REQUIREMENTS?
+=========================================================
+
+I follow a structured change management process.
+
+Steps:
+
+1. Capture Change Request
+2. Analyze Impact
+3. Estimate Effort
+4. Review with Stakeholders
+5. Obtain Approval
+6. Schedule in Sprint
+
+Example:
+
+A request was raised to add branch-wise revenue
+dashboards after Sprint 3.
+
+I assessed the impact, discussed trade-offs,
+and included it in Sprint 5 without affecting
+the release timeline.
+
+=========================================================
+Q5. HOW DO YOU PRIORITIZE WORK?
+=========================================================
+
+I prioritize based on:
+
+- Business Value
+- Customer Impact
+- Dependencies
+- Risk
+- Effort
+
+Typical Priority Order:
+
+P1 = Critical
+P2 = High
+P3 = Medium
+P4 = Low
+
+=========================================================
+Q6. HOW DO YOU ESTIMATE STORIES?
+=========================================================
+
+We use Planning Poker.
+
+Story Point Scale:
+
+1
+2
+3
+5
+8
+13
+
+Example:
+
+Create Lead Screen = 5 Points
+
+Lead Conversion Workflow = 8 Points
+
+Reporting Dashboard = 13 Points
+
+=========================================================
+Q7. HOW DO YOU MANAGE STAKEHOLDERS?
+=========================================================
+
+I create a communication plan.
+
+Activities:
+
+- Weekly Status Reports
+- Sprint Reviews
+- Steering Committee Meetings
+- Executive Dashboards
+
+This ensures transparency and alignment.
+
+=========================================================
+Q8. HOW DO YOU HANDLE RISKS?
+=========================================================
+
+I maintain a RAID log.
+
+Example Risk:
+
+Business users unavailable for UAT.
+
+Mitigation:
+
+- Early UAT Scheduling
+- Backup Reviewers
+- Escalation Path
+
+=========================================================
+Q9. HOW DO YOU MANAGE DEPENDENCIES?
+=========================================================
+
+I identify dependencies during planning.
+
+Examples:
+
+- SMS Gateway Vendor
+- Email Service Provider
+- DevOps Environment Setup
+
+Dependencies are tracked weekly.
+
+=========================================================
+Q10. HOW DO YOU RUN SPRINT PLANNING?
+=========================================================
+
+Steps:
+
+1. Review Backlog
+2. Clarify Stories
+3. Estimate Work
+4. Confirm Capacity
+5. Select Sprint Scope
+6. Define Sprint Goal
+
+Output:
+
+Committed Sprint Backlog
+
+=========================================================
+Q11. HOW DO YOU TRACK PROJECT HEALTH?
+=========================================================
+
+I monitor:
+
+- Velocity
+- Burndown Chart
+- Defects
+- Risks
+- Dependency Status
+- Schedule Variance
+
+=========================================================
+Q12. HOW DO YOU HANDLE CONFLICTS?
+=========================================================
+
+Example:
+
+Engineering wanted to delay a feature due to
+technical complexity.
+
+Business wanted immediate delivery.
+
+I facilitated discussion, reviewed impacts,
+and agreed on a phased rollout.
+
+Result:
+
+Both parties aligned on delivery strategy.
+
+=========================================================
+Q13. HOW DO YOU HANDLE ESCALATIONS?
+=========================================================
+
+Approach:
+
+1. Understand Issue
+2. Assess Impact
+3. Identify Options
+4. Escalate with Recommendation
+5. Track Resolution
+
+=========================================================
+Q14. HOW DO YOU ENSURE QUALITY?
+=========================================================
+
+Quality Gates:
+
+✓ Code Review
+✓ Unit Testing
+✓ QA Testing
+✓ Regression Testing
+✓ UAT
+
+No feature moves to production without sign-off.
+
+=========================================================
+Q15. HOW DO YOU MANAGE RELEASES?
+=========================================================
+
+Steps:
+
+1. Release Planning
+2. UAT Sign-Off
+3. Production Readiness Review
+4. Deployment
+5. Hypercare Support
+
+=========================================================
+Q16. DESCRIBE A MAJOR ISSUE YOU FACED
+=========================================================
+
+Issue:
+
+SMS Gateway Integration Delay
+
+Impact:
+
+Communication module blocked.
+
+Action:
+
+- Vendor escalation
+- Alternative email solution
+- Re-prioritized sprint work
+
+Result:
+
+No release delay.
+
+=========================================================
+Q17. HOW DO YOU HANDLE TIGHT DEADLINES?
+=========================================================
+
+Actions:
+
+- Re-prioritize scope
+- Focus on MVP
+- Increase stakeholder communication
+- Monitor blockers daily
+
+=========================================================
+Q18. HOW DO YOU MANAGE CROSS-FUNCTIONAL TEAMS?
+=========================================================
+
+Teams Involved:
+
+- Product
+- Engineering
+- QA
+- DevOps
+- Business Users
+
+I ensure alignment through ceremonies,
+communication, and dependency tracking.
+
+=========================================================
+Q19. WHAT METRICS DO YOU TRACK?
+=========================================================
+
+Project Metrics:
+
+- Velocity
+- Burnup
+- Burndown
+- Defect Leakage
+- Cycle Time
+- Lead Time
+- Sprint Completion %
+- Release Predictability
+
+=========================================================
+Q20. WHAT WAS THE OUTCOME OF THE PROJECT?
+=========================================================
+
+Results:
+
+Lead Conversion Improved:
+28%
+
+Manual Effort Reduced:
+55%
+
+Admission Processing Time Reduced:
+40%
+
+User Adoption:
+92%
+
+Project Delivered:
+On Time and Within Budget
+
+=========================================================
+END OF DOCUMENT
+=========================================================

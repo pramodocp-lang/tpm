@@ -1,0 +1,488 @@
+=========================================================
+EDUCATIONAL CRM SYSTEM
+END-TO-END TPM CASE STUDY
+=========================================================
+
+PROJECT NAME:
+Educational CRM System
+
+ROLE:
+Technical Project Manager
+
+PROJECT DURATION:
+6 Months
+
+METHODOLOGY:
+Agile Scrum
+
+TEAM SIZE:
+12 Members
+
+=========================================================
+1. PROJECT BACKGROUND
+=========================================================
+
+The organization was managing student admissions,
+follow-ups, attendance, mentor assignments, and fee
+collections manually using Excel sheets and emails.
+
+Business users faced several challenges:
+
+- Duplicate lead records
+- Missed student follow-ups
+- Manual admission tracking
+- No centralized reporting
+- Lack of visibility into branch performance
+- Revenue leakage due to fee tracking issues
+
+Leadership wanted a centralized CRM platform to
+streamline the entire student lifecycle.
+
+=========================================================
+2. BUSINESS OBJECTIVE
+=========================================================
+
+Build a centralized Educational CRM system that:
+
+- Manages student leads
+- Tracks admissions
+- Handles mentor assignments
+- Monitors attendance
+- Manages fee collections
+- Sends notifications
+- Provides dashboards and reports
+
+Expected Outcomes:
+
+- Increase lead conversion by 25%
+- Reduce manual effort by 50%
+- Improve reporting visibility
+- Improve student engagement
+
+=========================================================
+3. DISCOVERY PHASE
+=========================================================
+
+As TPM, I organized requirement gathering sessions.
+
+Stakeholders Involved:
+
+- Admissions Head
+- Counsellors
+- Front Office Team
+- Branch Managers
+- Mentors
+- Finance Team
+- IT Team
+
+Activities Performed:
+
+✓ Stakeholder Interviews
+✓ Requirement Workshops
+✓ Process Mapping
+✓ Gap Analysis
+✓ Risk Identification
+
+Deliverables:
+
+- BRD
+- Functional Requirements
+- Process Flow Diagrams
+- Initial RAID Log
+
+=========================================================
+4. PROJECT PLANNING
+=========================================================
+
+I created:
+
+- Project Charter
+- Scope Document
+- Release Plan
+- Resource Plan
+- Communication Plan
+- Risk Management Plan
+
+Major Milestones:
+
+Milestone 1:
+Requirement Sign-Off
+
+Milestone 2:
+Architecture Approval
+
+Milestone 3:
+Sprint Execution
+
+Milestone 4:
+UAT Completion
+
+Milestone 5:
+Production Go-Live
+
+=========================================================
+5. JIRA SETUP
+=========================================================
+
+Created Project Structure:
+
+EPICS
+
+1. Lead Management
+2. Student Enrollment
+3. Course Management
+4. Mentor Management
+5. Attendance Management
+6. Payment Management
+7. Communication
+8. Reporting
+9. User Management
+10. Audit & Compliance
+
+Converted requirements into:
+
+Epics
+   ↓
+Features
+   ↓
+User Stories
+   ↓
+Tasks
+   ↓
+Subtasks
+
+Configured Workflow:
+
+Backlog
+↓
+Ready
+↓
+In Progress
+↓
+Code Review
+↓
+QA Testing
+↓
+UAT
+↓
+Done
+
+=========================================================
+6. SPRINT PLANNING
+=========================================================
+
+Sprint Duration:
+2 Weeks
+
+Number of Sprints:
+6
+
+Sprint Activities:
+
+- Backlog Refinement
+- Story Estimation
+- Sprint Planning
+- Daily Standups
+- Sprint Reviews
+- Retrospectives
+
+Estimation Technique:
+
+Planning Poker
+
+Story Point Scale:
+
+1,2,3,5,8,13
+
+=========================================================
+7. EXECUTION PHASE
+=========================================================
+
+Sprint 1
+
+Delivered:
+- Lead Creation
+- Lead Search
+- Lead Tracking
+
+Sprint 2
+
+Delivered:
+- Student Enrollment
+- Course Assignment
+
+Sprint 3
+
+Delivered:
+- Course Management
+- Mentor Assignment
+
+Sprint 4
+
+Delivered:
+- Attendance Tracking
+- Payment Management
+
+Sprint 5
+
+Delivered:
+- Communication Module
+- Reporting Dashboards
+
+Sprint 6
+
+Delivered:
+- User Management
+- Audit Logging
+- Release Activities
+
+=========================================================
+8. STAKEHOLDER MANAGEMENT
+=========================================================
+
+Weekly Activities:
+
+- Status Reporting
+- Sprint Review Meetings
+- Risk Discussions
+- Dependency Tracking
+
+Communication Channels:
+
+- Jira
+- Confluence
+- Email
+- Slack
+- Weekly Governance Meetings
+
+Executive Dashboard Included:
+
+- Sprint Progress
+- Budget Status
+- Risks
+- Defects
+- Release Readiness
+
+=========================================================
+9. RISK MANAGEMENT
+=========================================================
+
+Risk 1:
+Changing Business Requirements
+
+Impact:
+High
+
+Mitigation:
+Formal Change Control Process
+
+---------------------------------------------------------
+
+Risk 2:
+Limited User Availability
+
+Impact:
+Medium
+
+Mitigation:
+Pre-scheduled UAT Calendar
+
+---------------------------------------------------------
+
+Risk 3:
+Vendor Dependency
+
+Impact:
+Medium
+
+Mitigation:
+Early Integration Testing
+
+=========================================================
+10. ISSUE MANAGEMENT
+=========================================================
+
+Major Issue:
+
+SMS Gateway Integration Delay
+
+Impact:
+
+Communication Module Blocked
+
+Action Taken:
+
+- Escalated to Vendor
+- Created Temporary Email Solution
+- Re-prioritized Sprint Backlog
+
+Result:
+
+No impact on overall release date.
+
+=========================================================
+11. QUALITY MANAGEMENT
+=========================================================
+
+Quality Controls:
+
+✓ Code Reviews
+✓ Unit Testing
+✓ QA Testing
+✓ Regression Testing
+✓ UAT Testing
+
+Defect Process:
+
+New
+↓
+Assigned
+↓
+Fixed
+↓
+Retested
+↓
+Closed
+
+=========================================================
+12. RELEASE MANAGEMENT
+=========================================================
+
+Pre-Go-Live Checklist:
+
+✓ UAT Sign-Off
+✓ Performance Testing
+✓ Security Review
+✓ Production Approval
+✓ Rollback Plan
+
+Deployment Strategy:
+
+Blue-Green Deployment
+
+Release Window:
+
+Weekend
+
+=========================================================
+13. GO-LIVE SUPPORT
+=========================================================
+
+Hypercare Duration:
+
+2 Weeks
+
+Activities:
+
+- Monitor Production Issues
+- User Support
+- Defect Resolution
+- Performance Monitoring
+
+Daily War Room Meetings Conducted
+
+=========================================================
+14. PROJECT METRICS
+=========================================================
+
+Sprint Velocity:
+30 Story Points Average
+
+Story Completion Rate:
+95%
+
+Production Defects:
+Less than 3 Critical
+
+Schedule Variance:
+Within 5%
+
+Budget Variance:
+Within 3%
+
+User Adoption:
+92%
+
+=========================================================
+15. PROJECT OUTCOME
+=========================================================
+
+Business Results:
+
+Lead Conversion:
++28%
+
+Manual Effort:
+-55%
+
+Admission Processing Time:
+-40%
+
+Fee Collection Visibility:
++100%
+
+Reporting Accuracy:
++90%
+
+Stakeholder Satisfaction:
+High
+
+=========================================================
+16. PROJECT CLOSURE
+=========================================================
+
+Activities Completed:
+
+✓ Production Stabilized
+✓ Knowledge Transfer
+✓ Documentation Completed
+✓ Lessons Learned Conducted
+✓ Final Sign-Off Received
+
+=========================================================
+17. LESSONS LEARNED
+=========================================================
+
+What Went Well:
+
+- Strong stakeholder engagement
+- Effective sprint planning
+- Early risk identification
+
+What Could Improve:
+
+- Earlier integration testing
+- Better dependency tracking
+- Additional UAT cycles
+
+=========================================================
+18. TPM INTERVIEW ANSWER
+(TELL ME ABOUT A PROJECT YOU MANAGED)
+=========================================================
+
+I managed an Educational CRM implementation aimed
+at digitizing the student admission lifecycle.
+
+The project involved lead management, student
+enrollment, mentor assignments, attendance,
+payments, communication, and reporting.
+
+As the TPM, I led requirement gathering,
+planning, sprint execution, stakeholder
+management, risk mitigation, release planning,
+and production deployment.
+
+The project was delivered using Agile Scrum
+across six sprints with a cross-functional team
+of 12 members.
+
+The solution improved lead conversion by 28%,
+reduced manual effort by 55%, and increased
+reporting visibility across all branches.
+
+The project was delivered on time and within
+budget while achieving over 90% user adoption.
+
+=========================================================
+END OF DOCUMENT
+=========================================================

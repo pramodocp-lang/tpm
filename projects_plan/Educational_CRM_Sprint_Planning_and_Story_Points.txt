@@ -1,0 +1,341 @@
+=========================================================
+EDUCATIONAL CRM
+SPRINT PLANNING & STORY POINT ESTIMATION
+=========================================================
+
+PROJECT DURATION:
+12 Weeks
+
+SPRINT DURATION:
+2 Weeks
+
+TOTAL SPRINTS:
+6
+
+TEAM STRUCTURE:
+1 TPM
+1 Product Owner
+1 Scrum Master
+2 Frontend Developers
+2 Backend Developers
+1 QA Engineer
+1 DevOps Engineer
+1 UI/UX Designer
+
+=========================================================
+STORY POINT SCALE
+=========================================================
+
+1  = Very Small
+2  = Small
+3  = Medium
+5  = Moderate
+8  = Large
+13 = Very Large
+
+=========================================================
+SPRINT 0
+PROJECT INITIATION & SETUP
+=========================================================
+
+Objectives:
+- Requirements Gathering
+- Architecture Design
+- Wireframes
+- Environment Setup
+- Jira Setup
+- Confluence Setup
+
+Stories:
+
+Story: Create Jira Project
+Points: 2
+
+Story: Setup Repositories
+Points: 3
+
+Story: Setup CI/CD Pipeline
+Points: 5
+
+Story: Define Database Design
+Points: 5
+
+Story: Create Wireframes
+Points: 5
+
+Total Points:
+20
+
+=========================================================
+SPRINT 1
+LEAD MANAGEMENT
+=========================================================
+
+Epic:
+Lead Management
+
+Stories:
+
+Create Lead
+Points: 5
+
+Update Lead
+Points: 3
+
+Search Lead
+Points: 5
+
+Lead Status Tracking
+Points: 5
+
+Lead Dashboard
+Points: 8
+
+Total Points:
+26
+
+Sprint Goal:
+Enable counsellors to manage and track leads.
+
+=========================================================
+SPRINT 2
+STUDENT ENROLLMENT
+=========================================================
+
+Epic:
+Student Enrollment
+
+Stories:
+
+Lead Conversion
+Points: 8
+
+Student Profile Creation
+Points: 5
+
+Course Assignment
+Points: 5
+
+Enrollment Validation
+Points: 3
+
+Student Search
+Points: 5
+
+Total Points:
+26
+
+Sprint Goal:
+Convert leads into enrolled students.
+
+=========================================================
+SPRINT 3
+COURSE & MENTOR MANAGEMENT
+=========================================================
+
+Epic:
+Course Management
+
+Stories:
+
+Create Course
+Points: 5
+
+Update Course
+Points: 3
+
+Delete Course
+Points: 3
+
+View Courses
+Points: 5
+
+Mentor Assignment
+Points: 8
+
+Mentor Student View
+Points: 5
+
+Total Points:
+29
+
+Sprint Goal:
+Manage courses and mentor assignments.
+
+=========================================================
+SPRINT 4
+ATTENDANCE & PAYMENTS
+=========================================================
+
+Epic:
+Attendance Management
+
+Stories:
+
+Mark Attendance
+Points: 8
+
+Attendance Report
+Points: 5
+
+Record Payment
+Points: 8
+
+Generate Receipt
+Points: 5
+
+Fee Due Tracking
+Points: 5
+
+Total Points:
+31
+
+Sprint Goal:
+Track attendance and fee collection.
+
+=========================================================
+SPRINT 5
+COMMUNICATION & REPORTING
+=========================================================
+
+Epic:
+Communication Management
+
+Stories:
+
+Email Notifications
+Points: 8
+
+SMS Notifications
+Points: 8
+
+Admission Dashboard
+Points: 8
+
+Revenue Dashboard
+Points: 8
+
+Export Reports
+Points: 5
+
+Total Points:
+37
+
+Sprint Goal:
+Provide communication and business reporting.
+
+=========================================================
+SPRINT 6
+USER MANAGEMENT & RELEASE
+=========================================================
+
+Epic:
+User Management
+
+Stories:
+
+Create User
+Points: 5
+
+Manage Roles
+Points: 8
+
+Permission Matrix
+Points: 8
+
+Audit Logs
+Points: 8
+
+Bug Fixes
+Points: 5
+
+Production Deployment
+Points: 5
+
+Total Points:
+39
+
+Sprint Goal:
+Prepare production-ready release.
+
+=========================================================
+RELEASE PLAN
+=========================================================
+
+Release 1.0
+
+Included Features:
+
+✓ Lead Management
+✓ Student Enrollment
+✓ Course Management
+✓ Mentor Management
+✓ Attendance Management
+✓ Payment Management
+✓ Communication Module
+✓ Reporting Dashboard
+✓ User Management
+✓ Audit Logs
+
+Release Date:
+End of Sprint 6
+
+=========================================================
+JIRA WORKFLOW
+=========================================================
+
+Backlog
+   ↓
+Selected For Development
+   ↓
+In Progress
+   ↓
+Code Review
+   ↓
+QA Testing
+   ↓
+UAT
+   ↓
+Ready For Release
+   ↓
+Done
+
+=========================================================
+TPM RESPONSIBILITIES DURING EACH SPRINT
+=========================================================
+
+Before Sprint:
+- Backlog Grooming
+- Story Refinement
+- Capacity Planning
+- Risk Identification
+
+During Sprint:
+- Daily Standups
+- Blocker Resolution
+- Stakeholder Communication
+- Sprint Tracking
+
+After Sprint:
+- Sprint Review
+- Sprint Retrospective
+- Metrics Analysis
+- Release Readiness Review
+
+=========================================================
+KEY TPM METRICS
+=========================================================
+
+Sprint Velocity
+Story Completion %
+Burndown Chart
+Defect Leakage
+Team Capacity
+Cycle Time
+Lead Time
+Release Predictability
+Customer Satisfaction
+
+=========================================================
+END OF DOCUMENT
+=========================================================
