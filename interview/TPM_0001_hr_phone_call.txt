@@ -8,37 +8,64 @@ My core focus areas include project planning, stakeholder management, risk mitig
 
 --------------------------------------------------
 
-2. Why are you looking for a change?
+2. When did you leave your previous organization?
 
-I am looking for new challenges, opportunities to work on larger projects, and a role where I can continue to grow professionally.
+I left my previous organization in June 2025.
 
 --------------------------------------------------
 
-3. Why do you want to join our company?
+3 Why did you leave your previous organization?  OR 
+Why did you left the organisation ?
+
+The project I was supporting has concluded, and I am now exploring opportunities 
+where I can apply my project management experience, contribute to impactful initiatives, and continue growing in my career.
+
+--------------------------------------------------
+
+4. What are your salary expectations?
+
+Based on my experience in technical project management, project delivery, stakeholder management,
+I am looking for a compensation package in the range of ₹12LPA to ₹15LPA.
+
+However, I am open to discussing the overall package and would
+like to understand the complete compensation structure.
+
+--------------------------------------------------
+
+If Offer Is Lower:
+
+Thank you for the offer.
+I am very interested in this opportunity.
+Based on my experience and the responsibilities of this role,
+I was expecting something closer to ₹Y.
+
+--------------------------------------------------
+
+6. Why do you want to join our company?
 
 I am impressed by the company's products and growth. The role aligns well with my experience, and I believe it offers a good opportunity to contribute and learn.
 
 --------------------------------------------------
 
-4. Tell me about a challenging project.
+7. Tell me about a challenging project.
 
 We had a critical release with tight timelines and dependencies across teams. Through regular tracking and communication, we managed the risks and delivered the release successfully.
 
 --------------------------------------------------
 
-5. How do you handle conflicts?
+8. How do you handle conflicts?
 
 I focus on understanding different perspectives, encouraging open communication, and finding a solution that supports the project goals.
 
 --------------------------------------------------
 
-6. How do you handle pressure?
+9. How do you handle pressure?
 
 I prioritize tasks, stay organized, and communicate proactively. Clear planning helps me manage pressure effectively.
 
 --------------------------------------------------
 
-7. What are your strengths?
+10. What are your strengths?
 
 • Stakeholder Management
 • Communication
@@ -48,19 +75,19 @@ I prioritize tasks, stay organized, and communicate proactively. Clear planning 
 
 --------------------------------------------------
 
-8. What is your weakness?
+11. What is your weakness?
 
 Sometimes I spend extra time on planning, but I've learned to balance planning with execution.
 
 --------------------------------------------------
 
-9. Where do you see yourself in 5 years?
+12. Where do you see yourself in 5 years?
 
 I see myself taking on larger programs and leadership responsibilities while continuing to grow as a project management professional.
 
 --------------------------------------------------
 
-10. Why should we hire you?
+13. Why should we hire you?
 
 I bring project delivery experience, strong coordination skills, and the ability to work effectively with cross-functional teams to achieve business goals.
 
