@@ -1,0 +1,488 @@
+=========================================================
+POWER BI ROADMAP: 0 TO TPM DASHBOARD CREATION
+=========================================================
+
+Goal:
+Become capable of creating Executive, Project Management,
+Agile, Resource Utilization, Risk, and Educational CRM
+Dashboards using Power BI.
+
+Estimated Duration:
+8 Weeks
+
+Prerequisites:
+- Basic Excel Knowledge
+- TPM Fundamentals
+- Jira Basics
+- Confluence Basics
+
+=========================================================
+PHASE 1 - POWER BI FUNDAMENTALS (WEEK 1)
+=========================================================
+
+DAY 1 - INTRODUCTION TO POWER BI
+
+Learn:
+- What is Power BI
+- Power BI Desktop
+- Power BI Service
+- Power BI Mobile
+- Reports vs Dashboards
+- Dataset vs Data Source
+
+Practice:
+- Install Power BI Desktop
+- Explore interface
+- Create first report
+
+Outcome:
+Understand Power BI architecture.
+
+---------------------------------------------------------
+
+DAY 2 - DATA SOURCES
+
+Learn:
+- Excel
+- CSV
+- SQL Server
+- SharePoint
+- APIs
+- Web Data
+
+Practice:
+Import:
+- Employee Data
+- Student Data
+- Project Data
+
+Outcome:
+Load data successfully.
+
+---------------------------------------------------------
+
+DAY 3 - POWER QUERY
+
+Learn:
+- Remove Duplicates
+- Rename Columns
+- Replace Values
+- Split Columns
+- Merge Columns
+- Change Data Types
+
+Practice:
+Clean CRM Dataset
+
+Outcome:
+Prepare clean datasets.
+
+---------------------------------------------------------
+
+DAY 4 - DATA MODELING
+
+Learn:
+- One-to-One Relationship
+- One-to-Many Relationship
+- Many-to-Many Relationship
+- Star Schema
+- Fact Table
+- Dimension Table
+
+Practice:
+
+Fact_Project
+Dim_Employee
+Dim_Date
+Dim_Department
+
+Outcome:
+Understand data modeling.
+
+---------------------------------------------------------
+
+DAY 5 - BASIC VISUALIZATIONS
+
+Learn:
+- Bar Chart
+- Column Chart
+- Pie Chart
+- Table
+- Matrix
+- Card
+- KPI Visual
+
+Practice:
+Create HR Dashboard
+
+Outcome:
+Build simple reports.
+
+=========================================================
+PHASE 2 - DAX FUNDAMENTALS (WEEK 2)
+=========================================================
+
+DAY 6 - CALCULATED COLUMNS
+
+Examples:
+
+Full Name =
+Employee[FirstName] &
+" " &
+Employee[LastName]
+
+---------------------------------------------------------
+
+DAY 7 - MEASURES
+
+Examples:
+
+Total Sales =
+SUM(Sales[Amount])
+
+Total Projects =
+COUNT(Project[ProjectID])
+
+---------------------------------------------------------
+
+DAY 8 - AGGREGATION FUNCTIONS
+
+Learn:
+- SUM()
+- AVERAGE()
+- MIN()
+- MAX()
+- COUNT()
+- DISTINCTCOUNT()
+
+---------------------------------------------------------
+
+DAY 9 - DATE FUNCTIONS
+
+Learn:
+- TODAY()
+- YEAR()
+- MONTH()
+- QUARTER()
+
+---------------------------------------------------------
+
+DAY 10 - TIME INTELLIGENCE
+
+Learn:
+- YTD
+- MTD
+- QTD
+
+Outcome:
+Become comfortable with DAX.
+
+=========================================================
+PHASE 3 - ADVANCED REPORTING (WEEK 3)
+=========================================================
+
+DAY 11 - FILTERS
+
+Learn:
+- Visual Level Filters
+- Page Level Filters
+- Report Level Filters
+
+---------------------------------------------------------
+
+DAY 12 - SLICERS
+
+Examples:
+- Project
+- Team
+- Sprint
+- Department
+
+---------------------------------------------------------
+
+DAY 13 - BOOKMARKS
+
+Learn:
+- Bookmarks
+- Navigation Buttons
+- Custom Menus
+
+---------------------------------------------------------
+
+DAY 14 - DRILL FEATURES
+
+Learn:
+- Drill Down
+- Drill Through
+- Tooltips
+
+---------------------------------------------------------
+
+DAY 15 - CONDITIONAL FORMATTING
+
+Traffic Lights:
+
+Green = Good
+Amber = Warning
+Red = Risk
+
+Outcome:
+Build professional dashboards.
+
+=========================================================
+PHASE 4 - BUSINESS DASHBOARDS (WEEK 4)
+=========================================================
+
+DASHBOARD 1 - HR DASHBOARD
+
+KPIs:
+- Total Employees
+- Active Employees
+- Attrition
+- Joining Trends
+
+---------------------------------------------------------
+
+DASHBOARD 2 - SALES DASHBOARD
+
+KPIs:
+- Revenue
+- Profit
+- Customers
+- Region Performance
+
+---------------------------------------------------------
+
+DASHBOARD 3 - CRM DASHBOARD
+
+KPIs:
+- Leads
+- Admissions
+- Conversions
+- Mentor Assignments
+
+Outcome:
+Create business dashboards.
+
+=========================================================
+PHASE 5 - TPM DASHBOARD CREATION (WEEK 5)
+=========================================================
+
+DASHBOARD 4 - PROJECT HEALTH DASHBOARD
+
+KPIs:
+- Total Projects
+- Active Projects
+- Completed Projects
+- Delayed Projects
+
+Visuals:
+- Project Status
+- Project Timeline
+- Project Progress
+- Project Risks
+
+---------------------------------------------------------
+
+DASHBOARD 5 - SPRINT DASHBOARD
+
+KPIs:
+- Sprint Capacity
+- Completed Stories
+- Pending Stories
+- Blocked Stories
+
+Visuals:
+- Burndown Chart
+- Velocity Chart
+- Sprint Trend
+
+---------------------------------------------------------
+
+DASHBOARD 6 - RESOURCE UTILIZATION DASHBOARD
+
+KPIs:
+- Resource Allocation %
+- Bench %
+- Overloaded Resources
+
+Visuals:
+- Team Capacity
+- Resource Heatmap
+- Department Utilization
+
+---------------------------------------------------------
+
+DASHBOARD 7 - RISK & ISSUE DASHBOARD
+
+KPIs:
+- Open Risks
+- Closed Risks
+- High Priority Risks
+- Critical Issues
+
+Visuals:
+- Risk Matrix
+- Issue Aging
+- Risk Trend
+
+---------------------------------------------------------
+
+DASHBOARD 8 - EXECUTIVE DASHBOARD
+
+KPIs:
+- Budget
+- Schedule
+- Scope
+- Quality
+- Resources
+- Risks
+
+Indicators:
+- Green
+- Amber
+- Red
+
+Outcome:
+TPM-Level Dashboard Creation.
+
+=========================================================
+PHASE 6 - JIRA + POWER BI INTEGRATION (WEEK 6)
+=========================================================
+
+Learn Jira Data Export
+
+Fields:
+- Epic
+- Story
+- Task
+- Bug
+- Sprint
+- Assignee
+- Status
+- Story Points
+
+Create:
+
+AGILE DASHBOARD
+
+Metrics:
+- Velocity
+- Burndown
+- Sprint Completion
+- Bug Trend
+- Lead Time
+- Cycle Time
+
+Outcome:
+Agile Reporting Dashboard.
+
+=========================================================
+PHASE 7 - EDUCATIONAL CRM PORTFOLIO PROJECT
+(WEEK 7)
+=========================================================
+
+PROJECT:
+Educational CRM System
+
+PAGE 1:
+Executive Summary
+
+KPIs:
+- Admissions
+- Leads
+- Revenue
+- Conversion Rate
+
+---------------------------------------------------------
+
+PAGE 2:
+Lead Funnel
+
+Stages:
+- Lead
+- Qualified
+- Counselling
+- Admission
+
+---------------------------------------------------------
+
+PAGE 3:
+Branch Performance
+
+KPIs:
+- Branch-wise Admissions
+- Revenue
+- Counsellor Performance
+
+---------------------------------------------------------
+
+PAGE 4:
+Mentor Dashboard
+
+KPIs:
+- Assigned Students
+- Completed Sessions
+- Pending Sessions
+
+---------------------------------------------------------
+
+PAGE 5:
+Project Management Dashboard
+
+KPIs:
+- Sprint Progress
+- Risks
+- Issues
+- Release Status
+
+Outcome:
+Portfolio Project Ready.
+
+=========================================================
+PHASE 8 - TPM INTERVIEW PREPARATION
+(WEEK 8)
+=========================================================
+
+Be Ready To Answer:
+
+1. How did you collect data?
+2. Why Power BI?
+3. Which KPIs did you track?
+4. How did you measure project health?
+5. How did you calculate utilization?
+6. How did you integrate Jira?
+7. How did leadership use the dashboard?
+8. Which DAX measures did you create?
+9. How did you handle data quality issues?
+10. What business value did the dashboard provide?
+
+=========================================================
+FINAL ROADMAP SUMMARY
+=========================================================
+
+Week 1  -> Power BI Fundamentals
+Week 2  -> DAX Fundamentals
+Week 3  -> Advanced Reporting
+Week 4  -> Business Dashboards
+Week 5  -> TPM Dashboards
+Week 6  -> Jira Integration
+Week 7  -> Educational CRM Portfolio Project
+Week 8  -> TPM Interview Preparation
+
+FINAL GOAL
+
+Create a TPM Portfolio containing:
+
+1. Project Health Dashboard
+2. Sprint Dashboard
+3. Resource Dashboard
+4. Risk Dashboard
+5. Executive Dashboard
+6. Educational CRM Dashboard
+
+These projects can be showcased in TPM interviews,
+LinkedIn portfolio, and resume projects.
+=========================================================
+END OF DOCUMENT
+=========================================================

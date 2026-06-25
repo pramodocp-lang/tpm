@@ -1,10 +1,13 @@
-“TPM and Design Team”
+TPM and Design Team
 or
-“How does a TPM work with the Design Team?”
+How does a TPM work with the Design Team?
 
 3) Answer:
 
-A Technical Program Manager (TPM) works closely with the Design Team (UX/UI designers) to ensure that product design is feasible, aligned with requirements, and delivered on time with engineering.
+A Technical Program Manager (TPM) works closely with the 
+Design Team (UX/UI designers) to ensure that product design is feasible, aligned with requirements, 
+and delivered on time with engineering.
+
 
 Why TPM communicates with the Design Team:
 
@@ -47,4 +50,6 @@ Design Team (how it should look/feel)
 Engineering (how to build it)
 Simple interview line:
 
-A TPM works with the Design Team to ensure user experience designs are feasible, aligned with requirements, and delivered on time without impacting engineering timelines.
+A TPM works with the Design Team to ensure user experience designs are feasible, 
+aligned with requirements, and delivered on time without impacting engineering timelines.
+

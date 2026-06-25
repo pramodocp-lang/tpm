@@ -1,0 +1,14 @@
+Educational CRM System
+│
+├── 01_Project_Home
+├── 02_Project_Charter
+├── 03_Stakeholder_Management
+├── 04_Requirements
+├── 05_Epics_and_User_Stories
+├── 06_Sprint_Management
+├── 07_RAID_Log
+├── 08_Quality_Management
+├── 09_Release_Management
+├── 10_Project_Reports
+├── 11_Project_Closure
+└── 12_Lessons_Learned

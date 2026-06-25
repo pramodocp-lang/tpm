@@ -1,0 +1,134 @@
+FILE NAME: RAID_Project_Lifecycle_Usage_Notepad.txt
+
+=========================================================
+WHERE RAID COMES IN PROJECT PHASES
+=========================================================
+
+RAID (Risks, Assumptions, Issues, Dependencies)
+is NOT a separate phase.
+
+It is a TRACKING ARTIFACT used across multiple phases.
+
+=========================================================
+
+PROJECT LIFECYCLE + RAID USAGE
+=========================================================
+
+1. INITIATION PHASE
+---------------------------------------------------------
+- Project idea / charter created
+- High-level scope defined
+- Stakeholders identified
+
+RAID Usage:
+- Initial risks identified (high-level)
+- Early assumptions captured
+
+---------------------------------------------------------
+
+2. PLANNING PHASE  ← RAID STARTS HERE (FORMALLY)
+---------------------------------------------------------
+- Detailed planning begins
+- Scope breakdown
+- Timeline and milestones defined
+- Resource planning
+
+RAID Usage:
+- RAID log is CREATED here
+- Risks identified in detail
+- Dependencies mapped
+- Assumptions documented
+- Initial issues recorded
+
+---------------------------------------------------------
+
+3. DESIGN / ARCHITECTURE PHASE
+---------------------------------------------------------
+- Solution design
+- Technical architecture
+- Data mapping design
+
+RAID Usage:
+- New design risks added
+- Dependency updates
+- Assumptions validated/refined
+
+---------------------------------------------------------
+
+4. DEVELOPMENT PHASE
+---------------------------------------------------------
+- Build / coding starts
+- Integrations developed
+
+RAID Usage:
+- New issues logged
+- Technical risks updated
+- Dependency tracking continues
+
+---------------------------------------------------------
+
+5. TESTING PHASE
+---------------------------------------------------------
+- QA testing
+- UAT execution
+- Integration testing
+
+RAID Usage:
+- Defects recorded as ISSUES
+- Risk severity updated
+- Dependency delays tracked
+
+---------------------------------------------------------
+
+6. DEPLOYMENT / MIGRATION PHASE
+---------------------------------------------------------
+- Production cutover
+- Go-live execution
+
+RAID Usage:
+- Real-time RAID tracking in WAR ROOM
+- Critical issues escalated immediately
+- Live dependency monitoring
+
+---------------------------------------------------------
+
+7. HYPERCARE PHASE
+---------------------------------------------------------
+- Post go-live support
+- Issue resolution
+
+RAID Usage:
+- Production issues tracked
+- Stabilization risks monitored
+- Dependency closure
+
+---------------------------------------------------------
+
+8. CLOSURE PHASE
+---------------------------------------------------------
+- Project sign-off
+- Documentation closure
+- Lessons learned
+
+RAID Usage:
+- Final RAID cleanup
+- Closed items documented
+- Learnings captured
+
+=========================================================
+
+FINAL SUMMARY
+=========================================================
+
+RAID is:
+- Created in PLANNING phase
+- Used continuously in ALL phases
+- Closed only during PROJECT CLOSURE
+
+=========================================================
+
+INTERVIEW ONE-LINER
+=========================================================
+
+"RAID log is formally created during the Planning phase and continuously used throughout the project lifecycle from design to hypercare for proactive risk and dependency management."
+=========================================================

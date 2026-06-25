@@ -1,0 +1,352 @@
+=========================================================
+POWER BI FOR TECHNICAL PROJECT MANAGERS (TPM)
+=============================================
+
+Author: Pramod Kumar
+Purpose: TPM Interview Preparation & Reporting Skills
+
+=========================================================
+
+1. WHAT IS POWER BI?
+   =========================================================
+
+Power BI is a Business Intelligence (BI) and Data
+Visualization tool developed by Microsoft.
+
+It helps organizations:
+
+* Analyze Data
+* Create Reports
+* Build Dashboards
+* Monitor KPIs
+* Support Decision Making
+
+=========================================================
+2. WHY SHOULD A TPM LEARN POWER BI?
+===================================
+
+As a Technical Project Manager, Power BI helps in:
+
+* Project Status Reporting
+* Sprint Tracking
+* Resource Utilization
+* Risk Monitoring
+* Budget Tracking
+* UAT Progress Reporting
+* Release Tracking
+* Executive Dashboards
+
+=========================================================
+3. POWER BI ARCHITECTURE
+========================
+
+Data Sources
+|
+V
+
+Power Query (ETL)
+|
+V
+
+Data Model
+|
+V
+
+DAX Calculations
+|
+V
+
+Reports
+|
+V
+
+Dashboards
+|
+V
+
+Power BI Service
+
+=========================================================
+4. POWER BI COMPONENTS
+======================
+
+1. Power BI Desktop
+
+   * Report Development Tool
+
+2. Power BI Service
+
+   * Cloud Publishing Platform
+
+3. Power BI Mobile
+
+   * Mobile Dashboard Access
+
+4. Power Query
+
+   * Data Transformation
+
+5. DAX
+
+   * Formula Language
+
+=========================================================
+5. COMMON DATA SOURCES
+======================
+
+* Excel
+* CSV
+* SQL Server
+* MySQL
+* PostgreSQL
+* SharePoint
+* REST APIs
+* Azure Services
+
+=========================================================
+6. POWER QUERY
+==============
+
+Purpose:
+Extract, Transform and Load Data (ETL)
+
+Common Activities:
+
+* Remove Columns
+* Rename Columns
+* Merge Tables
+* Split Columns
+* Handle Null Values
+* Filter Records
+
+=========================================================
+7. DATA MODELING
+================
+
+Relationships:
+
+One-to-One
+One-to-Many
+Many-to-One
+
+Example:
+
+Projects
+|
+| ProjectID
+|
+Tasks
+
+=========================================================
+8. DAX (DATA ANALYSIS EXPRESSIONS)
+==================================
+
+DAX is used for:
+
+* Measures
+* Calculated Columns
+* KPIs
+
+Example:
+
+Total Budget =
+SUM(Project[Budget])
+
+Open Risks =
+COUNT(Project[RiskID])
+
+=========================================================
+9. CALCULATED COLUMN VS MEASURE
+===============================
+
+CALCULATED COLUMN
+
+* Stored in table
+* Calculated row-by-row
+
+Example:
+
+Budget Variance =
+Budget - ActualCost
+
+---
+
+MEASURE
+
+* Calculated dynamically
+* Depends on report filters
+
+Example:
+
+Total Budget =
+SUM(Project[Budget])
+
+=========================================================
+10. TPM DASHBOARD EXAMPLE
+=========================
+
+Executive Summary
+
+Total Projects        : 12
+On Track              : 8
+At Risk               : 3
+Delayed               : 1
+
+Budget Utilization    : 82%
+Resource Utilization  : 88%
+Sprint Velocity       : 45 SP
+
+=========================================================
+11. PROJECT HEALTH DASHBOARD
+============================
+
+## Project     Schedule   Budget   Risk
+
+CRM         Green      Green    Amber
+ERP         Amber      Green    Amber
+Portal      Green      Green    Green
+
+=========================================================
+12. AGILE METRICS DASHBOARD
+===========================
+
+Sprint Velocity
+Sprint Burndown
+Story Points Completed
+Open Defects
+UAT Progress
+Release Readiness
+
+=========================================================
+13. CHARTS USED IN POWER BI
+===========================
+
+1. Bar Chart
+2. Column Chart
+3. Line Chart
+4. Pie Chart
+5. Donut Chart
+6. KPI Card
+7. Matrix Table
+8. Gauge Chart
+9. Funnel Chart
+10. Treemap
+
+=========================================================
+14. TPM PROJECT IDEA
+====================
+
+PROJECT HEALTH DASHBOARD
+
+Excel Columns:
+
+Project Name
+Project Manager
+Status
+Budget
+Actual Cost
+Open Risks
+Open Issues
+Sprint Velocity
+Release Date
+
+Visuals:
+
+* KPI Cards
+* Budget Trend
+* Risk Trend
+* Sprint Velocity
+* Project Health Matrix
+
+=========================================================
+15. POWER BI INTERVIEW QUESTIONS
+================================
+
+Q1. What is Power BI?
+
+Power BI is Microsoft's business intelligence platform
+used to transform data into reports and dashboards.
+
+---
+
+Q2. What is DAX?
+
+DAX is a formula language used in Power BI for creating
+measures and calculated columns.
+
+---
+
+Q3. What is Power Query?
+
+Power Query is the ETL component used to extract,
+transform and load data.
+
+---
+
+Q4. Difference between Measure and Calculated Column?
+
+Calculated Column:
+
+* Stored in data model
+* Row-by-row calculation
+
+Measure:
+
+* Dynamic calculation
+* Depends on filter context
+
+---
+
+Q5. What is a Dashboard?
+
+A dashboard is a single-page view that displays
+important business metrics and KPIs.
+
+=========================================================
+16. TPM POWER BI LEARNING ROADMAP
+=================================
+
+STEP 1:
+Excel Basics
+
+STEP 2:
+Power BI Desktop
+
+STEP 3:
+Power Query
+
+STEP 4:
+Data Modeling
+
+STEP 5:
+DAX Fundamentals
+
+STEP 6:
+Dashboard Design
+
+STEP 7:
+Project Health Dashboard
+
+STEP 8:
+Power BI Service
+
+STEP 9:
+Report Sharing
+
+STEP 10:
+Real TPM Reporting Use Cases
+
+=========================================================
+17. TPM REPORTS TO BUILD
+========================
+
+1. Project Health Dashboard
+2. Sprint Dashboard
+3. RAID Dashboard
+4. Resource Utilization Dashboard
+5. Release Management Dashboard
+6. Executive Portfolio Dashboard
+
+=========================================================
+END OF DOCUMENT
+===============
