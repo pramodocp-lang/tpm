@@ -1,0 +1,34 @@
+Q. How do you approach stakeholder management and communication in complex projects?
+
+A.
+I approach stakeholder management and communication in complex projects through structured identification, clear alignment, and continuous engagement.
+
+First, I identify all stakeholders and categorize them based on their influence and interest using a stakeholder matrix (high power vs high interest). 
+This helps me understand who needs frequent updates and who needs periodic communication.
+
+Next, I establish clear expectations early in the project by aligning on:
+- Project scope and objectives
+- Roles and responsibilities
+- Communication cadence
+- Decision-making process
+
+For communication, I tailor the approach based on stakeholder type:
+- Executive stakeholders: High-level dashboards, milestones, risks, and business impact
+- Product/Business teams: Feature progress, priorities, and delivery timelines
+- Engineering/QA teams: Daily standups, sprint planning, blockers, and technical details
+
+I maintain transparency by proactively sharing:
+- Progress updates
+- Risks and mitigation plans
+- Dependencies and blockers
+
+For complex projects, I also use structured communication channels such as:
+- Weekly status reports
+- RAID logs (Risks, Assumptions, Issues, Dependencies)
+- Sprint ceremonies (standups, reviews, retrospectives)
+- Ad-hoc escalation calls when needed
+
+Example:
+If a critical dependency is delayed from another team, I immediately communicate impact to stakeholders, present mitigation options, and realign timelines collaboratively instead of waiting for escalation.
+
+Finally, I ensure continuous feedback loops so stakeholders feel engaged and informed throughout the project lifecycle, which helps build trust and avoid surprises.

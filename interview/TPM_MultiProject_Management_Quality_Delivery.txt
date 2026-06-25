@@ -1,0 +1,32 @@
+Q. Describe your experience handling multiple projects simultaneously and ensuring quality delivery.
+
+A.
+I have managed multiple projects simultaneously by focusing on structured planning, prioritization, and strong execution governance.
+
+First, I ensure clear visibility across all projects by maintaining a consolidated view of:
+- Timelines and milestones
+- Dependencies
+- Resource allocation
+- Risks and blockers
+
+I prioritize work based on business impact, urgency, and dependencies. When multiple projects run in parallel, I align with stakeholders to define clear priority order and avoid conflicts in delivery.
+
+To manage execution, I break down each project into:
+- Epics and user stories
+- Sprint-level tasks
+- Clearly defined acceptance criteria
+
+I use Agile ceremonies (sprint planning, standups, reviews, retrospectives) to ensure continuous tracking and alignment.
+
+For quality delivery, I enforce:
+- Strong Definition of Done (DoD)
+- QA validation and regression testing
+- Early involvement of QA and Engineering in requirement discussions
+- Continuous integration and feedback cycles
+
+I also maintain a RAID log to track risks, assumptions, issues, and dependencies across all projects, ensuring nothing is missed.
+
+Example:
+When handling multiple parallel initiatives, I regularly re-balance priorities based on shifting business needs while ensuring no critical delivery is compromised. If conflicts arise, I facilitate discussions with stakeholders to re-align scope or timelines.
+
+Finally, I track progress using dashboards (e.g., Jira, Power BI) to ensure transparency and ensure all projects meet deadlines without compromising quality.

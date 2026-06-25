@@ -1,0 +1,29 @@
+Q. How do you use data analytics and research to drive product decisions?
+
+A.
+I use data analytics and research to ensure product decisions are evidence-based rather than assumption-driven.
+
+First, I identify the business problem or product goal and define key success metrics (KPIs) such as conversion rate, engagement, retention, or drop-off points.
+
+Then I use a combination of:
+- Product analytics (user behavior data, funnels, cohort analysis)
+- Customer feedback (support tickets, surveys, NPS, user interviews)
+- A/B testing results
+- Market and competitor research
+
+I analyze user behavior patterns to identify where users are struggling or dropping off in the journey. For example, funnel analysis helps me pinpoint friction points in onboarding or checkout flows.
+
+Based on insights, I collaborate with Product and Engineering teams to:
+- Prioritize features that have highest impact on KPIs
+- Remove or simplify low-performing steps
+- Validate hypotheses through A/B testing before full rollout
+
+I also ensure decisions are continuously validated post-release by tracking metrics in dashboards (e.g., Power BI or product analytics tools) to confirm expected improvements.
+
+Example:
+If data shows a high drop-off during signup, I investigate whether the issue is UI complexity or performance. Based on findings, I may propose simplifying the form or adding social login, and then measure improvement through A/B testing.
+
+This approach ensures product decisions are:
+- Data-driven
+- User-centric
+- Continuously optimized based on real-world feedback
