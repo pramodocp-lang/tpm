@@ -1,0 +1,107 @@
+TPM PROFILE – SKILL MAPPING (FULL-STACK + AI + LEADERSHIP)
+
+========================================================
+CORE TECHNOLOGIES (FULL-STACK ALIGNMENT)
+========================================================
+
+• PHP / Laravel
+  → Experience/understanding of backend web application development.
+  → Familiar with MVC architecture, REST APIs, routing, and middleware concepts.
+  → Supports delivery coordination and backend system understanding.
+
+• Python / FastAPI
+  → Hands-on experience in building REST APIs using FastAPI framework.
+  → Strong understanding of microservices and API-first architecture.
+  → Used for backend services, automation, and integration workflows.
+
+• JavaScript / jQuery
+  → Strong understanding of client-side scripting and DOM manipulation.
+  → Experience in legacy + modern web UI behavior handling.
+  → Used for frontend enhancements and UI interaction logic.
+
+• Node.js / Express.js
+  → Backend development using JavaScript runtime environment.
+  → API development, middleware handling, and microservice design concepts.
+  → Strong understanding of scalable backend service architecture.
+
+• React.js / Next.js
+  → Experience/understanding of modern component-based frontend architecture.
+  → Strong grasp of SPA/SSR concepts, routing, state management, and performance optimization.
+  → Next.js exposure for SSR, SEO optimization, and full-stack React applications.
+
+• API Design & System Integration
+  → Experience coordinating integration between frontend, backend, and external services.
+  → Strong understanding of API contracts, request/response flow, and dependencies.
+
+• SQL / RDBMS
+  → Data querying, schema understanding, and validation support.
+  → Used for debugging, reporting, and requirement verification.
+
+• Cloud Platforms (Azure / AWS)
+  → Understanding of cloud-native deployment and scalable architecture.
+  → Exposure to distributed systems and production environments.
+
+• CI/CD, DevOps, Git
+  → Familiar with version control, build pipelines, and release coordination.
+  → Experience managing deployment cycles and environment transitions.
+
+• SDLC / Agile / Scrum
+  → Strong TPM experience across full software delivery lifecycle.
+  → Sprint planning, backlog grooming, standups, retrospectives, and release tracking.
+
+========================================================
+AI / MODERN TECHNOLOGIES (TPM-FOCUSED)
+========================================================
+
+• AI/ML Concepts & AI Solution Architecture
+  → Understanding of AI/ML fundamentals from a TPM perspective.
+  → Ability to translate business requirements into AI solution design discussions.
+
+• Generative AI & LLM Integrations
+  → Exposure to LLM APIs and GenAI-driven product use cases.
+  → Understanding of enterprise AI adoption patterns.
+
+• AI Automation & Workflow Orchestration
+  → Identifying opportunities for automation across systems and workflows.
+  → Driving efficiency improvements in delivery and operations.
+
+• Chatbots / AI Assistants / Prompt Engineering
+  → Understanding conversational AI systems and prompt-based workflows.
+  → Awareness of chatbot and AI assistant implementations.
+
+• Azure OpenAI / OpenAI APIs / Cloud AI Services
+  → Familiar with cloud AI capabilities and integration approaches.
+  → Coordination with engineering teams for AI feature delivery.
+
+• Data Engineering & Analytics (Conceptual)
+  → Understanding of ETL pipelines, data transformation, and analytics workflows.
+  → Supports data-driven decision-making and reporting.
+
+• AI Security, Governance & Responsible AI
+  → Awareness of compliance, privacy, and responsible AI practices.
+
+========================================================
+LEADERSHIP & TPM CORE SKILLS
+========================================================
+
+• Cross-functional Team Leadership
+  → Coordination across engineering, QA, product, design, and business teams.
+
+• Stakeholder Management & Communication
+  → Strong experience in alignment, reporting, and executive communication.
+
+• Analytical & Problem Solving
+  → Ability to break complex systems into structured delivery plans.
+
+• Strategic Thinking + Hands-on Execution
+  → Balances architecture understanding with execution tracking.
+
+• Innovation & Digital Transformation
+  → Drives automation, AI adoption, and process improvements.
+
+• Ownership & Delivery Excellence
+  → Strong accountability for timelines, quality, and business impact.
+
+========================================================
+END OF DOCUMENT
+========================================================

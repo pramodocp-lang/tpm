@@ -1,0 +1,101 @@
+FILE NAME: TPM_Git_Commands_CheatSheet.txt
+
+========================
+GIT COMMANDS (TPM VIEW)
+========================
+
+1. CONFIGURATION
+- git config --global user.name "Your Name"
+- git config --global user.email "your.email@example.com"
+- git config --list
+
+------------------------
+
+2. CLONE REPOSITORY
+- git clone <repo-url>
+
+------------------------
+
+3. CHECK STATUS
+- git status
+
+------------------------
+
+4. CREATE BRANCH
+- git branch <branch-name>
+
+OR
+- git checkout -b <branch-name>
+
+------------------------
+
+5. SWITCH BRANCH
+- git checkout <branch-name>
+OR
+- git switch <branch-name>
+
+------------------------
+
+6. STAGING CHANGES
+- git add <file-name>
+- git add .
+- git add -A
+
+------------------------
+
+7. COMMIT CHANGES
+- git commit -m "commit message"
+
+------------------------
+
+8. PUSH CHANGES
+- git push origin <branch-name>
+
+------------------------
+
+9. PULL LATEST CHANGES
+- git pull origin <branch-name>
+
+------------------------
+
+10. VIEW HISTORY
+- git log
+- git log --oneline --graph --all
+
+------------------------
+
+11. MERGE BRANCH
+- git checkout main
+- git merge <branch-name>
+
+------------------------
+
+12. REBASE (clean history)
+- git rebase <branch-name>
+
+------------------------
+
+13. STASH CHANGES (temporary save)
+- git stash
+- git stash list
+- git stash pop
+
+------------------------
+
+14. DELETE BRANCH
+- git branch -d <branch-name>
+- git push origin --delete <branch-name>
+
+------------------------
+
+15. RESET (careful use)
+- git reset --soft HEAD~1
+- git reset --hard HEAD~1
+
+------------------------
+
+TPM NOTE:
+- Always ensure clean commit history
+- Avoid force push in shared branches
+- Use PR (Pull Request) for merge approval
+- Ensure CI/CD passes before merge
