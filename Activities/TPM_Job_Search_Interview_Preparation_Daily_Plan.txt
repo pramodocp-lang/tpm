@@ -1,0 +1,168 @@
+TECHNICAL PROJECT MANAGER (TPM)
+
+JOB SEARCH + INTERVIEW PREPARATION DAILY PLAN
+
+=================================================================
+09:00 AM - 09:30 AM | MORNING REVIEW
+=================================================================
+
+* Review previous day's accomplishments
+* Check job application tracker
+* Review today's goals and priorities
+* Read TPM/Agile/Project Management articles
+* Review project dashboards and sample Jira boards
+
+Output:
+- Clear daily plan
+- Priority task list
+
+=================================================================
+09:30 AM - 10:30 AM | TPM INTERVIEW PREPARATION
+=================================================================
+
+* Practice TPM interview questions
+* Review Agile and Scrum concepts
+* Practice stakeholder management scenarios
+* Prepare STAR format answers
+* Review project delivery examples
+
+Output:
+- 3-5 interview questions completed
+- 1 STAR story refined
+
+=================================================================
+10:30 AM - 11:30 AM | TPM PRACTICAL EXERCISES
+=================================================================
+
+* Create User Stories and Epics
+* Build Sprint Plans
+* Update RAID Logs
+* Create Project Charters
+* Draft Project Status Reports
+
+Output:
+- 1 TPM artifact completed
+
+=================================================================
+11:30 AM - 12:30 PM | TECHNICAL KNOWLEDGE BUILDING
+=================================================================
+
+* Study APIs and Integrations
+* Review System Design concepts
+* Learn Cloud Fundamentals
+* Review CI/CD workflows
+* Understand Architecture Diagrams
+
+Output:
+- Technical notes updated
+- 1 concept learned
+
+=================================================================
+12:30 PM - 01:30 PM | LUNCH BREAK
+=================================================================
+
+=================================================================
+01:30 PM - 03:00 PM | JOB APPLICATIONS
+=================================================================
+
+* Search TPM opportunities
+* Tailor resume to job descriptions
+* Draft cover letters
+* Apply for relevant positions
+* Track applications
+
+Daily Target:
+- 5 to 10 applications
+
+Output:
+- Updated job tracker
+
+=================================================================
+03:00 PM - 04:00 PM | LINKEDIN & NETWORKING
+=================================================================
+
+* Connect with recruiters
+* Connect with Project Managers
+* Engage with TPM content
+* Publish TPM-related post
+* Respond to recruiter messages
+
+Daily Target:
+- 10 recruiter connections
+- 1 LinkedIn post
+
+Output:
+- Increased visibility
+
+=================================================================
+04:00 PM - 05:00 PM | TPM PORTFOLIO DEVELOPMENT
+=================================================================
+
+* Create Confluence templates
+* Build Jira project examples
+* Create Project Plans
+* Create RAID Logs
+* Document Case Studies
+
+Output:
+- Portfolio asset completed
+
+=================================================================
+05:00 PM - 06:00 PM | PMP / TPM STUDY
+=================================================================
+
+* PMP Preparation
+* TPM Roadmap Study
+* Agile Framework Revision
+* Risk Management Concepts
+* Estimation Techniques
+
+Output:
+- Learning progress recorded
+
+=================================================================
+06:00 PM - 06:30 PM | END OF DAY REVIEW
+=================================================================
+
+* Review completed tasks
+* Update learning tracker
+* Update application tracker
+* Plan next day activities
+* Identify improvement areas
+
+Output:
+- Next-day action plan
+
+=================================================================
+DAILY SUCCESS METRICS
+=================================================================
+
+* 5-10 Job Applications Submitted
+* 3-5 TPM Interview Questions Practiced
+* 1 TPM Artifact Created
+* 1 LinkedIn Post Published
+* 10 Recruiter Connections Sent
+* 1 PMP/TPM Topic Completed
+* Job Tracker Updated
+* Learning Tracker Updated
+
+=================================================================
+WEEKLY GOALS
+=================================================================
+
+* 50+ Job Applications
+* 50+ Recruiter Connections
+* 5 TPM Case Studies
+* 5 Mock Interviews
+* 5 Confluence Documents
+* 5 RAID Logs
+* 5 Project Plans
+* Resume Improvement Every Week
+
+=================================================================
+ULTIMATE OBJECTIVE
+=================================================================
+
+Secure a Technical Project Manager role while continuously
+improving TPM, Agile, Delivery Management, Stakeholder
+Management, and Technical Leadership capabilities.

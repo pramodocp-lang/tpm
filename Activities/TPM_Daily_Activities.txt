@@ -1,0 +1,148 @@
+TECHNICAL PROJECT MANAGER (TPM) – DAILY ACTIVITIES
+
+====================================================
+09:00 AM – 09:30 AM | Project Health Review
+====================================================
+
+• Review project dashboards and KPIs
+• Check Jira boards and sprint status
+• Review emails, escalations, and urgent requests
+• Identify blockers, risks, and critical issues
+• Validate project health indicators
+
+====================================================
+09:30 AM – 10:00 AM | Daily Scrum / Stand-up
+====================================================
+
+• Facilitate daily stand-up meeting
+• Review progress against sprint goals
+• Discuss blockers and dependencies
+• Capture action items and ownership
+• Ensure team alignment on priorities
+
+====================================================
+10:00 AM – 11:00 AM | Stakeholder Management
+====================================================
+
+• Communicate project status updates
+• Coordinate with Product, Engineering, QA, and Business teams
+• Review delivery timelines and expectations
+• Resolve cross-functional dependencies
+• Manage stakeholder concerns
+
+====================================================
+11:00 AM – 12:00 PM | Sprint Execution & Delivery Tracking
+====================================================
+
+• Review active user stories and tasks
+• Monitor sprint burndown and velocity
+• Track milestone progress
+• Validate delivery commitments
+• Follow up on pending development activities
+
+====================================================
+12:00 PM – 01:00 PM | Risk & Issue Management
+====================================================
+
+• Maintain RAID Log
+• Review project risks and mitigation plans
+• Track issues and dependencies
+• Escalate critical concerns when necessary
+• Monitor project governance activities
+
+====================================================
+01:00 PM – 02:00 PM | Lunch Break
+====================================================
+
+====================================================
+02:00 PM – 03:00 PM | Project Planning & Resource Management
+====================================================
+
+• Capacity planning
+• Resource allocation review
+• Dependency management
+• Release planning
+• Sprint forecasting and roadmap alignment
+
+====================================================
+03:00 PM – 04:00 PM | Technical Coordination
+====================================================
+
+• Architecture and design discussions
+• API and integration reviews
+• Environment readiness verification
+• Deployment planning
+• Technical risk assessment
+
+====================================================
+04:00 PM – 05:00 PM | Client & Business Meetings
+====================================================
+
+• Requirement clarification sessions
+• Change Request (CR) discussions
+• Delivery commitment reviews
+• Business alignment meetings
+• Project status presentations
+
+====================================================
+05:00 PM – 05:30 PM | Documentation & Reporting
+====================================================
+
+• Update Confluence documentation
+• Prepare Meeting Minutes (MoM)
+• Track action items
+• Update project reports
+• Maintain project artifacts
+
+====================================================
+05:30 PM – 06:00 PM | End-of-Day Review
+====================================================
+
+• Review completed activities
+• Follow up on open actions
+• Prepare next-day priorities
+• Update project dashboard
+• Verify project health status
+
+====================================================
+DAILY TPM DELIVERABLES
+====================================================
+
+• Sprint Progress Tracking
+• Stakeholder Status Reports
+• RAID Log Updates
+• Resource Planning & Coordination
+• Risk Mitigation Actions
+• Project Documentation Updates
+• Release & Delivery Monitoring
+• Escalation Management
+• Project Health Dashboard Updates
+• Cross-functional Team Alignment
+
+====================================================
+TOOLS USED BY TPM
+====================================================
+
+• Jira
+• Confluence
+• Microsoft Teams
+• Slack
+• Azure DevOps
+• GitHub / GitLab
+• Power BI
+• Excel
+• Zoom / Google Meet
+
+====================================================
+KEY TPM KPIs
+====================================================
+
+• Sprint Velocity
+• Burndown Trend
+• On-Time Delivery %
+• Defect Leakage
+• Resource Utilization
+• Risk Closure Rate
+• Stakeholder Satisfaction
+• Schedule Variance
+• Budget Variance

@@ -1,0 +1,382 @@
+FILE NAME: TPM_Complete_Study_Roadmap_2026.txt
+
+=========================================================
+TECHNICAL PROJECT MANAGER (TPM) STUDY ROADMAP
+=============================================
+
+Goal:
+Become an interview-ready Technical Project Manager capable of managing end-to-end software, digital transformation, cloud, AI, AI/ML, and LLM-based projects.
+
+=========================================================
+PHASE 1: TPM FUNDAMENTALS
+=========================
+
+Topics:
+
+* Technical Project Manager Role
+* Project vs Product vs Program
+* SDLC Lifecycle
+* Agile Methodology
+* Scrum Framework
+* Kanban
+* Waterfall Methodology
+* Hybrid Delivery Model
+* Roles and Responsibilities
+
+Deliverables:
+
+* Explain end-to-end project lifecycle
+* Explain Agile ceremonies
+* Explain TPM responsibilities
+* Understand project governance
+
+=========================================================
+PHASE 2: PROJECT MANAGEMENT DEPTH
+=================================
+
+Topics:
+
+* Project Initiation
+* Project Planning
+* Scope Management
+* Schedule Management
+* Cost Management
+* Resource Management
+* Risk Management
+* Stakeholder Management
+* Communication Planning
+* Dependency Tracking
+* Change Management
+
+Practice Artifacts:
+
+* Project Charter
+* Project Plan
+* RAID Log
+* Communication Matrix
+* Resource Plan
+
+Deliverables:
+
+* Lead project planning sessions
+* Create project roadmaps
+* Manage risks and dependencies
+* Drive project execution
+
+=========================================================
+PHASE 3: TECHNICAL AWARENESS
+============================
+
+Topics:
+
+* Software Architecture Basics
+* APIs and Integrations
+* Microservices
+* Databases
+* Cloud Fundamentals
+* CI/CD Pipelines
+* Git & Version Control
+* Security Basics
+* Performance Monitoring
+
+Programming & Technology Stack:
+
+* Python
+* FastAPI
+* NumPy
+* Pandas
+* PHP
+* Laravel
+* JavaScript
+* jQuery
+* Node.js
+* Express.js
+* React
+* Next.js
+
+Emerging Technologies:
+
+* Artificial Intelligence (AI)
+* AI/ML Fundamentals
+* Machine Learning Concepts
+* Generative AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* AI Product Development
+* AI Governance
+* AI Project Delivery
+
+Deliverables:
+
+* Discuss technical dependencies
+* Communicate effectively with engineering teams
+* Understand release processes
+* Manage AI/ML project delivery initiatives
+
+=========================================================
+PHASE 4: TPM CASE STUDY PRACTICE
+================================
+
+Reference Project:
+Educational CRM System
+
+Practice:
+
+* Requirement Gathering
+* Epic Creation
+* User Story Creation
+* Backlog Grooming
+* Sprint Planning
+* Sprint Execution
+* Risk Management
+* Release Management
+* Hypercare Support
+* Project Closure
+
+Create:
+
+* Project Charter
+* BRD
+* Confluence Documentation
+* Jira Backlog
+* Sprint Boards
+* Release Plans
+* RAID Logs
+
+Deliverables:
+
+* Explain complete project journey
+* Demonstrate real TPM scenarios
+* Answer case-study-based interview questions
+
+=========================================================
+PHASE 5: EXECUTION & DELIVERY MANAGEMENT
+========================================
+
+Topics:
+
+* Daily Standups
+* Sprint Tracking
+* Burndown Analysis
+* Escalation Management
+* Change Requests
+* UAT Coordination
+* Release Planning
+* Production Deployment
+* Hypercare Support
+
+Deliverables:
+
+* Run project execution independently
+* Handle delivery issues
+* Manage stakeholder expectations
+* Ensure on-time delivery
+
+=========================================================
+PHASE 6: METRICS & REPORTING
+============================
+
+Topics:
+
+* Velocity
+* Burndown Chart
+* Burnup Chart
+* Lead Time
+* Cycle Time
+* Sprint Predictability
+* Defect Leakage
+* Resource Utilization
+* Delivery Health Metrics
+
+Deliverables:
+
+* Create leadership dashboards
+* Present project status confidently
+* Report project health effectively
+
+=========================================================
+PHASE 7: LEADERSHIP & COMMUNICATION
+===================================
+
+Topics:
+
+* Stakeholder Management
+* Executive Communication
+* Conflict Resolution
+* Negotiation Skills
+* Team Motivation
+* Cross-functional Collaboration
+* Decision Making
+* Escalation Handling
+
+Deliverables:
+
+* Handle difficult stakeholders
+* Drive alignment across teams
+* Lead delivery discussions confidently
+
+=========================================================
+PHASE 8: TPM INTERVIEW PREPARATION
+==================================
+
+Technical Questions:
+
+* SDLC
+* Agile
+* APIs
+* Architecture
+* Cloud
+* CI/CD
+* AI/ML Concepts
+* LLM Fundamentals
+
+Project Management Questions:
+
+* Project Planning
+* Risk Management
+* Stakeholder Management
+* Delivery Management
+* Release Management
+* Hypercare Support
+
+Behavioral Questions:
+
+* Leadership
+* Conflict Resolution
+* Team Management
+* Stakeholder Management
+* Project Failures
+* Lessons Learned
+
+Framework:
+STAR Method
+(Situation, Task, Action, Result)
+
+=========================================================
+PHASE 9: TOOLS MASTERY
+======================
+
+Project Management Tools:
+
+* Jira
+* Confluence
+* Microsoft Project
+
+Collaboration & Communication:
+
+* Slack
+* Microsoft Teams
+* Zoom
+
+Version Control:
+
+* Git
+* GitHub
+* GitLab
+
+Documentation:
+
+* Confluence
+* Microsoft Office Suite
+* Google Workspace
+
+Reporting & Tracking:
+
+* Microsoft Excel
+* PowerPoint
+* RAID Logs
+* Dashboards
+* Resource Trackers
+
+AI Productivity Tools:
+
+* ChatGPT
+* GitHub Copilot
+* AI Meeting Assistants
+* AI Documentation Tools
+
+Deliverables:
+
+* Create and manage project plans
+* Track project progress
+* Facilitate remote collaboration
+* Generate executive dashboards
+* Improve TPM productivity using AI tools
+
+=========================================================
+DAILY TPM STUDY PLAN (2-3 HOURS)
+================================
+
+30 Minutes
+
+* TPM Theory Revision
+
+45 Minutes
+
+* Case Study Practice
+
+30 Minutes
+
+* Jira / Confluence Documentation
+
+30 Minutes
+
+* Interview Preparation
+
+30 Minutes
+
+* Technical Learning
+
+=========================================================
+RECOMMENDED TPM SKILL STACK
+===========================
+
+Project Management:
+Agile | Scrum | Kanban | Waterfall | Hybrid
+
+Tools:
+Jira | Confluence | Microsoft Project |
+Slack | Microsoft Teams | Zoom | Git
+
+Technical:
+Python | FastAPI | PHP | Laravel |
+JavaScript | Node.js | React | Next.js |
+REST APIs | SQL | Cloud Fundamentals
+
+AI & Modern Technologies:
+AI | AI/ML | LLMs | Generative AI |
+Prompt Engineering | AI Product Delivery |
+AI-Assisted Project Management
+
+Leadership:
+Stakeholder Management |
+Risk Management |
+Resource Management |
+Delivery Management |
+Executive Reporting |
+Team Leadership
+
+=========================================================
+FINAL TARGET
+============
+
+Be able to confidently explain:
+
+1. Project Initiation
+2. Project Planning
+3. Requirement Gathering
+4. Epic & User Story Creation
+5. Sprint Planning
+6. Sprint Execution
+7. Risk Management
+8. Stakeholder Management
+9. Release Management
+10. Hypercare Support
+11. AI/ML Project Delivery
+12. Project Closure
+
+Outcome:
+Interview-Ready Technical Project Manager
+Capable of Leading Software, Cloud,
+Digital Transformation, AI/ML and LLM Projects.
+===============================================

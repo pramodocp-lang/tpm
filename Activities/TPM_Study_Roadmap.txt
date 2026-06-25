@@ -1,0 +1,272 @@
+=========================================================
+TECHNICAL PROJECT MANAGER (TPM) STUDY ROADMAP
+=========================================================
+
+Goal:
+Become interview-ready Technical Project Manager with
+strong understanding of SDLC, Agile, Delivery Management,
+Stakeholder Management, Technical Concepts, Jira,
+Confluence, Metrics, and Leadership.
+
+---------------------------------------------------------
+PHASE 1: TPM FUNDAMENTALS (REVISION)
+---------------------------------------------------------
+
+Topics:
+- Role of Technical Project Manager
+- Project vs Product vs Program
+- SDLC Lifecycle
+- Agile Methodology
+- Scrum Framework
+- Waterfall Model
+- Hybrid Delivery Model
+- Roles & Responsibilities
+
+Deliverables:
+- Explain end-to-end project lifecycle
+- Explain Agile ceremonies
+- Explain TPM responsibilities
+
+---------------------------------------------------------
+PHASE 2: PROJECT MANAGEMENT DEPTH
+---------------------------------------------------------
+
+Topics:
+- Project Initiation
+- Project Planning
+- Scope Management
+- Schedule Management
+- Cost Management
+- Risk Management
+- Resource Planning
+- Stakeholder Management
+- Communication Planning
+- Dependency Tracking
+
+Practice:
+- Create Project Charter
+- Create Project Plan
+- Create RAID Log
+- Create Communication Matrix
+
+Deliverables:
+- Lead project planning discussion
+- Build project roadmap
+- Manage risks and dependencies
+
+---------------------------------------------------------
+PHASE 3: TECHNICAL AWARENESS
+---------------------------------------------------------
+
+Topics:
+- System Architecture Basics
+- APIs and Integrations
+- Microservices
+- Databases
+- Cloud Fundamentals
+- CI/CD Pipeline
+- Git & Version Control
+- Security Basics
+- Performance Monitoring
+
+Based on Your Skills:
+- Python
+- FastAPI
+- NumPy
+- Pandas
+- PHP
+- Laravel
+- JavaScript
+- jQuery
+- Node.js
+- Express.js
+- React
+- Next.js
+
+Deliverables:
+- Discuss technical dependencies
+- Communicate with engineering teams
+- Understand release process
+
+---------------------------------------------------------
+PHASE 4: TPM CASE STUDIES
+---------------------------------------------------------
+
+Reference Project:
+Educational CRM System
+
+Practice:
+- Requirement Gathering
+- Epic Creation
+- User Story Creation
+- Sprint Planning
+- Execution Tracking
+- Risk Management
+- Release Management
+- Hypercare Support
+- Project Closure
+
+Create:
+- Confluence Pages
+- Jira Backlog
+- Sprint Board
+- Release Plan
+
+Deliverables:
+- Explain complete project journey
+- Answer scenario-based TPM questions
+
+---------------------------------------------------------
+PHASE 5: EXECUTION & DELIVERY
+---------------------------------------------------------
+
+Topics:
+- Daily Standups
+- Sprint Tracking
+- Burndown Analysis
+- Escalation Management
+- Change Requests
+- UAT Coordination
+- Release Planning
+- Production Deployment
+- Hypercare
+
+Deliverables:
+- Run project execution independently
+- Handle delivery issues
+- Manage stakeholders
+
+---------------------------------------------------------
+PHASE 6: METRICS & REPORTING
+---------------------------------------------------------
+
+Topics:
+- Velocity
+- Burndown Chart
+- Burnup Chart
+- Lead Time
+- Cycle Time
+- Defect Leakage
+- Sprint Predictability
+- Resource Utilization
+- Delivery Health Metrics
+
+Deliverables:
+- Create leadership dashboards
+- Present project status confidently
+
+---------------------------------------------------------
+PHASE 7: LEADERSHIP & COMMUNICATION
+---------------------------------------------------------
+
+Topics:
+- Stakeholder Management
+- Executive Reporting
+- Conflict Resolution
+- Negotiation
+- Team Motivation
+- Cross-functional Collaboration
+- Decision Making
+- Escalation Handling
+
+Deliverables:
+- Handle difficult stakeholders
+- Drive alignment across teams
+
+---------------------------------------------------------
+PHASE 8: TPM INTERVIEW PREPARATION
+---------------------------------------------------------
+
+Technical Questions:
+- SDLC
+- Agile
+- API
+- Architecture
+- Cloud
+- CI/CD
+
+Project Questions:
+- Project Planning
+- Risk Management
+- Delivery Management
+- Release Management
+
+Behavioral Questions:
+- Leadership
+- Conflict Resolution
+- Stakeholder Management
+- Failure Handling
+
+Framework:
+STAR Method
+(Situation, Task, Action, Result)
+
+---------------------------------------------------------
+PHASE 9: TOOLS MASTERY
+---------------------------------------------------------
+
+Jira:
+- Epic
+- Story
+- Task
+- Sprint
+- Dashboard
+- Reports
+
+Confluence:
+- Project Charter
+- BRD
+- Meeting Notes
+- Release Notes
+- Decision Logs
+
+Git:
+- Branching
+- Merge
+- Rebase
+- Release Tags
+
+Excel:
+- RAID Log
+- Project Tracker
+- Resource Tracker
+
+---------------------------------------------------------
+DAILY TPM STUDY PLAN (2-3 HOURS)
+---------------------------------------------------------
+
+30 Minutes
+- TPM Theory Revision
+
+45 Minutes
+- Case Study Practice
+
+30 Minutes
+- Jira/Confluence Documentation
+
+30 Minutes
+- Interview Questions
+
+30 Minutes
+- Technical Learning
+
+---------------------------------------------------------
+FINAL TARGET
+---------------------------------------------------------
+
+Be able to confidently explain:
+
+1. Project Initiation
+2. Project Planning
+3. Requirement Gathering
+4. Sprint Planning
+5. Execution Management
+6. Risk Management
+7. Stakeholder Management
+8. Release Management
+9. Hypercare Support
+10. Project Closure
+
+Outcome:
+Interview-ready Technical Project Manager.
+=========================================================
