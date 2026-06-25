@@ -1,0 +1,86 @@
+===============================
+1. CHANGE LAST COMMIT MESSAGE
+===============================
+
+git commit --amend -m "New commit message"
+
+Example:
+git commit --amend -m "Fix login validation issue"
+
+✔ Updates only last commit message
+✔ Keeps code changes same
+✔ Safe if not pushed yet
+
+
+===============================
+2. EDIT LAST COMMIT IN EDITOR MODE
+===============================
+
+git commit --amend
+
+✔ Opens editor (Vim / Nano / VS Code)
+✔ Manually edit commit message
+✔ Save and exit to apply changes
+
+
+===============================
+3. COMMIT ALREADY PUSHED TO REMOTE
+===============================
+
+git commit --amend -m "New commit message"
+git push --force
+
+⚠ WARNING:
+- Rewrites commit history
+- Can affect teammates if branch is shared
+
+
+===============================
+4. SAFE TEAM APPROACH
+===============================
+
+git commit --amend -m "Updated message"
+git revert <commit-hash>
+git push
+
+✔ Safer for shared branches
+✔ Avoids history conflicts
+✔ Keeps traceability
+
+
+===============================
+5. CHANGE OLDER COMMIT MESSAGES (INTERACTIVE REBASE)
+===============================
+
+git rebase -i HEAD~n
+
+Example:
+git rebase -i HEAD~3
+
+Steps:
+- Replace "pick" with "reword"
+- Save and close editor
+- Git will ask to edit messages one by one
+
+✔ Used for editing older commits
+✔ Best before raising PR
+
+
+===============================
+6. QUICK SUMMARY
+===============================
+
+Last commit      → git commit --amend
+Already pushed   → amend + force push
+Older commits    → git rebase -i HEAD~n
+Team safety      → avoid force push unless required
+
+
+===============================
+7. GOLDEN RULES
+===============================
+
+1. Never force push on shared branches without informing team
+2. Use amend only for last commit
+3. Use rebase for history cleanup before PR
+4. Keep commits small and meaningful

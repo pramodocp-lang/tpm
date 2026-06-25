@@ -1,0 +1,21 @@
+FILE NAME: TPM_LinkedIn_Bio_Optimized_For_Recruiters.txt
+
+👋 Welcome to my profile!
+
+Technical Project Manager (TPM) specializing in end-to-end delivery of complex software and digital transformation projects across cross-functional teams.
+
+I drive project execution across Engineering, Product, QA, and Business stakeholders with strong expertise in Agile/Scrum delivery, program planning, dependency management, risk mitigation, and stakeholder communication.
+
+Experienced in managing multiple concurrent projects, ensuring on-time delivery, scope control, and high-quality releases through structured planning, Jira-based tracking, and data-driven reporting.
+
+Core strengths include:
+- End-to-end project / program delivery
+- Agile / Scrum execution & sprint planning
+- Stakeholder management & executive reporting
+- RAID (Risks, Assumptions, Issues, Dependencies) management
+- Cross-functional coordination & dependency resolution
+- Delivery governance and KPI tracking
+
+Focused on delivering measurable business outcomes by aligning technology execution with strategic objectives.
+
+Open to opportunities in Technical Program Management, Project Management, and Digital Transformation roles.
