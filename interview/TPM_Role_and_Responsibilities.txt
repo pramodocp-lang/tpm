@@ -1,0 +1,39 @@
+FILE NAME: TPM_Role_and_Responsibilities.txt
+
+ROLE: Technical Project Manager (TPM)
+
+1. Core Responsibility
+- Own end-to-end delivery of technical projects from initiation to closure
+
+2. Key Focus Areas
+
+A. Planning
+- Define scope, milestones, timelines
+- Break work into epics and dependencies
+
+B. Execution Management
+- Drive engineering, QA, product alignment
+- Track sprint execution and delivery progress
+
+C. Stakeholder Management
+- Align business, product, engineering, QA teams
+- Communicate status, risks, and decisions
+
+D. Risk & Issue Management
+- Identify risks early
+- Maintain RAID log
+- Drive mitigation actions
+
+E. Delivery Governance
+- Run standups, sprint reviews, retrospectives
+- Ensure quality, timeline, and scope adherence
+
+F. Cross-functional Coordination
+- Remove blockers and manage dependencies across teams
+
+G. Reporting & Metrics
+- Track KPIs (velocity, burn-down, delivery health)
+- Provide dashboards and executive updates
+
+3. End Goal
+- Deliver projects on time, within scope, with quality and business impact

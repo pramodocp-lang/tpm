@@ -1,0 +1,116 @@
+=================================================
+TPM ACTIVITIES - GRAPH REPRESENTATION
+=================================================
+
+                TECHNICAL PROJECT MANAGER
+                           |
+    ------------------------------------------------
+    |              |              |                |
+ PLANNING      EXECUTION      MONITORING       DELIVERY
+    |              |              |                |
+    |              |              |                |
+    v              v              v                v
+
++-----------+ +-----------+ +-----------+ +-----------+
+| Scope     | | Sprint    | | KPI       | | Release   |
+| Planning  | | Planning  | | Tracking  | | Mgmt      |
++-----------+ +-----------+ +-----------+ +-----------+
+
++-----------+ +-----------+ +-----------+ +-----------+
+| Resource  | | Standups  | | RAID Log  | | Go-Live   |
+| Planning  | |           | | Mgmt      | | Support   |
++-----------+ +-----------+ +-----------+ +-----------+
+
++-----------+ +-----------+ +-----------+ +-----------+
+| Schedule  | | Backlog   | | Status    | | Hypercare |
+| Planning  | | Grooming  | | Reporting | |           |
++-----------+ +-----------+ +-----------+ +-----------+
+
++-----------+ +-----------+ +-----------+ +-----------+
+| Dependency| | Team      | | Risk      | | War Room  |
+| Mgmt      | | Coordination| Mitigation| | Mgmt      |
++-----------+ +-----------+ +-----------+ +-----------+
+
+
+=================================================
+TPM RESPONSIBILITY DISTRIBUTION
+=================================================
+
+
+::contentReference[oaicite:0]{index=0}
+
+
+=================================================
+TPM END-TO-END PROJECT FLOW
+=================================================
+
+Initiation
+    |
+    v
+Requirements Gathering
+    |
+    v
+Project Planning
+    |
+    v
+Sprint Planning
+    |
+    v
+Execution
+    |
+    v
+Monitoring & Tracking
+    |
+    +-------> RAID Management
+    |
+    +-------> Stakeholder Communication
+    |
+    +-------> Risk Mitigation
+    |
+    v
+Testing & UAT
+    |
+    v
+Release Readiness Review
+    |
+    v
+Production Deployment
+    |
+    v
+Hypercare
+    |
+    v
+Project Closure
+    |
+    v
+Lessons Learned
+
+=================================================
+TOP TPM SKILLS MAPPED TO ACTIVITIES
+=================================================
+
+Planning
+├── Scope Management
+├── Resource Planning
+├── Estimation
+└── Scheduling
+
+Execution
+├── Agile Delivery
+├── Team Coordination
+├── Sprint Management
+└── Dependency Tracking
+
+Monitoring
+├── RAID Logs
+├── KPI Tracking
+├── Reporting
+└── Escalation Management
+
+Delivery
+├── Release Management
+├── Hypercare
+├── War Room
+└── Project Closure
+
+=================================================

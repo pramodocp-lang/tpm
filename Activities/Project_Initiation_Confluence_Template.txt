@@ -1,0 +1,63 @@
+# PROJECT INITIATION PHASE
+
+1. Overview
+- Project Name:
+- Project ID:
+- TPM / PM Owner:
+- Business Sponsor:
+- Start Date:
+- Status: Initiation
+
+2. Business Problem / Opportunity
+- Problem Statement:
+- Objective:
+- Expected Impact (Revenue / Cost / Efficiency):
+
+3. Project Goal
+- Primary Goal:
+- Secondary Goals:
+
+4. High-Level Scope
+IN SCOPE:
+-
+-
+-
+
+OUT OF SCOPE:
+-
+-
+-
+
+5. Stakeholders
+Name | Role | Team | Influence | Engagement
+
+6. Feasibility
+- Technical:
+- Financial:
+- Operational:
+
+7. Risks
+Risk | Impact | Probability | Mitigation
+
+8. Assumptions & Constraints
+- Assumptions:
+- Constraints:
+
+9. Project Charter Summary
+- Objective:
+- Timeline:
+- Budget:
+- Approval Status:
+
+10. Exit Criteria
+[ ] Charter Approved
+[ ] Business Case Approved
+[ ] Stakeholders Aligned
+[ ] Funding Approved
+[ ] Move to Planning
+
+11. Sign-off
+- Sponsor:
+- TPM:
+- Engineering:
+- Date:

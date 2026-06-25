@@ -1,0 +1,53 @@
+EPIC: INITIATION PHASE – PROJECT DEFINITION & APPROVAL
+
+Goal:
+Define and approve project before planning phase.
+
+
+STORY 1: Business Problem Identification
+- Capture problem statement
+- Validate with sponsor
+Acceptance:
+- Approved problem statement
+
+
+STORY 2: Business Case Creation
+- ROI definition
+- Cost estimation
+- Feasibility check
+Acceptance:
+- Business case approved
+
+
+STORY 3: High-Level Scope Definition
+- In scope / Out of scope
+Acceptance:
+- Scope approved
+
+
+STORY 4: Stakeholder Mapping
+- Identify stakeholders
+- Create register
+Acceptance:
+- Stakeholder list finalized
+
+
+STORY 5: Project Charter Creation
+- Compile initiation inputs
+- Get approvals
+Acceptance:
+- Signed charter
+
+
+STORY 6: Risk & Assumption Logging
+- Identify risks
+- Document assumptions
+Acceptance:
+- RAID log updated
+
+
+STORY 7: Initiation Closure
+- Verify exit criteria
+- Get final sign-off
+Acceptance:
+- Phase completed

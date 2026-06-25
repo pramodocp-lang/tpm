@@ -1,0 +1,181 @@
+=================================================
+TPM RESUME - PRACTICAL EXPERIENCE ADDITIONS
+=================================================
+
+Instead of writing theory, demonstrate what you actually did,
+how you did it, and what business outcome was achieved.
+
+-------------------------------------------------
+1. PROJECT PLANNING & EXECUTION
+-------------------------------------------------
+
+Led end-to-end project delivery from requirements gathering
+through production deployment.
+
+Created project plans, milestones, timelines, and dependency
+tracking using Jira and Confluence.
+
+Monitored project progress, tracked blockers, and ensured
+on-time delivery against committed schedules.
+
+Coordinated multiple workstreams and aligned engineering,
+QA, product, and business teams throughout the project lifecycle.
+
+-------------------------------------------------
+2. STAKEHOLDER MANAGEMENT
+-------------------------------------------------
+
+Conducted regular stakeholder meetings to communicate project
+status, risks, dependencies, and key decisions.
+
+Prepared and presented weekly status reports to leadership
+and business stakeholders.
+
+Managed escalations and facilitated decision-making to
+resolve project roadblocks.
+
+Ensured alignment between technical teams and business
+objectives throughout project execution.
+
+-------------------------------------------------
+3. AGILE DELIVERY MANAGEMENT
+-------------------------------------------------
+
+Facilitated Agile ceremonies including Sprint Planning,
+Backlog Grooming, Daily Standups, Sprint Reviews,
+and Retrospectives.
+
+Worked closely with Product Owners to prioritize and refine
+user stories and sprint backlogs.
+
+Tracked sprint progress and ensured delivery commitments
+were met within defined timelines.
+
+Improved team collaboration and delivery predictability
+through Agile best practices.
+
+-------------------------------------------------
+4. RISK & ISSUE MANAGEMENT
+-------------------------------------------------
+
+Maintained RAID logs and proactively identified project risks,
+issues, assumptions, and dependencies.
+
+Developed mitigation plans and coordinated resolution of
+critical blockers impacting delivery.
+
+Escalated high-priority risks to stakeholders and leadership
+for timely decision-making.
+
+Reduced delivery delays through proactive risk management
+and dependency tracking.
+
+-------------------------------------------------
+5. RELEASE MANAGEMENT
+-------------------------------------------------
+
+Coordinated release planning, deployment activities,
+and production readiness reviews.
+
+Managed release schedules and collaborated with engineering
+and QA teams to ensure successful deployments.
+
+Verified completion of release checkpoints and rollback plans
+prior to production go-live.
+
+Supported release execution and monitored post-deployment
+system stability.
+
+-------------------------------------------------
+6. PROJECT MIGRATION EXPERIENCE
+-------------------------------------------------
+
+Managed application migration activities including planning,
+execution, testing, deployment, and Hypercare support.
+
+Coordinated migration schedules, environment readiness,
+data validation, and stakeholder communication.
+
+Tracked migration risks and dependencies to ensure
+minimal business disruption.
+
+Facilitated migration go-live activities and post-migration
+validation with business teams.
+
+-------------------------------------------------
+7. HYPERCARE SUPPORT
+-------------------------------------------------
+
+Led Hypercare support following production deployments
+to ensure system stability.
+
+Monitored incidents, tracked defect resolution,
+and coordinated support teams.
+
+Conducted daily Hypercare review meetings and provided
+status updates to stakeholders.
+
+Ensured timely closure of production issues and smooth
+transition to support teams.
+
+-------------------------------------------------
+8. WAR ROOM MANAGEMENT
+-------------------------------------------------
+
+Initiated and coordinated War Room activities during
+critical production incidents.
+
+Brought together Engineering, QA, Infrastructure,
+Support, and Business teams for rapid issue resolution.
+
+Maintained incident timelines, action items,
+and stakeholder communications.
+
+Facilitated root cause analysis and documented
+lessons learned after incident resolution.
+
+-------------------------------------------------
+9. REPORTING & GOVERNANCE
+-------------------------------------------------
+
+Prepared project dashboards, status reports,
+RAID summaries, and executive updates.
+
+Tracked project KPIs, milestone completion,
+resource utilization, and delivery health.
+
+Maintained project governance processes and ensured
+compliance with organizational standards.
+
+Provided visibility into project progress through
+regular reporting and stakeholder reviews.
+
+-------------------------------------------------
+10. STRONG TPM RESUME BULLETS
+-------------------------------------------------
+
+Led end-to-end delivery of enterprise software projects
+from planning through production deployment.
+
+Managed cross-functional teams consisting of Engineering,
+QA, Product, and Business stakeholders.
+
+Facilitated Agile delivery processes and ensured successful
+execution of sprint commitments.
+
+Coordinated production releases, Hypercare support,
+and post-deployment stabilization activities.
+
+Maintained RAID logs and proactively managed project risks,
+issues, assumptions, and dependencies.
+
+Directed War Room activities during critical incidents
+and ensured timely resolution of production issues.
+
+Supported application migration initiatives with focus on
+planning, execution, stakeholder communication,
+and operational readiness.
+
+Delivered projects on time, within scope, and with
+high quality standards.
+=================================================
