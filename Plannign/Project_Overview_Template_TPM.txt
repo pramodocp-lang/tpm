@@ -1,0 +1,117 @@
+==================================================
+                📊 PROJECT OVERVIEW
+==================================================
+
+🟦 1. PROJECT INFO
+--------------------------------------------------
+Project Name:
+Project ID:
+Program Name:
+TPM / PM Owner:
+Business Sponsor:
+Product Owner:
+Engineering Lead:
+QA Lead:
+Start Date:
+Go-Live Date:
+Current Phase: Initiation / Planning / Execution / Hypercare / Closure
+
+
+🟨 2. PROJECT SUMMARY
+--------------------------------------------------
+• Business Problem:
+• Solution Overview:
+• Expected Impact (Revenue / Cost / Efficiency):
+
+
+🟩 3. OBJECTIVES
+--------------------------------------------------
+Primary Objective:
+→
+
+Secondary Objectives:
+→
+→
+
+Success Metrics (KPIs):
+→
+→
+
+
+🟪 4. SCOPE
+--------------------------------------------------
+IN SCOPE:
+✔
+✔
+✔
+
+OUT OF SCOPE:
+✖
+✖
+✖
+
+
+🟧 5. STAKEHOLDERS
+--------------------------------------------------
+Name | Role | Team | Engagement Level
+--------------------------------------------------
+
+
+🟥 6. MILESTONES
+--------------------------------------------------
+• Milestone 1:
+• Milestone 2:
+• Milestone 3:
+• Go-Live:
+
+
+🟫 7. DEPENDENCIES
+--------------------------------------------------
+Internal:
+External:
+Third-party:
+
+
+🟦 8. RISKS & ISSUES
+--------------------------------------------------
+Risk | Impact | Mitigation
+--------------------------------------------------
+
+
+🟨 9. ASSUMPTIONS & CONSTRAINTS
+--------------------------------------------------
+Assumptions:
+Constraints:
+
+
+🟩 10. DELIVERY APPROACH
+--------------------------------------------------
+Methodology:
+- Agile / Hybrid / Waterfall
+
+Sprint Cycle:
+Release Strategy:
+
+
+🟪 11. GOVERNANCE
+--------------------------------------------------
+• Daily Standup:
+• Sprint Planning:
+• Sprint Review:
+• Steering Committee:
+
+
+🟧 12. COMMUNICATION PLAN
+--------------------------------------------------
+• Daily Updates:
+• Weekly Reports:
+• Executive Updates:
+
+
+🟥 13. TPM FOCUS AREA
+--------------------------------------------------
+✔ End-to-end delivery ownership
+✔ Dependency management
+✔ Risk mitigation
+✔ Stakeholder alignment
+✔ Predictable delivery
