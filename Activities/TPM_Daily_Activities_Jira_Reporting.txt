@@ -1,0 +1,303 @@
+# TPM - Daily Project Management Components (Jira Style)
+
+PROJECT: TPM Daily Operations
+
+========================================================
+EPIC-01 : Project Health Monitoring
+===================================
+
+Story: Review Overall Project Health
+
+Tasks
+□ Review Project Dashboard
+□ Verify Project Status (Green/Amber/Red)
+□ Review Project KPIs
+□ Check Milestone Progress
+□ Review Sprint Health
+□ Validate Overall Delivery Status
+
+---
+
+========================================================
+EPIC-02 : Sprint Management
+===========================
+
+Story: Manage Current Sprint
+
+Tasks
+□ Review Sprint Board
+□ Check Sprint Burndown
+□ Review Sprint Velocity
+□ Verify Sprint Goal Progress
+□ Prioritize Sprint Backlog
+□ Track Pending Stories
+
+---
+
+========================================================
+EPIC-03 : Task Management
+=========================
+
+Story: Monitor Team Tasks
+
+Tasks
+□ Review Assigned Tasks
+□ Follow-up Pending Work
+□ Update Jira Tickets
+□ Prioritize Critical Tasks
+□ Verify Task Completion
+□ Close Completed Tasks
+
+---
+
+========================================================
+EPIC-04 : Team Coordination
+===========================
+
+Story: Coordinate Delivery Team
+
+Tasks
+□ Conduct Daily Scrum
+□ Remove Team Blockers
+□ Coordinate Engineering Team
+□ Coordinate QA Team
+□ Coordinate Product Team
+□ Review Action Items
+
+---
+
+========================================================
+EPIC-05 : Stakeholder Communication
+===================================
+
+Story: Manage Stakeholder Updates
+
+Tasks
+□ Prepare Daily Status
+□ Share Progress Update
+□ Schedule Meetings
+□ Capture MOM
+□ Follow-up Action Items
+□ Update Stakeholders
+
+---
+
+========================================================
+EPIC-06 : Risk Management
+=========================
+
+Story: Monitor Project Risks
+
+Tasks
+□ Review Risk Register
+□ Identify New Risks
+□ Define Mitigation Plan
+□ Escalate Critical Risks
+□ Update RAID Log
+
+---
+
+========================================================
+EPIC-07 : Issue Management
+==========================
+
+Story: Resolve Project Issues
+
+Tasks
+□ Review Open Issues
+□ Prioritize Critical Issues
+□ Assign Owners
+□ Track Resolution
+□ Verify Closure
+
+---
+
+========================================================
+EPIC-08 : Dependency Management
+===============================
+
+Story: Manage Cross-Team Dependencies
+
+Tasks
+□ Review Dependencies
+□ Follow-up External Teams
+□ Resolve Blockers
+□ Update Dependency Tracker
+
+---
+
+========================================================
+EPIC-09 : Resource Management
+=============================
+
+Story: Monitor Team Capacity
+
+Tasks
+□ Review Team Capacity
+□ Track Resource Allocation
+□ Review Leave Calendar
+□ Identify Resource Gaps
+□ Plan Backup Resources
+
+---
+
+========================================================
+EPIC-10 : Schedule Management
+=============================
+
+Story: Track Project Schedule
+
+Tasks
+□ Review Timeline
+□ Track Milestones
+□ Review Schedule Variance
+□ Update Delivery Forecast
+□ Validate Deadlines
+
+---
+
+========================================================
+EPIC-11 : Scope Management
+==========================
+
+Story: Manage Project Scope
+
+Tasks
+□ Review Change Requests
+□ Validate Scope
+□ Monitor Scope Creep
+□ Obtain Approvals
+□ Update Product Backlog
+
+---
+
+========================================================
+EPIC-12 : Quality Management
+============================
+
+Story: Monitor Product Quality
+
+Tasks
+□ Review Defect Metrics
+□ Review Test Execution
+□ Monitor Code Quality
+□ Review Technical Debt
+□ Validate Quality Gates
+
+---
+
+========================================================
+EPIC-13 : Release Management
+============================
+
+Story: Coordinate Release Activities
+
+Tasks
+□ Review Release Plan
+□ Verify Release Checklist
+□ Coordinate Deployment
+□ Monitor Production Release
+□ Validate Release Success
+
+---
+
+========================================================
+EPIC-14 : Budget Management
+===========================
+
+Story: Monitor Project Cost
+
+Tasks
+□ Review Budget
+□ Track Expenses
+□ Review Cost Variance
+□ Forecast Budget
+□ Review Resource Cost
+
+---
+
+========================================================
+EPIC-15 : Documentation Management
+==================================
+
+Story: Maintain Project Documents
+
+Tasks
+□ Update Confluence
+□ Update RAID Log
+□ Update Decision Log
+□ Update Meeting Notes
+□ Archive Documents
+
+---
+
+========================================================
+EPIC-16 : Reporting & Dashboard
+===============================
+
+Story: Prepare Project Reports
+
+Tasks
+□ Update Jira Dashboard
+□ Prepare Daily Report
+□ Prepare Weekly Status
+□ Review KPIs
+□ Share Executive Summary
+
+---
+
+========================================================
+EPIC-17 : Customer & Vendor Coordination
+========================================
+
+Story: Coordinate External Stakeholders
+
+Tasks
+□ Follow-up Customer Actions
+□ Coordinate Vendor Deliverables
+□ Review Client Feedback
+□ Track Pending Deliverables
+
+---
+
+========================================================
+EPIC-18 : Governance & Compliance
+=================================
+
+Story: Ensure Process Compliance
+
+Tasks
+□ Review SDLC Compliance
+□ Verify Documentation
+□ Review Audit Requirements
+□ Track Approvals
+
+---
+
+========================================================
+EPIC-19 : Technical Oversight
+=============================
+
+Story: Support Technical Delivery
+
+Tasks
+□ Review Architecture Discussions
+□ Monitor CI/CD Pipeline
+□ Review API Integrations
+□ Track Production Incidents
+□ Review Infrastructure Health
+
+---
+
+========================================================
+EPIC-20 : Continuous Improvement
+================================
+
+Story: Improve Delivery Process
+
+Tasks
+□ Review Sprint Retrospective
+□ Identify Process Improvements
+□ Automate Repetitive Activities
+□ Capture Lessons Learned
+□ Track Improvement Actions

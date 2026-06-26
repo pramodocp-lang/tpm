@@ -31,6 +31,25 @@ However, I am open to discussing the overall package and would
 like to understand the complete compensation structure.
 
 --------------------------------------------------
+What are the roles and responsibilities of a TPM?
+
+As a Technical Project Manager (TPM), my role is to ensure successful delivery of technical projects by coordinating between business and engineering teams.
+
+Responsibilities:
+Define project scope, goals, and timelines
+Plan and manage project execution using Agile methodology
+Track progress, sprints, and tasks using Jira
+Manage stakeholders and ensure clear communication
+Identify and mitigate risks, issues, and dependencies
+Ensure on-time delivery with quality output.
+
+
+
+
+
+
+
+--------------------------------------------------
 
 If Offer Is Lower:
 

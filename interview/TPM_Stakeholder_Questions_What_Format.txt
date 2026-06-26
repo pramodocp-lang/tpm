@@ -1,0 +1,206 @@
+=========================================================
+TPM STAKEHOLDER QUESTIONS (STARTING WITH "WHAT")
+=========================================================
+
+EXECUTIVE SPONSORS
+-------------------------
+What strategic objectives does this project support?
+What business value is expected from this initiative?
+What KPIs should be reported to leadership?
+What decisions require executive approval?
+What risks should be escalated immediately?
+
+BUSINESS OWNERS
+-------------------------
+What business problems are we solving?
+What outcomes define project success?
+What processes will be impacted?
+What business priorities should guide decisions?
+What constraints should the team be aware of?
+
+CLIENTS / CUSTOMERS
+-------------------------
+What are your expectations from the project?
+What deliverables are most important to you?
+What concerns do you have regarding scope or timeline?
+What success criteria should be met?
+What additional value would you like to see?
+
+PRODUCT MANAGERS / PRODUCT OWNERS
+-------------------------
+What user problems are being addressed?
+What features are highest priority?
+What requirements are mandatory for release?
+What assumptions need validation?
+What product metrics will measure success?
+
+PROJECT MANAGER / TPM
+-------------------------
+What milestones are approaching?
+What dependencies require attention?
+What blockers need escalation?
+What risks require mitigation?
+What actions are needed to maintain project health?
+
+ENGINEERING MANAGERS
+-------------------------
+What resources are available for the project?
+What technical challenges may impact delivery?
+What skills gaps need attention?
+What support does the team require?
+What dependencies exist across teams?
+
+SOFTWARE DEVELOPERS
+-------------------------
+What requirements need clarification?
+What technical risks have been identified?
+What dependencies are blocking development?
+What support is needed to complete tasks?
+What improvements can increase productivity?
+
+SOLUTION ARCHITECTS
+-------------------------
+What architectural standards must be followed?
+What integrations are required?
+What scalability considerations exist?
+What security requirements must be implemented?
+What technical constraints affect the solution?
+
+QA / TESTING TEAM
+-------------------------
+What testing scope has been defined?
+What quality risks exist?
+What environments are required for testing?
+What defects are critical for release?
+What test coverage goals should be achieved?
+
+DEVOPS / INFRASTRUCTURE TEAM
+-------------------------
+What deployment requirements exist?
+What infrastructure changes are needed?
+What monitoring solutions should be implemented?
+What release risks should be tracked?
+What automation opportunities exist?
+
+UI / UX TEAM
+-------------------------
+What user experience goals should be achieved?
+What usability concerns have been identified?
+What user feedback has been received?
+What design standards must be followed?
+What accessibility requirements exist?
+
+SECURITY TEAM
+-------------------------
+What security controls are required?
+What vulnerabilities need attention?
+What compliance standards must be met?
+What security risks have been identified?
+What approvals are needed before deployment?
+
+DATA TEAM
+-------------------------
+What data sources are required?
+What reporting requirements exist?
+What data quality concerns have been identified?
+What analytics should be implemented?
+What privacy considerations must be addressed?
+
+OPERATIONS TEAM
+-------------------------
+What operational impacts should be expected?
+What support processes are required?
+What monitoring activities are necessary?
+What training should be provided?
+What maintenance plans should be established?
+
+SUPPORT TEAM
+-------------------------
+What support documentation is needed?
+What escalation procedures should be followed?
+What common user issues are anticipated?
+What SLAs must be maintained?
+What training is required for support staff?
+
+VENDORS / THIRD-PARTY PARTNERS
+-------------------------
+What deliverables are expected from your team?
+What timelines can you commit to?
+What dependencies should be tracked?
+What risks could impact delivery?
+What communication process should be followed?
+
+FINANCE TEAM
+-------------------------
+What budget has been allocated?
+What costs should be monitored?
+What approvals are required for expenditures?
+What financial risks exist?
+What reporting requirements must be met?
+
+PROCUREMENT TEAM
+-------------------------
+What purchases are required?
+What vendor contracts are pending?
+What procurement timelines should be considered?
+What approvals are necessary?
+What risks could delay procurement activities?
+
+LEGAL & COMPLIANCE TEAM
+-------------------------
+What regulatory requirements apply?
+What legal risks should be monitored?
+What contracts require review?
+What approvals are needed before launch?
+What documentation must be maintained?
+
+MARKETING TEAM
+-------------------------
+What launch plans are in place?
+What messaging should be communicated?
+What campaign dependencies exist?
+What customer feedback should be considered?
+What success metrics will be tracked?
+
+SALES TEAM
+-------------------------
+What customer expectations have been communicated?
+What features are critical for sales enablement?
+What training materials are required?
+What objections are customers raising?
+What support is needed before launch?
+
+END USERS
+-------------------------
+What challenges do you face today?
+What improvements would help your work?
+What features are most valuable?
+What usability concerns do you have?
+What feedback can improve the solution?
+
+PMO (PROJECT MANAGEMENT OFFICE)
+-------------------------
+What governance requirements apply?
+What reporting standards should be followed?
+What project metrics need monitoring?
+What risks require visibility?
+What compliance checks must be completed?
+
+=========================================================
+MASTER TPM REVIEW QUESTIONS
+=========================================================
+
+What is the current project status?
+What milestones are at risk?
+What blockers require immediate attention?
+What dependencies could impact delivery?
+What decisions are pending?
+What risks need mitigation?
+What stakeholder concerns have emerged?
+What actions should be prioritized this week?
+What support does the team need?
+What lessons have been learned so far?
+
+=========================================================
+END OF DOCUMENT
+=========================================================
