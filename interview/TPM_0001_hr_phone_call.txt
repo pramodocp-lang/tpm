@@ -5,16 +5,29 @@ HR PHONE SCREENING – SHORT & NATURAL ANSWERS
 I am a Technical Project Manager with experience in managing end-to-end project delivery.  
 I collaborate closely with engineering, QA, product, and business teams to ensure timely and high-quality delivery of projects.  
 My core focus areas include project planning, stakeholder management, risk mitigation, and successful execution of initiatives.
+I ensured regular stakeholder communication with clear updates, expectation management, and delivery transparency.
+
+I actively managed risks and cross-team dependencies using a structured RAID approach.
+
+I also handled resource and capacity planning to ensure smooth execution without bottlenecks.
+
+
+--------------------------------------------------
+2. Are you currently working?
+
+Currently, I am not working and am actively exploring
+opportunities where I can contribute my project
+management experience and continue to develop my career.
 
 --------------------------------------------------
 
-2. When did you leave your previous organization?
+3. When did you leave your previous organization?
 
 I left my previous organization in June 25.
 
 --------------------------------------------------
 
-3 Why did you leave your previous organization?  OR 
+4. Why did you leave your previous organization?  OR 
 Why did you left the organisation ?
 
 The project I was supporting has concluded, and I am now exploring opportunities 
@@ -22,7 +35,7 @@ where I can apply my project management experience, contribute to impactful init
 
 --------------------------------------------------
 
-4. What are your salary expectations?
+5. What are your salary expectations?
 
 Based on my experience in technical project management, project delivery, stakeholder management,
 I am looking for a compensation package in the range of ₹12LPA to ₹15LPA.
@@ -30,26 +43,7 @@ I am looking for a compensation package in the range of ₹12LPA to ₹15LPA.
 However, I am open to discussing the overall package and would
 like to understand the complete compensation structure.
 
---------------------------------------------------
-What are the roles and responsibilities of a TPM?
-
-As a Technical Project Manager (TPM), my role is to ensure successful delivery of technical projects by coordinating between business and engineering teams.
-
-Responsibilities:
-Define project scope, goals, and timelines
-Plan and manage project execution using Agile methodology
-Track progress, sprints, and tasks using Jira
-Manage stakeholders and ensure clear communication
-Identify and mitigate risks, issues, and dependencies
-Ensure on-time delivery with quality output.
-
-
-
-
-
-
-
---------------------------------------------------
+-------------------------------------------------
 
 If Offer Is Lower:
 
@@ -60,32 +54,53 @@ I was expecting something closer to ₹Y.
 
 --------------------------------------------------
 
-6. Why do you want to join our company?
+6. What are the roles and responsibilities of a TPM?
 
-I am impressed by the company's products and growth. The role aligns well with my experience, and I believe it offers a good opportunity to contribute and learn.
+As a Technical Project Manager (TPM), my role is to ensure successful delivery of technical projects 
+by coordinating between business and engineering teams.
+
+Responsibilities:
+
+Define project scope, goals, and timelines
+Plan and manage project execution using Agile methodology
+Track progress, sprints, and tasks using Jira
+Manage stakeholders and ensure clear communication
+Identify and mitigate risks, issues, and dependencies
+Ensure on-time delivery with quality output.
 
 --------------------------------------------------
 
-7. Tell me about a challenging project.
+7. Why do you want to join our company?
+
+I am impressed by the company's products and growth. 
+The role aligns well with my experience, 
+and I believe it offers a good opportunity to contribute and learn.
+
+--------------------------------------------------
+
+8. Tell me about a challenging project.
 
 We had a critical release with tight timelines and dependencies across teams.
 Through regular tracking and communication, we managed the risks and delivered the release successfully.
 
 --------------------------------------------------
 
-8. How do you handle conflicts?
+9. How do you handle conflicts?
 
-I focus on understanding different perspectives, encouraging open communication, and finding a solution that supports the project goals.
-
---------------------------------------------------
-
-9. How do you handle pressure?
-
-I prioritize tasks, stay organized, and communicate proactively. Clear planning helps me manage pressure effectively.
+I focus on understanding different perspectives, 
+encouraging open communication, and finding a solution that supports the project goals.
 
 --------------------------------------------------
 
-10. What are your strengths?
+10. How do you handle pressure?
+
+I prioritize tasks, stay organized, 
+and communicate proactively.
+Clear planning helps me manage pressure effectively.
+
+--------------------------------------------------
+
+11. What are your strengths?
 
 • Stakeholder Management
 • Communication
@@ -95,23 +110,111 @@ I prioritize tasks, stay organized, and communicate proactively. Clear planning 
 
 --------------------------------------------------
 
-11. What is your weakness?
+12. What is your weakness?
 
 Sometimes I spend extra time on planning, but I've learned to balance planning with execution.
 
 --------------------------------------------------
 
-12. Where do you see yourself in 5 years?
+13. Where do you see yourself in 5 years?
 
-I see myself taking on larger programs and leadership responsibilities while continuing to grow as a project management professional.
+I see myself growing into a senior leadership role
+where I can manage larger programs, mentor teams,
+drive strategic initiatives, and contribute
+significantly to business growth.
+
+
+--------------------------------------------------
+
+15. Why should we hire you?
+
+I bring project delivery experience, 
+strong coordination skills, and the ability to work effectively 
+with cross-functional teams to achieve business goals.
+
+--------------------------------------------------
+16. When can you join?
+
+I am available to join immediately.
 
 --------------------------------------------------
 
-13. Why should we hire you?
+17. Why should we hire you?
 
-I bring project delivery experience, strong coordination skills, and the ability to work effectively with cross-functional teams to achieve business goals.
+I bring experience in end-to-end project delivery,
+strong stakeholder management skills, and the ability
+to coordinate effectively across technical and business
+teams.
+
+I have successfully managed project planning, risk
+mitigation, UAT, and release activities, and I am
+confident that I can contribute positively to your
+organization's project delivery goals.
 
 --------------------------------------------------
+18. How do you handle project risks?
+
+I proactively identify risks during project planning,
+maintain a RAID log, assess impact and probability,
+create mitigation plans, and regularly review risks
+with stakeholders to prevent project delays.
+
+--------------------------------------------------
+
+19. How do you manage dificult stakeholders?
+
+I focus on clear communication, understanding their
+concerns, maintaining transparency, and ensuring
+regular status updates.
+
+Building trust and managing expectations are key to
+handling difficult stakeholder situations.
+
+--------------------------------------------------
+20. Describe a challenging project you managed?
+
+A project faced scope changes and tight timelines.
+
+I worked with stakeholders to prioritize requirements,
+managed risks proactively, coordinated closely with the
+development team, and ensured regular communication.
+
+The project was delivered successfully within the
+agreed timeline.
+
+--------------------------------------------------
+22. Which are the tools you have used?
+
+I have worked with Jira for sprint and backlog management,
+Confluence for documentation, 
+Excel for reporting and project tracking, 
+Power BI for dashboards, 
+and collaboration tools such as Microsoft Teams and Slack. 
+Depending on project needs, I use Excel and Power BI for data analysis 
+and stakeholder reporting.
+
+--------------------------------------------------
+
+22. Do you have any questions for US?
+
+1. What are the key responsibilities of this role?
+
+2. What are the current projects the team is
+   working on?
+
+3. How is success measured in this position?
+
+4. What does the team structure look like?
+
+5. What are the next steps in the interview process?
+
+
+
+
+
+
+
+
 
 Questions for HR
 
