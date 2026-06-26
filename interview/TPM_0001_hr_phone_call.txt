@@ -10,7 +10,7 @@ My core focus areas include project planning, stakeholder management, risk mitig
 
 2. When did you leave your previous organization?
 
-I left my previous organization in June 2025.
+I left my previous organization in June 25.
 
 --------------------------------------------------
 
@@ -49,7 +49,8 @@ I am impressed by the company's products and growth. The role aligns well with m
 
 7. Tell me about a challenging project.
 
-We had a critical release with tight timelines and dependencies across teams. Through regular tracking and communication, we managed the risks and delivered the release successfully.
+We had a critical release with tight timelines and dependencies across teams.
+Through regular tracking and communication, we managed the risks and delivered the release successfully.
 
 --------------------------------------------------
 
