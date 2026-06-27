@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Cover Letter - Pramod Kumar</title>
+</head>
+
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; margin: 20px;">
+
+  <div style="max-width: 750px; margin: auto; padding: 20px; border: 1px solid #e0e0e0; border-radius: 8px;">
+
+    <!-- Header -->
+    <h2 style="text-align: center; margin-bottom: 5px;">COVER LETTER</h2>
+    <h3 style="text-align: center; margin-top: 0; color: #444;">Technical Project Manager / Project Manager</h3>
+
+    <hr style="margin: 20px 0;">
+
+    <!-- Contact -->
+    <p>
+      <strong>Pramod Kumar</strong><br>
+      Technical Project Manager | Project Manager<br>
+      📧 your.email@example.com | 📞 +91-XXXXXXXXXX<br>
+      📍 India
+    </p>
+
+    <hr style="margin: 20px 0;">
+
+    <!-- Greeting -->
+    <p><strong>Dear Hiring Manager,</strong></p>
+
+    <!-- Intro -->
+    <p>
+      I am writing to express my interest in the <strong>Technical Project Manager / Project Manager</strong> position in your organization. 
+      With extensive experience leading cross-functional teams and delivering end-to-end software projects, I bring a strong combination of technical understanding, Agile execution, and stakeholder management.
+    </p>
+
+    <!-- Summary -->
+    <p>
+      I have successfully managed the full project lifecycle—from initiation and planning to development, testing, deployment, and production support. 
+      I ensure strong alignment between business objectives and technical execution while maintaining focus on scope, schedule, budget, and quality.
+    </p>
+
+    <p>
+      I have worked closely with Product Owners, Engineering, QA, DevOps, and business stakeholders to deliver scalable and high-quality solutions using Agile Scrum methodology.
+    </p>
+
+    <!-- Key Strengths -->
+    <h3>Key Strengths</h3>
+    <ul>
+      <li>End-to-End Project / Program Delivery</li>
+      <li>Agile Scrum & Sprint Execution</li>
+      <li>Technical Project Planning & Roadmap Management</li>
+      <li>Stakeholder & Vendor Management</li>
+      <li>RAID (Risks, Assumptions, Issues, Dependencies) Management</li>
+      <li>Release & Change Management</li>
+      <li>Resource & Capacity Planning</li>
+      <li>Project Governance & Reporting</li>
+      <li><strong>Jira, Confluence, Slack, and SDLC tools for Agile project execution and collaboration</strong></li>
+      <li>Cross-Functional Team Leadership</li>
+    </ul>
+
+    <!-- Achievement -->
+    <h3>Key Achievement</h3>
+    <p>
+      Led complex software implementation initiatives that improved operational efficiency, streamlined business processes, and ensured successful on-time delivery with high stakeholder satisfaction. 
+      Focused on transparency, collaboration, and continuous improvement across teams.
+    </p>
+
+    <!-- Closing -->
+    <p>
+      I am eager to bring my project leadership, technical expertise, and delivery management experience to your organization and contribute to successful execution of strategic initiatives.
+    </p>
+
+    <p>
+      Thank you for your time and consideration. I look forward to the opportunity to discuss my application further.
+    </p>
+
+    <br>
+
+    <p><strong>Sincerely,</strong><br>
+    <strong>Pramod Kumar</strong><br>
+    Technical Project Manager | Project Manager</p>
+
+  </div>
+
+</body>
+</html>

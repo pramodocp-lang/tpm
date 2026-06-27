@@ -1,0 +1,390 @@
+# SDLC for Technical Project Managers
+
+## Learning Goal
+
+Understand how a Technical Project Manager manages a software project from idea to production.
+
+---
+
+# What is SDLC?
+
+SDLC (Software Development Life Cycle) is a structured process used to build software in a predictable, controlled, and high-quality manner.
+
+It defines:
+
+- How software is planned
+- How requirements are collected
+- How development happens
+- How testing is performed
+- How releases are managed
+- How maintenance continues after launch
+
+As a TPM, your responsibility is to ensure every phase is executed successfully.
+
+---
+
+# Standard SDLC Phases
+
+1. Requirement Gathering
+2. Planning
+3. Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance
+
+---
+
+# Phase 1 — Requirement Gathering
+
+Objective:
+Understand what the customer wants.
+
+Activities
+
+- Meet stakeholders
+- Gather business requirements
+- Clarify scope
+- Identify assumptions
+- Identify dependencies
+- Record functional requirements
+- Record non-functional requirements
+
+TPM Responsibilities
+
+✔ Schedule meetings
+
+✔ Ask clarification questions
+
+✔ Capture requirements
+
+✔ Prepare BRD
+
+✔ Prepare user stories
+
+✔ Identify risks
+
+Deliverables
+
+- BRD
+- User Stories
+- Acceptance Criteria
+- Requirement Traceability Matrix
+
+---
+
+# Phase 2 — Planning
+
+Objective
+
+Plan the entire project.
+
+Activities
+
+- Effort estimation
+- Resource planning
+- Timeline planning
+- Sprint planning
+- Cost estimation
+- Risk planning
+
+TPM Responsibilities
+
+✔ Capacity planning
+
+✔ Timeline creation
+
+✔ Roadmap preparation
+
+✔ Budget estimation
+
+✔ Team allocation
+
+✔ Stakeholder communication
+
+Deliverables
+
+- Project Plan
+- Roadmap
+- Sprint Plan
+- Risk Register
+- Resource Plan
+
+---
+
+# Phase 3 — Design
+
+Objective
+
+Design how the solution will work.
+
+Activities
+
+- UI Design
+- UX Design
+- Database Design
+- API Design
+- Architecture Design
+
+TPM Responsibilities
+
+✔ Coordinate teams
+
+✔ Resolve dependencies
+
+✔ Review design progress
+
+✔ Ensure design approval
+
+Deliverables
+
+- UI Mockups
+- Wireframes
+- API Documents
+- Architecture Diagram
+
+---
+
+# Phase 4 — Development
+
+Objective
+
+Develop the application.
+
+Activities
+
+- Coding
+- Code Review
+- Daily Standup
+- Merge Requests
+- Build Creation
+
+TPM Responsibilities
+
+✔ Sprint tracking
+
+✔ Remove blockers
+
+✔ Daily monitoring
+
+✔ Capacity adjustments
+
+✔ Jira updates
+
+Deliverables
+
+- Source Code
+- Build
+- Sprint Report
+
+---
+
+# Phase 5 — Testing
+
+Objective
+
+Verify software quality.
+
+Activities
+
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- UAT
+
+TPM Responsibilities
+
+✔ Defect tracking
+
+✔ Prioritize bugs
+
+✔ Coordinate QA
+
+✔ Review test reports
+
+Deliverables
+
+- Test Cases
+- Bug Reports
+- Test Summary
+- UAT Sign-off
+
+---
+
+# Phase 6 — Deployment
+
+Objective
+
+Release software to users.
+
+Activities
+
+- Release Planning
+- Production Deployment
+- Smoke Testing
+- Rollback Planning
+
+TPM Responsibilities
+
+✔ Release approval
+
+✔ Deployment coordination
+
+✔ Production monitoring
+
+✔ Communication with stakeholders
+
+Deliverables
+
+- Release Notes
+- Deployment Checklist
+- Rollback Plan
+
+---
+
+# Phase 7 — Maintenance
+
+Objective
+
+Support production after launch.
+
+Activities
+
+- Bug Fixes
+- Monitoring
+- Performance Improvements
+- Enhancement Requests
+
+TPM Responsibilities
+
+✔ Incident management
+
+✔ SLA tracking
+
+✔ Customer communication
+
+✔ Improvement planning
+
+Deliverables
+
+- Incident Reports
+- RCA Documents
+- Enhancement Backlog
+
+---
+
+# SDLC Models
+
+Traditional
+
+- Waterfall
+- V-Model
+
+Iterative
+
+- Agile
+- Scrum
+- Kanban
+- Spiral
+- Incremental
+
+Hybrid
+
+Combination of Waterfall + Agile
+
+---
+
+# SDLC Deliverables
+
+Requirement Phase
+
+- BRD
+- FRD
+- User Stories
+
+Planning
+
+- Roadmap
+- Sprint Plan
+- WBS
+- Risk Register
+
+Design
+
+- Architecture
+- API Specs
+- UI Design
+
+Development
+
+- Code
+- Build
+
+Testing
+
+- Test Cases
+- Bug Report
+- UAT
+
+Deployment
+
+- Release Notes
+
+Maintenance
+
+- RCA
+- Support Reports
+
+---
+
+# TPM Interview Questions
+
+1. Explain SDLC.
+
+2. Which SDLC model have you used?
+
+3. Difference between Waterfall and Agile?
+
+4. How do you manage changing requirements?
+
+5. What are SDLC deliverables?
+
+6. What happens before development starts?
+
+7. What documents are prepared during planning?
+
+8. How do you track project progress?
+
+9. What happens after deployment?
+
+10. How does a TPM contribute in every SDLC phase?
+
+---
+
+# Quick Revision
+
+Idea
+↓
+
+Requirement Gathering
+↓
+
+Planning
+↓
+
+Design
+↓
+
+Development
+↓
+
+Testing
+↓
+
+Deployment
+↓
+
+Maintenance
+
+Remember:
+A TPM is involved throughout the SDLC, ensuring coordination, planning, communication, risk management, and successful delivery.

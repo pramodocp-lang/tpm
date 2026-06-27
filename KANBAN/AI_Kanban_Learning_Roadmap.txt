@@ -1,0 +1,133 @@
+FILE NAME: AI_Kanban_Learning_Roadmap.txt
+
+==============================
+AI LEARNING ROADMAP USING KANBAN
+==============================
+
+KANBAN BOARD STRUCTURE
+----------------------
+BACKLOG
+- All topics to learn
+
+TO LEARN (This Week)
+- Priority topics selected for current week
+
+IN PROGRESS (Max 2)
+- Currently learning topics only
+
+PRACTICE (Max 2)
+- Hands-on coding / projects
+
+DONE
+- Completed + revised topics
+
+
+WIP RULES
+---------
+- In Progress → max 2 topics
+- Practice → max 2 topics
+- No multitasking beyond limit
+
+
+PHASE 1: FOUNDATIONS (Week 1–2)
+------------------------------
+TO LEARN
+- Python basics revision
+- Math basics (mean, median, variance, probability)
+- What is AI / ML / DL
+- Data types and preprocessing
+
+IN PROGRESS
+- Python basics revision
+
+PRACTICE
+- Simple Python programs
+- CSV loading using pandas
+
+DONE
+- Update daily
+
+
+PHASE 2: MACHINE LEARNING CORE (Week 3–5)
+----------------------------------------
+TO LEARN
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Model evaluation (accuracy, precision, recall)
+
+IN PROGRESS
+- Linear Regression
+- Logistic Regression
+
+PRACTICE
+- House price prediction project
+- Titanic dataset classification
+
+DONE
+- Update daily
+
+
+PHASE 3: ADVANCED ML (Week 6–7)
+------------------------------
+TO LEARN
+- Overfitting vs underfitting
+- Cross validation
+- Feature engineering
+- Basic NLP
+
+IN PROGRESS
+- Feature engineering
+- Overfitting vs underfitting
+
+PRACTICE
+- Spam detection project
+- Model tuning experiments
+
+DONE
+- Update daily
+
+
+PHASE 4: AI + LLM BASICS (Week 8+)
+----------------------------------
+TO LEARN
+- Artificial Intelligence basics
+- Machine Learning concepts revision
+- What are LLMs (ChatGPT type models)
+- Prompt engineering basics
+
+IN PROGRESS
+- Prompt engineering basics
+
+PRACTICE
+- Simple chatbot project
+- Prompt testing (Q&A, summarization)
+
+DONE
+- Update daily
+
+
+DAILY FLOW
+----------
+- Pick 1 topic from TO LEARN
+- Move to IN PROGRESS
+- Study + understand
+- Move to PRACTICE
+- Do hands-on work
+- Move to DONE
+
+
+WEEKLY FLOW
+-----------
+MONDAY
+- Move BACKLOG → TO LEARN
+
+TUE–THU
+- Learn + Practice
+
+FRIDAY
+- Revision + cleanup
+
+WEEKEND
+- Mini project or revision
