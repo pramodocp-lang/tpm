@@ -1,0 +1,274 @@
+============================================================
+        TPM PROJECT PLANNING - JIRA PORTFOLIO ROADMAP
+============================================================
+
+Document Title:
+TPM Project Planning - Jira Portfolio Roadmap
+
+Version:
+1.0
+
+Author:
+Pramod Kumar
+
+Created On:
+28-Jun-2026
+
+Purpose:
+This document serves as a roadmap and checklist for building a
+production-ready Technical Project Manager (TPM) portfolio using
+Jira, Agile methodologies, SDLC, Confluence, GitHub integration,
+automation, dashboards, reports, and project documentation.
+
+============================================================
+
+
+
+
+PROJECT STATUS
+--------------
+Project Name : TPM Project Planning
+Platform     : Jira
+Current State: Successfully Configured
+
+Overall Rating: 9.9 / 10
+
+------------------------------------------------------------
+ACHIEVEMENTS
+------------------------------------------------------------
+
+✔ Custom Jira Workflow Created
+✔ SDLC-Based Workflow
+✔ Approval Process Configured
+✔ Development Lifecycle Configured
+✔ Code Review Stage
+✔ QA Testing Stage
+✔ UAT Stage
+✔ Blocked Status
+✔ Cancelled Status
+✔ Archived Status
+✔ Passed UAT Stage
+✔ Done Status
+✔ 21+ Work Items Created
+✔ Status Dashboard Available
+✔ Agile Project Structure
+✔ Portfolio Ready
+
+------------------------------------------------------------
+CURRENT WORKFLOW
+------------------------------------------------------------
+
+Start
+   │
+Approval
+   │
+Approved
+   │
+To Do
+   │
+In Progress
+   │
+Code Review
+   │
+QA Testing
+   │
+UAT
+   │
+Passed UAT
+   │
+Done
+
+Additional Statuses
+
+Any Active Status
+      │
+   Blocked
+      │
+Back to Previous Status
+
+Any Status
+      │
+Cancelled
+
+Any Status
+      │
+Archived
+
+------------------------------------------------------------
+NEXT PHASES
+------------------------------------------------------------
+
+PHASE 1 - TEAM MANAGEMENT
+
+- Create Team Members
+- Define Roles
+- Configure Permissions
+- Issue Security
+- Notifications
+
+Roles
+
+- Technical Project Manager
+- Product Owner
+- Scrum Master
+- Developer
+- QA Engineer
+- Business Analyst
+- Stakeholder
+
+------------------------------------------------------------
+PHASE 2 - AGILE PROJECT MANAGEMENT
+------------------------------------------------------------
+
+Create
+
+- Product Backlog
+- Sprint 1
+- Sprint 2
+- Sprint Planning
+- Sprint Review
+- Sprint Retrospective
+
+------------------------------------------------------------
+PHASE 3 - JIRA AUTOMATION
+------------------------------------------------------------
+
+Automation Ideas
+
+✓ Assign issue to QA when entering QA Testing
+✓ Notify stakeholders after Passed UAT
+✓ Reopen issue when QA fails
+✓ Set Resolution automatically on Done
+✓ Reminder for overdue issues
+✓ Auto-assign Code Review
+✓ Notify Release Team
+✓ SLA Alerts
+
+------------------------------------------------------------
+PHASE 4 - DASHBOARDS
+------------------------------------------------------------
+
+TPM Dashboard
+
+- Sprint Burndown
+- Sprint Velocity
+- Team Workload
+- Blocked Issues
+- Issue Aging
+- Cycle Time
+- Lead Time
+- Epic Progress
+
+Leadership Dashboard
+
+- Project Health
+- Milestone Status
+- Release Progress
+- Team Capacity
+- Risk Summary
+- Overall Progress
+
+------------------------------------------------------------
+PHASE 5 - REPORTS
+------------------------------------------------------------
+
+Generate
+
+- Sprint Report
+- Velocity Report
+- Burndown Chart
+- Burnup Chart
+- Cumulative Flow Diagram
+- Epic Report
+- Version Report
+- Control Chart
+- Time Tracking Report
+
+------------------------------------------------------------
+PHASE 6 - CONFLUENCE DOCUMENTATION
+------------------------------------------------------------
+
+Create Documentation
+
+- Project Charter
+- Business Requirements
+- Functional Requirements
+- Non-Functional Requirements
+- Solution Architecture
+- Database Design
+- API Documentation
+- SDLC Documentation
+- RAID Log
+- Risk Register
+- Decision Log
+- Communication Plan
+- Meeting Minutes
+- Sprint Notes
+- Release Notes
+
+------------------------------------------------------------
+PHASE 7 - DEVOPS INTEGRATION
+------------------------------------------------------------
+
+Integrate
+
+- GitHub
+- Bitbucket
+- Jenkins
+- Confluence
+- Slack
+- Microsoft Teams
+
+------------------------------------------------------------
+PHASE 8 - TPM INTERVIEW PREPARATION
+------------------------------------------------------------
+
+Be Ready to Explain
+
+1. Project Initiation
+2. Requirement Gathering
+3. Sprint Planning
+4. Roadmap Planning
+5. Risk Management
+6. Stakeholder Communication
+7. Capacity Planning
+8. Jira Workflow Design
+9. Agile Ceremonies
+10. Code Review Process
+11. QA Process
+12. UAT Process
+13. Release Planning
+14. Production Deployment
+15. Project Closure
+
+------------------------------------------------------------
+PORTFOLIO DELIVERABLES
+------------------------------------------------------------
+
+✓ Jira Project
+✓ Workflow
+✓ Backlog
+✓ Sprint Planning
+✓ Dashboard
+✓ Reports
+✓ Automation
+✓ Confluence
+✓ GitHub Integration
+✓ SDLC Documentation
+✓ Architecture
+✓ Risk Register
+✓ RAID Log
+✓ Release Plan
+
+------------------------------------------------------------
+FINAL GOAL
+------------------------------------------------------------
+
+Build a Production-Ready Technical Project Manager Portfolio
+that demonstrates end-to-end project delivery using Agile,
+Jira, Confluence, GitHub, SDLC, and stakeholder management.
+
+This portfolio should be sufficient to confidently discuss
+real-world TPM responsibilities during interviews.
+
+============================================================
