@@ -75,6 +75,42 @@ Explain:
 • Results
 • Lessons Learned
 
+Project Overview
+My recent project was a SaaS-based business management platform that helped organizations manage their day-to-day operations through a centralized web application. It included modules for user management, workflow automation, reporting, and role-based access.
+Business Goal
+The goal was to replace manual processes with a scalable digital platform, improve operational efficiency, and provide real-time visibility into business data.
+Team Size
+The project team consisted of around 10 members:
+5 Backend Developers
+2 Frontend Developers
+2 QA Engineers
+1 UI/UX Designer
+I worked as the Technical Lead, coordinating with product owners and stakeholders.
+My Responsibilities
+Planned project execution and sprint deliverables.
+Broke requirements into technical tasks.
+Coordinated developers, QA, and product teams.
+Managed risks, dependencies, and release timelines.
+Reviewed code and ensured coding standards.
+Mentored team members and resolved technical blockers.
+Provided regular project status updates to stakeholders.
+Technologies Used
+PHP, Laravel
+MySQL
+REST APIs
+JavaScript
+Git
+AWS (EC2, S3)
+Docker
+Jira
+Challenges The biggest challenge was changing business requirements during development while maintaining delivery timelines. We prioritized features, refined the backlog, improved stakeholder communication, and released high-priority functionality first to stay on schedule.
+Results
+Delivered the project on time.
+Improved system performance and scalability.
+Reduced manual work through automation.
+Received positive feedback from business stakeholders.
+Established a stable foundation for future feature enhancements.
+Lessons Learned The project reinforced that successful delivery depends not only on technical execution but also on clear communication, proactive risk management, and continuous collaboration across cross-functional teams. Early stakeholder alignment and regular feedback significantly reduce rework and delivery risks.
 ---------------------------------------------------------
 
 Q3. Describe your biggest program.
