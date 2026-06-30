@@ -1,0 +1,320 @@
+# Technical Project Manager (TPM) - First 30 Days Onboarding Plan
+
+Project:
+Enterprise Legacy System Migration & Modernization
+
+Document Version: 1.0
+
+---
+
+## OBJECTIVE
+
+The goal of the first 30 days is to understand the business, build relationships, learn the product, 
+understand the technical landscape, and establish trust with the team.
+
+The focus is:
+
+* Learn first
+* Observe carefully
+* Build relationships
+* Understand the delivery process
+* Avoid making major process changes too early
+
+---
+
+## WEEK 1 - LEARN & OBSERVE
+
+Objectives
+
+* Complete company onboarding
+* Obtain access to all required tools
+* Understand the organization structure
+* Meet key stakeholders
+* Learn the product at a high level
+
+Tasks
+
+□ Laptop and system setup
+□ Email access
+□ Jira access
+□ Confluence access
+□ GitHub access
+□ Slack / Microsoft Teams access
+□ Development environment overview
+
+Read
+
+□ Project Overview
+□ Project Charter
+□ Product Roadmap
+□ Business Requirements
+□ Architecture Overview
+□ Sprint Board
+□ RAID Log
+
+Meet
+
+□ Reporting Manager
+□ Product Owner
+□ Engineering Manager
+□ Scrum Master
+□ Solution Architect
+□ QA Lead
+□ DevOps Lead
+
+Observe
+
+□ Daily Stand-up
+□ Sprint Planning
+□ Sprint Review
+□ Sprint Retrospective
+
+Deliverables
+
+* Team Introduction Notes
+* Stakeholder List
+* Initial Observations
+
+---
+
+## WEEK 2 - UNDERSTAND THE PROJECT
+
+Objectives
+
+* Understand project goals
+* Learn delivery process
+* Review project documentation
+* Identify dependencies
+
+Review
+
+□ Project Scope
+□ Timeline
+□ Milestones
+□ Risks
+□ Current Sprint
+□ Release Plan
+
+Understand
+
+* Team responsibilities
+* Development workflow
+* Testing process
+* Deployment process
+* Approval workflow
+
+Questions
+
+* What are the current priorities?
+* What are the biggest challenges?
+* What is blocking delivery?
+* What are the project risks?
+* What are customer expectations?
+
+Deliverables
+
+* Project Understanding Document
+* Stakeholder Mapping
+* Initial Risk List
+
+---
+
+## WEEK 3 - BUILD RELATIONSHIPS
+
+Objectives
+
+* Conduct one-on-one meetings
+* Build trust
+* Understand team concerns
+* Identify improvement opportunities
+
+Meet Individually
+
+Engineering Manager
+
+Ask
+
+* Current priorities?
+* Delivery challenges?
+* Resource constraints?
+
+Developers
+
+Ask
+
+* Biggest blockers?
+* Pain points?
+* Technical debt?
+* Process improvements?
+
+QA Team
+
+Ask
+
+* Testing bottlenecks?
+* Quality concerns?
+* Automation coverage?
+
+DevOps
+
+Ask
+
+* Release process?
+* Deployment issues?
+* Infrastructure risks?
+
+Product Owner
+
+Ask
+
+* Business priorities?
+* Customer expectations?
+* Upcoming roadmap?
+
+Deliverables
+
+* Team Feedback Summary
+* Dependency List
+* Communication Plan
+
+---
+
+## WEEK 4 - ANALYZE & PLAN
+
+Objectives
+
+* Review findings
+* Identify improvement opportunities
+* Create action plan
+
+Analyze
+
+* Sprint performance
+* Team velocity
+* Open risks
+* Pending issues
+* Technical dependencies
+* Communication gaps
+
+Prepare
+
+* Improvement recommendations
+* Risk mitigation plan
+* Stakeholder communication plan
+* Delivery improvement roadmap
+
+Deliverables
+
+* 30-Day Assessment Report
+* Risk Register Update
+* Action Plan
+* Executive Summary
+
+---
+
+## KEY DOCUMENTS TO REVIEW
+
+□ Project Overview
+□ Project Charter
+□ BRD
+□ FRD
+□ Architecture Diagram
+□ Sprint Backlog
+□ Product Backlog
+□ Release Plan
+□ RAID Log
+□ Meeting Notes
+□ Decision Log
+
+---
+
+## MEETINGS TO ATTEND
+
+Daily Stand-up
+
+Purpose
+
+* Progress updates
+* Blockers
+* Daily plan
+
+Sprint Planning
+
+Purpose
+
+* Sprint goal
+* Story estimation
+* Sprint commitment
+
+Sprint Review
+
+Purpose
+
+* Demonstrate completed work
+* Collect stakeholder feedback
+
+Sprint Retrospective
+
+Purpose
+
+* Identify improvements
+* Celebrate successes
+* Define action items
+
+Backlog Refinement
+
+Purpose
+
+* Review upcoming work
+* Clarify requirements
+* Estimate stories
+
+Stakeholder Meeting
+
+Purpose
+
+* Project status
+* Risks
+* Decisions
+* Dependencies
+
+---
+
+## DO'S
+
+✔ Listen carefully
+✔ Build trust
+✔ Ask thoughtful questions
+✔ Understand before changing
+✔ Document observations
+✔ Be transparent
+✔ Follow up on commitments
+✔ Keep stakeholders informed
+
+---
+
+## DON'TS
+
+✘ Don't change processes immediately
+✘ Don't micromanage developers
+✘ Don't assume existing processes are wrong
+✘ Don't ignore team feedback
+✘ Don't overpromise timelines
+✘ Don't make decisions without understanding the context
+
+---
+
+## SUCCESS CRITERIA AFTER 30 DAYS
+
+□ Understand the product and business goals
+□ Build strong relationships with stakeholders
+□ Understand Agile ceremonies and delivery process
+□ Know project risks and dependencies
+□ Become familiar with the technology stack
+□ Gain visibility into current sprint progress
+□ Deliver a 30-Day Assessment Report
+□ Create a roadmap for future improvements
+
+---
+
+## END OF DOCUMENT

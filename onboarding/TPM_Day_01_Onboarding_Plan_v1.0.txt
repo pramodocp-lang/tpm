@@ -1,0 +1,412 @@
+# Technical Project Manager (TPM) - Day 1 Onboarding Plan
+
+Project:
+Enterprise Legacy System Migration & Modernization
+
+Role:
+Technical Project Manager
+
+Objective:
+Become familiar with the organization, understand the project at a high level, build initial relationships, and gather information without making process changes.
+
+=================================================================
+09:00 AM - 09:30 AM
+HR & IT Onboarding
+==================
+
+Objectives
+
+* Complete onboarding formalities
+* Receive company assets
+* Verify system access
+
+Checklist
+
+□ Laptop configured
+□ Email account activated
+□ VPN access
+□ Jira access
+□ Confluence access
+□ GitHub access
+□ Slack / Microsoft Teams access
+□ Calendar access
+
+Expected Output
+
+* All required systems are accessible.
+
+=================================================================
+09:30 AM - 10:00 AM
+Meeting with Reporting Manager
+==============================
+
+Objectives
+
+* Understand expectations
+* Learn current priorities
+* Clarify responsibilities
+
+Questions
+
+* What are the top business priorities?
+* Which projects will I own?
+* What are the team's current challenges?
+* What should I achieve in the first 30, 60, and 90 days?
+* How do you define success for this role?
+
+Expected Output
+
+* Role expectations documented.
+* List of assigned projects.
+* Initial priorities captured.
+
+Confluence Update
+
+Page:
+01 - Onboarding Notes
+
+Document
+
+* Manager expectations
+* Assigned responsibilities
+* Key priorities
+
+=================================================================
+10:00 AM - 10:30 AM
+Team Introduction
+=================
+
+Meet
+
+* Product Owner
+* Scrum Master
+* Engineering Manager
+* Developers
+* QA Engineers
+* DevOps Engineers
+* Solution Architect
+* Business Analyst
+
+Objectives
+
+* Learn names and responsibilities
+* Introduce yourself
+* Build rapport
+
+Expected Output
+
+* Team directory
+* Role mapping
+* Initial communication channels identified
+
+Confluence Update
+
+Page:
+02 - Team Directory
+
+Include
+
+* Name
+* Role
+* Team
+* Responsibilities
+
+=================================================================
+10:30 AM - 11:00 AM
+Project Overview Review
+=======================
+
+Read
+
+* Project Overview
+* Project Charter
+* Product Vision
+* Business Goals
+
+Objectives
+
+* Understand why the project exists
+* Understand business value
+
+Questions
+
+* What business problem does this project solve?
+* Who are the customers?
+* What defines project success?
+
+Expected Output
+
+* Project summary
+* Business objectives
+* High-level understanding
+
+Confluence Update
+
+Page:
+03 - Project Understanding
+
+=================================================================
+11:00 AM - 11:30 AM
+Architecture Walkthrough
+========================
+
+Meet
+
+Solution Architect
+
+Topics
+
+* System architecture
+* Technology stack
+* Integrations
+* External dependencies
+* Deployment architecture
+
+Questions
+
+* What are the critical components?
+* Which services are high risk?
+* Where are the major technical dependencies?
+* What technical debt exists?
+
+Expected Output
+
+* High-level architecture notes
+* Technology inventory
+* Dependency list
+
+Confluence Update
+
+Page:
+04 - Architecture Notes
+
+=================================================================
+11:30 AM - 12:00 PM
+Jira Walkthrough
+================
+
+Objectives
+
+* Learn the workflow
+* Review active sprint
+* Understand issue types
+
+Review
+
+* Sprint Board
+* Backlog
+* Epics
+* Stories
+* Bugs
+* Tasks
+
+Questions
+
+* How are priorities decided?
+* What is the Definition of Done?
+* How are blockers escalated?
+
+Expected Output
+
+* Jira workflow understanding
+* Current sprint overview
+
+Confluence Update
+
+Page:
+05 - Delivery Process
+
+=================================================================
+12:00 PM - 01:00 PM
+Lunch & Informal Networking
+===========================
+
+Objectives
+
+* Meet team members informally
+* Build relationships
+* Understand team culture
+
+=================================================================
+01:00 PM - 02:00 PM
+Daily Stand-up Observation
+==========================
+
+Observe
+
+* Team updates
+* Blockers
+* Sprint progress
+
+Do Not
+
+* Interrupt
+* Suggest changes
+* Challenge estimates
+
+Take Notes
+
+* Team dynamics
+* Communication style
+* Escalation process
+
+Expected Output
+
+* Daily stand-up observations
+
+Confluence Update
+
+Page:
+06 - Stand-up Observations
+
+=================================================================
+02:00 PM - 03:00 PM
+One-on-One with Product Owner
+=============================
+
+Topics
+
+* Product roadmap
+* Priorities
+* Customer expectations
+
+Questions
+
+* What are the highest-priority features?
+* What are the biggest customer pain points?
+* What upcoming milestones are critical?
+
+Expected Output
+
+* Product priorities
+* Roadmap overview
+
+Confluence Update
+
+Page:
+07 - Product Notes
+
+=================================================================
+03:00 PM - 04:00 PM
+One-on-One with Engineering Manager
+===================================
+
+Topics
+
+* Team structure
+* Capacity
+* Technical risks
+
+Questions
+
+* What are the team's biggest challenges?
+* What risks concern you most?
+* What slows down delivery?
+* Are there any resource gaps?
+
+Expected Output
+
+* Risk list
+* Team capacity understanding
+
+Confluence Update
+
+Page:
+08 - Engineering Notes
+
+=================================================================
+04:00 PM - 04:30 PM
+Review Project Documentation
+============================
+
+Read
+
+* BRD
+* FRD
+* Sprint Goals
+* Release Plan
+* RAID Log
+* Meeting Notes
+
+Expected Output
+
+* Document review checklist
+* Knowledge gaps identified
+
+=================================================================
+04:30 PM - 05:00 PM
+End-of-Day Summary
+==================
+
+Prepare
+
+* Key learnings
+* Open questions
+* Risks observed
+* Follow-up actions
+
+Example Summary
+
+Today's Achievements
+
+✓ Completed onboarding
+✓ Met key stakeholders
+✓ Reviewed project overview
+✓ Understood Jira workflow
+✓ Observed stand-up
+✓ Reviewed architecture
+✓ Identified initial risks
+
+Questions for Tomorrow
+
+* Understand deployment pipeline
+* Review testing strategy
+* Meet QA Lead
+* Understand release calendar
+* Review current sprint metrics
+
+=================================================================
+DAY 1 DELIVERABLES
+==================
+
+Documents Created
+
+□ Onboarding Notes
+□ Team Directory
+□ Project Understanding
+□ Architecture Notes
+□ Delivery Process Notes
+□ Product Notes
+□ Engineering Notes
+□ End-of-Day Summary
+
+=================================================================
+CONFLUENCE PAGES UPDATED
+========================
+
+01 - Onboarding Notes
+02 - Team Directory
+03 - Project Understanding
+04 - Architecture Notes
+05 - Delivery Process
+06 - Stand-up Observations
+07 - Product Notes
+08 - Engineering Notes
+09 - Day 1 Summary
+
+=================================================================
+DAY 1 SUCCESS CRITERIA
+======================
+
+□ All required tools are accessible.
+□ Introduced yourself to the team.
+□ Understand the project goals.
+□ Know the key stakeholders.
+□ Understand the current sprint.
+□ Learn the high-level architecture.
+□ Document observations and open questions.
+□ Build a positive first impression.
+
+=================================================================
+END OF DOCUMENT
+===============

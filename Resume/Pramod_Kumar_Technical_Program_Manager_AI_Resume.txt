@@ -1,0 +1,340 @@
+===========================================================
+PRAMOD KUMAR
+Technical Program Manager | AI Product Delivery | Engineering Program Management
+===========================================================
+
+Location : Noida, Uttar Pradesh, India
+Mobile   : +91-7827736456
+Email    : yy.pramod@gmail.com
+LinkedIn : https://www.linkedin.com/in/<your-profile>
+
+===========================================================
+PROFESSIONAL SUMMARY
+===========================================================
+
+Technical Program Manager with 6+ years of experience leading cross-functional
+engineering programs and over 15 years of overall experience in software
+engineering, technical leadership, and enterprise application delivery.
+
+Experienced in driving end-to-end software delivery, Agile program execution,
+stakeholder management, release planning, roadmap execution, engineering
+governance, dependency management, and risk mitigation.
+
+Strong technical background enables effective collaboration with Engineering,
+Product, QA, Design, and Business teams to deliver scalable software solutions.
+
+Hands-on experience with Python, FastAPI, SQL, NumPy, Pandas, Matplotlib,
+Seaborn, and Scikit-learn, with a strong interest in AI, Machine Learning,
+Generative AI, and cloud technologies.
+
+===========================================================
+CORE COMPETENCIES
+===========================================================
+
+• Technical Program Management
+• Engineering Program Management
+• Agile & Scrum
+• Sprint Planning
+• Release Planning
+• Product Delivery
+• SDLC
+• Cross-functional Leadership
+• Stakeholder Management
+• Risk Management
+• Dependency Management
+• Program Governance
+• Capacity Planning
+• Resource Forecasting
+• Change Management
+• Executive Reporting
+• Program Metrics
+• Engineering Operations
+• Process Improvement
+• AI Product Delivery
+
+===========================================================
+TECHNICAL SKILLS
+===========================================================
+
+Programming
+-----------
+• Python
+• JavaScript
+
+Backend
+-------
+• FastAPI
+• REST APIs
+• Node.js
+
+Frontend
+--------
+• React.js
+• Next.js
+
+Databases
+---------
+• MySQL
+• PostgreSQL
+
+Machine Learning & Data Analytics
+---------------------------------
+• NumPy
+• Pandas
+• Matplotlib
+• Seaborn
+• Scikit-learn
+• Exploratory Data Analysis (EDA)
+• Data Cleaning
+• Data Visualization
+• Machine Learning Fundamentals
+• Regression
+• Classification
+• Model Evaluation
+• Cross Validation (Learning)
+• Hyperparameter Tuning (Learning)
+
+Cloud & DevOps
+--------------
+• AWS
+• Azure
+• Docker
+• GitHub
+• CI/CD
+
+Project Management Tools
+------------------------
+• Jira
+• Confluence
+• Microsoft Project
+• Agile
+• Scrum
+• Kanban
+
+===========================================================
+PROFESSIONAL EXPERIENCE
+===========================================================
+
+GLOBAL REACH EDUCATION
+Technical Project Manager / Delivery Lead
+Apr 2020 - Jul 2025
+
+Responsibilities
+
+• Owned end-to-end delivery of enterprise software programs.
+• Managed cross-functional engineering teams.
+• Partnered with Engineering, Product, QA, and Business teams.
+• Built project plans, milestones, and release schedules.
+• Managed risks, blockers, and dependencies.
+• Led Sprint Planning and Backlog Refinement.
+• Managed UAT and Production Deployments.
+• Tracked delivery metrics and project health.
+• Improved delivery predictability using Agile practices.
+• Conducted stakeholder meetings and executive reporting.
+• Coordinated multiple software releases.
+• Ensured timely delivery aligned with business priorities.
+
+Key Achievements
+
+• Managed enterprise CRM platform delivery.
+• Led engineering teams of 20–25 members.
+• Delivered multiple strategic software initiatives.
+• Improved release governance and stakeholder communication.
+• Successfully managed cross-functional engineering execution.
+
+-----------------------------------------------------------
+
+Engineering Manager
+Global Reach Education
+Apr 2020 - Mar 2021
+
+• Led Agile software development teams.
+• Managed sprint planning and release management.
+• Coordinated engineering execution.
+• Managed risks and stakeholder communication.
+• Conducted effort estimation and roadmap planning.
+
+-----------------------------------------------------------
+
+Team Lead
+Unica Solutions Pvt Ltd
+May 2016 - Apr 2020
+
+• Led software engineering teams.
+• Managed development activities.
+• Conducted code reviews.
+• Mentored developers.
+• Coordinated project delivery.
+• Improved engineering quality.
+
+-----------------------------------------------------------
+
+Senior Software Engineer
+Czone Technologies Pvt Ltd
+Nov 2013 - Feb 2016
+
+• Developed scalable enterprise applications.
+• Designed database architecture.
+• Led technical implementation.
+• Conducted code reviews.
+• Mentored junior developers.
+
+-----------------------------------------------------------
+
+Software Engineer
+Momentum Controls Software Pvt Ltd
+Oct 2012 - Sep 2013
+
+• Developed enterprise software.
+• Designed MySQL databases.
+• Improved application quality.
+• Maintained production systems.
+
+-----------------------------------------------------------
+
+Software Engineer
+Great Net Solutions
+Sep 2010 - Oct 2012
+
+• Developed web applications.
+• Maintained enterprise software.
+• Resolved production issues.
+• Improved software performance.
+
+-----------------------------------------------------------
+
+Software Support Engineer
+HCL Infosystems Ltd
+Apr 2007 - Dec 2008
+
+• Implemented software for Government projects.
+• Conducted user training.
+• Supported deployments.
+• Worked with business stakeholders.
+
+===========================================================
+AI & MACHINE LEARNING LEARNING
+===========================================================
+
+Completed
+
+• Python
+• SQL
+• FastAPI
+• NumPy
+• Pandas
+• Matplotlib
+• Seaborn
+
+Currently Learning
+
+• Scikit-learn
+• Machine Learning
+• Regression
+• Classification
+• Decision Trees
+• Random Forest
+• Model Evaluation
+• Feature Engineering
+
+Upcoming
+
+• Deep Learning
+• TensorFlow
+• PyTorch
+• NLP
+• LLMs
+• LangChain
+• RAG
+• Vector Databases
+• AI Agents
+
+===========================================================
+PROJECT HIGHLIGHTS
+===========================================================
+
+Enterprise CRM Platform
+
+• Technical Program Management
+• Agile Delivery
+• Release Planning
+• Stakeholder Management
+• Sprint Planning
+• Production Deployment
+
+Legacy System Modernization
+
+• Cloud Migration
+• Engineering Coordination
+• Risk Management
+• Cross-functional Leadership
+
+AI Learning Portfolio
+
+• Python Development
+• REST APIs
+• Data Analysis
+• Machine Learning
+• Data Visualization
+
+===========================================================
+EDUCATION
+===========================================================
+
+Bachelor of Technology (Computer Science)
+
+U.P. Technical University
+Lucknow
+
+===========================================================
+PROFESSIONAL STRENGTHS
+===========================================================
+
+• Strong Technical Background
+• Excellent Communication Skills
+• Engineering Leadership
+• Program Execution
+• Stakeholder Management
+• Strategic Planning
+• Problem Solving
+• Delivery Management
+• AI Enthusiast
+• Continuous Learner
+
+===========================================================
+KEYWORDS FOR ATS
+===========================================================
+
+Technical Program Manager
+Technical Project Manager
+Engineering Program Manager
+Agile
+Scrum
+Software Development Lifecycle
+Release Planning
+Risk Management
+Stakeholder Management
+Engineering Leadership
+Product Delivery
+Program Management
+Cloud
+AWS
+Azure
+Python
+FastAPI
+SQL
+REST API
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+Machine Learning
+Artificial Intelligence
+Generative AI
+Jira
+Confluence
+CI/CD
+Cross-functional Leadership
+
+===========================================================
