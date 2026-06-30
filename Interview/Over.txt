@@ -1,29 +1,103 @@
+OVER
+
+Definition:
+"Over" is a preposition, adverb, adjective, or prefix. It is commonly used to show position, movement, completion, transfer, control, or an amount greater than something.
+
+--------------------------------------------------
+1. POSITION (Above)
+--------------------------------------------------
+The fan is over the table.
+The plane flew over the city.
+There is a bridge over the river.
+
+--------------------------------------------------
+2. MOVEMENT (Across)
+--------------------------------------------------
+Jump over the fence.
+Walk over the bridge.
 Come over to my house.
-Can you come over?
-Please hand it over.
-Turn the page over.
+
+--------------------------------------------------
+3. COMPLETION (Finished)
+--------------------------------------------------
 The meeting is over.
-The game is over.
-The project is over.
 The interview is over.
-Let's start over.
+The project is over.
+The game is over.
+
+--------------------------------------------------
+4. MORE THAN (Greater than)
+--------------------------------------------------
+There are over 100 employees.
+She is over 30 years old.
+The meeting lasted over two hours.
+
+--------------------------------------------------
+5. TRANSFER (Handing something)
+--------------------------------------------------
+Hand over the documents.
+Turn over the keys.
+Please hand over your ID card.
+
+--------------------------------------------------
+6. REVIEW (Check carefully)
+--------------------------------------------------
+Go over the report.
+Look over the document.
+Read over the email.
+Think it over.
+
+--------------------------------------------------
+7. CONTROL / RESPONSIBILITY
+--------------------------------------------------
+She has control over the team.
+He has authority over the project.
+I have no control over the situation.
+
+--------------------------------------------------
+8. COMMUNICATION
+--------------------------------------------------
+We spoke over the phone.
+Let's discuss it over lunch.
+We talked over a video call.
+
+--------------------------------------------------
+OFFICE EXAMPLES
+--------------------------------------------------
+The meeting is over.
+Please go over the project plan.
+Hand over the documents.
+Can you look over this report?
+The deployment is over.
+The review is over.
+Over to you.
+We have over 20 open tasks.
+Let's discuss it over a call.
+Please think it over before deciding.
+
+--------------------------------------------------
+PROFESSIONAL EXAMPLES
+--------------------------------------------------
+Go over the requirements.
+Look over the proposal.
+Hand over the responsibilities.
+The presentation is over.
+The sprint is over.
+The release is over.
+Over to the development team.
+We have over 95% test coverage.
+Let's review it over a meeting.
+
+--------------------------------------------------
+DAILY EXAMPLES
+--------------------------------------------------
+Come over this evening.
+Move over, please.
+The movie is over.
+The rain is over.
+Jump over the wall.
+The ball went over the fence.
 Read it over.
 Think it over.
-Look over this document.
-Go over the report.
-Talk it over with your manager.
-The flight is over the city.
-The bridge is over the river.
-There are over 100 employees.
-The meeting lasted over two hours.
-He is over 30 years old.
-She has complete control over the project.
-I have no control over the situation.
-Can we discuss this over lunch?
-We spoke over the phone.
-The message spread all over the office.
+We talked over dinner.
 He traveled all over India.
-Move over, please.
-It's over to you.
-The ball went over the wall.
-The presentation is over now.
