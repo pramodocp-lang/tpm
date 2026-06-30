@@ -17,7 +17,7 @@ Sample Answer
 
 Hello, and thank you for taking the time to speak with me today.
 
-My name is Pramod Kumar, and I have over 15 years of experience in software
+My name is Pramod Kumar, and I have over 14 years of experience in software
 engineering, technical leadership, and program delivery, including more than
 6 years as a Technical Project Manager leading cross-functional engineering
 teams.
