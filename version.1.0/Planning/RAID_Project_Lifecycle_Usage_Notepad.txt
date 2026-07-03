@@ -130,5 +130,6 @@ RAID is:
 INTERVIEW ONE-LINER
 =========================================================
 
-"RAID log is formally created during the Planning phase and continuously used throughout the project lifecycle from design to hypercare for proactive risk and dependency management."
+"RAID log is formally created during the Planning phase and continuously 
+used throughout the project lifecycle from design to hypercare for proactive risk and dependency management."
 =========================================================

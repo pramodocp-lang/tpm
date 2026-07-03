@@ -1,0 +1,83 @@
+TECHNICAL PROJECT MANAGER INTERVIEW
+
+Question:
+Walk me through one of your recent projects.
+
+One of the recent projects I managed was the development and rollout of an Educational CRM platform used by counselors, branch offices, mentors, and the head office to manage the complete student admission lifecycle.
+
+## Situation
+
+The organization was managing student inquiries, admissions, follow-ups, and reporting using multiple manual processes and spreadsheets. This resulted in data inconsistencies, limited visibility, and delays in decision-making.
+
+## Task
+
+As the Technical Project Manager, I was responsible for leading the project from initiation to successful deployment. My responsibilities included requirement gathering, project planning, execution, stakeholder communication, risk management, sprint execution, and ensuring timely delivery with high quality.
+
+## Action
+
+• Conducted requirement gathering workshops with business stakeholders and end users.
+• Worked with architects and engineering teams to define the solution and project scope.
+• Broke down requirements into Epics, Features, and User Stories.
+• Prioritized the product backlog and prepared the project roadmap and release plan.
+• Followed Agile methodology with two-week sprints.
+• Facilitated Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives.
+• Tracked project progress using Jira and documented requirements in Confluence.
+• Coordinated with Developers, QA, DevOps, UI/UX Designers, Business Analysts, Product Owners, and Business Stakeholders.
+• Managed project risks, dependencies, change requests, and issue resolution.
+• Conducted weekly status meetings and shared project dashboards with leadership.
+
+## Challenge
+
+One major challenge was the delay in receiving API specifications from a third-party vendor for email and SMS integrations.
+
+Instead of waiting, I worked with the engineering team to:
+• Develop mock APIs.
+• Continue parallel development.
+• Re-prioritize sprint backlog.
+• Reduce dependency on the external vendor.
+
+This approach prevented schedule delays and kept the project on track.
+
+## Result
+
+• Successfully delivered the project within the planned timeline.
+• Streamlined the complete student admission process.
+• Reduced manual work and spreadsheet dependency.
+• Improved collaboration across counselors, branch offices, mentors, and head office.
+• Increased process visibility through centralized dashboards.
+• Enabled faster and more informed business decisions.
+• Received positive feedback from business stakeholders and end users.
+
+## Key Responsibilities Demonstrated
+
+• Project Planning
+• Requirement Gathering
+• Agile Project Delivery
+• Sprint Management
+• Stakeholder Management
+• Risk Management
+• Dependency Management
+• Cross-functional Team Leadership
+• Vendor Coordination
+• Status Reporting
+• Release Planning
+• Change Management
+• Issue Resolution
+• KPI Tracking
+• End-to-End Project Delivery
+
+## Interview Tip
+
+Keep your answer within 2–3 minutes and follow the STAR structure:
+
+S – Situation
+T – Task
+A – Action
+R – Result
+
+Focus on:
+• Business problem
+• Your ownership
+• Leadership and coordination
+• Technical understanding
+• Measurable business outcome
