@@ -1,0 +1,169 @@
+=========================================================
+          AGILE INTERVIEW QUESTIONS (TPM)
+=========================================================
+
+SECTION 1: AGILE FUNDAMENTALS
+---------------------------------------------------------
+1. What is Agile?
+2. What are the four Agile Manifesto values?
+3. What are the 12 Agile principles?
+4. Why is Agile preferred over Waterfall?
+5. What are the advantages of Agile?
+6. What are the challenges of Agile?
+7. What is iterative development?
+8. What is incremental development?
+9. What is an MVP (Minimum Viable Product)?
+10. What is continuous improvement in Agile?
+
+---------------------------------------------------------
+SECTION 2: SCRUM
+---------------------------------------------------------
+11. What is Scrum?
+12. What are the Scrum roles?
+13. What are the Scrum ceremonies?
+14. What are Scrum artifacts?
+15. What is a Sprint?
+16. What is Sprint Planning?
+17. What happens during the Daily Scrum?
+18. What is a Sprint Review?
+19. What is a Sprint Retrospective?
+20. What is the Sprint Goal?
+21. What is the Definition of Done (DoD)?
+22. What is the Definition of Ready (DoR)?
+
+---------------------------------------------------------
+SECTION 3: PRODUCT BACKLOG
+---------------------------------------------------------
+23. What is a Product Backlog?
+24. Who owns the Product Backlog?
+25. What is Sprint Backlog?
+26. What is Backlog Refinement (Grooming)?
+27. What is a User Story?
+28. What is the standard User Story format?
+29. What are Acceptance Criteria?
+30. How do you prioritize the backlog?
+
+---------------------------------------------------------
+SECTION 4: ESTIMATION
+---------------------------------------------------------
+31. What are Story Points?
+32. Why use Story Points instead of hours?
+33. What is Planning Poker?
+34. What is Team Velocity?
+35. How do you calculate Velocity?
+36. What is Capacity Planning?
+37. What is a Burndown Chart?
+38. What is a Burnup Chart?
+
+---------------------------------------------------------
+SECTION 5: AGILE ROLES
+---------------------------------------------------------
+39. What is the role of the Product Owner?
+40. What is the role of the Scrum Master?
+41. What is the role of the Development Team?
+42. What is the role of a Technical Project Manager in Agile?
+43. How is a TPM different from a Scrum Master?
+44. How does a TPM support Product Owners?
+
+---------------------------------------------------------
+SECTION 6: AGILE METRICS
+---------------------------------------------------------
+45. What Agile metrics do you track?
+46. What is Velocity?
+47. What is Lead Time?
+48. What is Cycle Time?
+49. What is Throughput?
+50. How do you measure Sprint success?
+
+---------------------------------------------------------
+SECTION 7: RISK MANAGEMENT
+---------------------------------------------------------
+51. How do you manage risks in Agile?
+52. What is a RAID Log?
+53. How do you handle blockers?
+54. How do you manage dependencies?
+55. How do you manage scope changes?
+56. How do you prioritize risks?
+
+---------------------------------------------------------
+SECTION 8: SCALING AGILE
+---------------------------------------------------------
+57. What is SAFe?
+58. What is an Agile Release Train (ART)?
+59. What is a Program Increment (PI)?
+60. What is PI Planning?
+61. What is the role of the Release Train Engineer (RTE)?
+62. What are Features, Epics, and User Stories?
+
+---------------------------------------------------------
+SECTION 9: AGILE VS OTHERS
+---------------------------------------------------------
+63. Agile vs Waterfall
+64. Scrum vs Kanban
+65. Scrum vs SAFe
+66. Agile vs DevOps
+67. When would you choose Waterfall?
+
+---------------------------------------------------------
+SECTION 10: SCENARIO-BASED QUESTIONS
+---------------------------------------------------------
+68. Tell me about an Agile project you managed.
+69. How do you handle changing requirements?
+70. What if the Sprint is at risk?
+71. How do you manage multiple Scrum teams?
+72. How do you resolve team conflicts?
+73. How do you handle missed Sprint commitments?
+74. How do you deal with difficult stakeholders?
+75. How do you manage production issues during a Sprint?
+76. How do you communicate project status?
+77. How do you improve team performance?
+78. How do you reduce delivery delays?
+79. How do you manage technical debt?
+80. How do you ensure predictable releases?
+
+---------------------------------------------------------
+SECTION 11: JIRA & TOOLS
+---------------------------------------------------------
+81. How do you use Jira in Agile?
+82. How do you create and manage Sprint boards?
+83. How do you track project progress?
+84. How do you generate Agile reports?
+85. Which dashboards do you use?
+86. How do you manage Confluence documentation?
+
+---------------------------------------------------------
+SECTION 12: RELEASE MANAGEMENT
+---------------------------------------------------------
+87. What is Release Planning?
+88. How do you plan a release?
+89. What is Release Readiness?
+90. How do you coordinate deployments?
+91. How do you manage post-release issues?
+
+---------------------------------------------------------
+TOP 10 TPM AGILE QUESTIONS
+---------------------------------------------------------
+1. Tell me about your Agile experience.
+2. Walk me through a Sprint lifecycle.
+3. How do you manage project risks?
+4. How do you manage cross-team dependencies?
+5. How do you prioritize competing requirements?
+6. How do you ensure timely delivery?
+7. How do you communicate with stakeholders?
+8. How do you handle scope changes?
+9. What Agile metrics do you monitor?
+10. Describe a challenging Agile project and how you delivered it.
+
+=========================================================
+INTERVIEW PREPARATION TIP
+=========================================================
+For each scenario-based question, prepare your answer using the STAR method:
+
+S - Situation
+T - Task
+A - Action
+R - Result
+
+This structure helps you give clear, concise, and impactful interview responses.
+
+=========================================================

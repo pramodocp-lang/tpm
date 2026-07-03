@@ -207,3 +207,184 @@ and stakeholder reporting.
 4. What does the team structure look like?
 
 5. What are the next steps in the interview process?
+
+
+
+==========================================================
+TPM INTERVIEW - TEAM STRUCTURE (25 MEMBERS)
+==========================================================
+
+TEAM STRUCTURE (25 MEMBERS)
+
+Technical Project Manager : 1
+Product Manager           : 1
+Business Analysts         : 2
+Solution Architect        : 1
+Backend Developers        : 8
+Frontend Developers       : 5
+QA Engineers              : 4
+DevOps Engineers          : 2
+UI/UX Designer            : 1
+
+Total Team Size           : 25 Members
+
+
+----------------------------------------------------------
+1. Tell me about your team structure.
+----------------------------------------------------------
+
+I worked with a cross-functional Agile team of 25 members. The team included 1 Product Manager, 2 Business Analysts, 1 Solution Architect, 8 Backend Developers, 5 Frontend Developers, 4 QA Engineers, 2 DevOps Engineers, and 1 UI/UX Designer. As the Technical Project Manager, I was responsible for project planning, execution, stakeholder communication, risk management, and successful delivery.
+
+----------------------------------------------------------
+2. What was your team size?
+----------------------------------------------------------
+
+The team size was 25 members, including product, engineering, QA, DevOps, architecture, design, and project management.
+
+----------------------------------------------------------
+3. What roles were included in your team?
+----------------------------------------------------------
+
+The team consisted of:
+- Technical Project Manager
+- Product Manager
+- Business Analysts
+- Solution Architect
+- Backend Developers
+- Frontend Developers
+- QA Engineers
+- DevOps Engineers
+- UI/UX Designer
+
+----------------------------------------------------------
+4. Did the team report to you?
+----------------------------------------------------------
+
+No. The engineering team reported functionally to the Engineering Manager. As the Technical Project Manager, I was responsible for delivery planning, sprint execution, dependency management, stakeholder communication, and project coordination.
+
+----------------------------------------------------------
+5. Who did you report to?
+----------------------------------------------------------
+
+I reported to the Delivery Manager or Engineering Manager, depending on the project. I also provided regular updates to business stakeholders and senior leadership.
+
+----------------------------------------------------------
+6. Who were your key stakeholders?
+----------------------------------------------------------
+
+My key stakeholders included:
+- Product Manager
+- Engineering Manager
+- Business Owners
+- Solution Architect
+- QA Lead
+- DevOps Team
+- Senior Leadership
+
+----------------------------------------------------------
+7. How was work divided within the team?
+----------------------------------------------------------
+
+Product Manager:
+Defined business priorities and roadmap.
+
+Business Analysts:
+Gathered and documented requirements.
+
+Solution Architect:
+Designed technical solutions and architecture.
+
+Developers:
+Built and implemented application features.
+
+QA Engineers:
+Performed testing and quality assurance.
+
+DevOps Engineers:
+Managed CI/CD pipelines, deployments, and environments.
+
+Technical Project Manager:
+Managed planning, execution, delivery, risks, dependencies, stakeholder communication, and project tracking.
+
+----------------------------------------------------------
+8. How did you coordinate a team of 25 members?
+----------------------------------------------------------
+
+I coordinated the team through Agile ceremonies such as Sprint Planning, Daily Stand-ups, Backlog Refinement, Sprint Reviews, and Retrospectives. I tracked progress using Jira and Confluence, monitored risks and dependencies, and ensured effective communication across all stakeholders.
+
+----------------------------------------------------------
+9. How many developers were on your team?
+----------------------------------------------------------
+
+There were 13 developers:
+- 8 Backend Developers
+- 5 Frontend Developers
+
+----------------------------------------------------------
+10. How many QA Engineers supported the project?
+----------------------------------------------------------
+
+We had 4 QA Engineers responsible for functional, integration, regression, and UAT support.
+
+----------------------------------------------------------
+11. How many DevOps Engineers were involved?
+----------------------------------------------------------
+
+We had 2 DevOps Engineers managing CI/CD pipelines, deployments, cloud infrastructure, and production support.
+
+----------------------------------------------------------
+12. What was the role of the Solution Architect?
+----------------------------------------------------------
+
+The Solution Architect designed the overall technical architecture, reviewed solution designs, resolved technical challenges, and guided the engineering team.
+
+----------------------------------------------------------
+13. How did you work with the Product Manager?
+----------------------------------------------------------
+
+I worked closely with the Product Manager to prioritize the backlog, define sprint goals, clarify requirements, manage scope, and communicate delivery progress.
+
+----------------------------------------------------------
+14. How did you manage communication?
+----------------------------------------------------------
+
+I managed communication through:
+- Daily Stand-ups
+- Sprint Planning
+- Sprint Reviews
+- Retrospectives
+- Weekly Status Meetings
+- Risk Review Meetings
+- Stakeholder Updates
+
+----------------------------------------------------------
+15. What were your responsibilities as a Technical Project Manager?
+----------------------------------------------------------
+
+- Project Planning
+- Sprint Planning
+- Resource Coordination
+- Stakeholder Management
+- Risk Management
+- Dependency Management
+- Issue Resolution
+- Progress Tracking
+- Delivery Management
+- Status Reporting
+- Team Coordination
+- Release Planning
+
+==========================================================
+INTERVIEW TIP
+==========================================================
+
+Remember this simple sequence:
+
+Team Size
+→ Team Roles
+→ Reporting Structure
+→ Your Responsibilities
+→ Collaboration
+→ Delivery
+
+This structure helps answer almost every team-related interview question confidently.
