@@ -59,15 +59,6 @@ like to understand the complete compensation structure.
 
 -------------------------------------------------
 
-If Offer Is Lower:
-
-Thank you for the offer.
-I am very interested in this opportunity.
-Based on my experience and the responsibilities of this role,
-I was expecting something closer to ₹Y.
-
---------------------------------------------------
-
 6. What are the roles and responsibilities of a TPM?
 
 As a Technical Project Manager (TPM), my role is to ensure successful delivery of technical projects 
@@ -84,76 +75,32 @@ Ensure on-time delivery with quality output.
 
 --------------------------------------------------
 
-7. Why do you want to join our company?
-
-I am impressed by the company's products and growth. 
-The role aligns well with my experience, 
-and I believe it offers a good opportunity to contribute and learn.
-
---------------------------------------------------
-
-8. Tell me about a challenging project.
+7. Tell me about a challenging project.
 
 We had a critical release with tight timelines and dependencies across teams.
 Through regular tracking and communication, we managed the risks and delivered the release successfully.
 
 --------------------------------------------------
 
-9. How do you handle conflicts?
+8. How do you handle conflicts?
 
 I focus on understanding different perspectives, 
 encouraging open communication, and finding a solution that supports the project goals.
 
+
 --------------------------------------------------
 
-10. How do you handle pressure?
+9. How do you handle pressure?
 
 I prioritize tasks, stay organized, 
 and communicate proactively.
 Clear planning helps me manage pressure effectively.
 
---------------------------------------------------
-
-11. What are your strengths?
-
-• Stakeholder Management
-• Communication
-• Project Planning
-• Problem Solving
-• Risk Management
 
 --------------------------------------------------
 
-12. What is your weakness?
 
-Sometimes I spend extra time on planning, but I've learned to balance planning with execution.
-
---------------------------------------------------
-
-13. Where do you see yourself in 5 years?
-
-I see myself growing into a senior leadership role
-where I can manage larger programs, mentor teams,
-drive strategic initiatives, and contribute
-significantly to business growth.
-
-
---------------------------------------------------
-
-15. Why should we hire you?
-
-I bring project delivery experience, 
-strong coordination skills, and the ability to work effectively 
-with cross-functional teams to achieve business goals.
-
---------------------------------------------------
-16. When can you join?
-
-I am available to join immediately.
-
---------------------------------------------------
-
-17. Why should we hire you?
+10. Why should we hire you?
 
 I bring experience in end-to-end project delivery,
 strong stakeholder management skills, and the ability
@@ -166,7 +113,7 @@ confident that I can contribute positively to your
 organization's project delivery goals.
 
 --------------------------------------------------
-18. How do you handle project risks?
+11. How do you handle project risks?
 
 I proactively identify risks during project planning,
 maintain a RAID log, assess impact and probability,
@@ -175,7 +122,7 @@ with stakeholders to prevent project delays.
 
 --------------------------------------------------
 
-19. How do you manage difficult stakeholders?
+12. How do you manage difficult stakeholders?
 
 I focus on clear communication, understanding their
 concerns, maintaining transparency, and ensuring
@@ -185,7 +132,7 @@ Building trust and managing expectations are key to
 handling difficult stakeholder situations.
 
 --------------------------------------------------
-20. Describe a challenging project you managed?
+13. Describe a challenging project you managed?
 
 A project faced scope changes and tight timelines.
 
@@ -197,19 +144,70 @@ The project was delivered successfully within the
 agreed timeline.
 
 --------------------------------------------------
-22. Which are the tools you have used?
+
+14. Which are the tools you have used?
 
 I have worked with Jira for sprint and backlog management,
 Confluence for documentation, 
 Excel for reporting and project tracking, 
-Power BI for dashboards, 
 and collaboration tools such as Microsoft Teams and Slack. 
 Depending on project needs, I use Excel and Power BI for data analysis 
 and stakeholder reporting.
 
+
 --------------------------------------------------
 
-22. Do you have any questions for US?
+15. Why do you want to join our company?
+
+I am impressed by the company's products and growth. 
+The role aligns well with my experience, 
+and I believe it offers a good opportunity to contribute and learn.
+
+--------------------------------------------------
+
+16. What are your strengths?
+
+• Stakeholder Management
+• Communication
+• Project Planning
+• Problem Solving
+• Risk Management
+
+--------------------------------------------------
+
+17. What is your weakness?
+
+Sometimes I spend extra time on planning, but I've learned to balance planning with execution.
+
+--------------------------------------------------
+
+18. Where do you see yourself in 5 years?
+
+I see myself growing into a senior leadership role
+where I can manage larger programs, mentor teams,
+drive strategic initiatives, and contribute
+significantly to business growth.
+
+
+--------------------------------------------------
+
+19. Why should we hire you?
+
+I bring project delivery experience, 
+strong coordination skills, and the ability to work effectively 
+with cross-functional teams to achieve business goals.
+
+--------------------------------------------------
+20. When can you join?
+
+I am available to join immediately.
+
+--------------------------------------------------
+
+
+--------------------------------------------------
+
+21. Do you have any questions for US?
 
 1. What are the key responsibilities of this role?
 
@@ -247,13 +245,38 @@ Total Team Size           : 25 Members
 1. Tell me about your team structure.
 ----------------------------------------------------------
 
-I worked with a cross-functional Agile team of 25 members. The team included 1 Product Manager, 2 Business Analysts, 1 Solution Architect, 8 Backend Developers, 5 Frontend Developers, 4 QA Engineers, 2 DevOps Engineers, and 1 UI/UX Designer. As the Technical Project Manager, I was responsible for project planning, execution, stakeholder communication, risk management, and successful delivery.
+I worked with a cross-functional Agile team of 25 members. 
+The team included 
+1 Product Manager, 
+2 Business Analysts, 
+1 Solution Architect, 
+8 Backend Developers, 
+5 Frontend Developers, 
+4 QA Engineers, 
+2 DevOps Engineers, and 
+1 UI/UX Designer. 
+
+As the Technical Project Manager, 
+I was responsible for 
+project planning, 
+execution, 
+stakeholder communication, 
+risk management, 
+and successful delivery.
 
 ----------------------------------------------------------
 2. What was your team size?
 ----------------------------------------------------------
 
-The team size was 25 members, including product, engineering, QA, DevOps, architecture, design, and project management.
+The team size was 
+25 members, 
+including product, 
+engineering, 
+QA, 
+DevOps, 
+architecture, 
+design, 
+and project management.
 
 ----------------------------------------------------------
 3. What roles were included in your team?
@@ -274,13 +297,24 @@ The team consisted of:
 4. Did the team report to you?
 ----------------------------------------------------------
 
-No. The engineering team reported functionally to the Engineering Manager. As the Technical Project Manager, I was responsible for delivery planning, sprint execution, dependency management, stakeholder communication, and project coordination.
+No. The engineering team reported functionally to the Engineering Manager. As the Technical Project Manager, 
+I was responsible for 
+delivery planning, 
+sprint execution, 
+dependency management, 
+stakeholder communication, 
+and project coordination.
 
 ----------------------------------------------------------
 5. Who did you report to?
 ----------------------------------------------------------
 
-I reported to the Delivery Manager or Engineering Manager, depending on the project. I also provided regular updates to business stakeholders and senior leadership.
+I reported to the Delivery Manager or 
+Engineering Manager, 
+depending on the project. 
+I also provided regular updates to 
+business stakeholders and 
+senior leadership.
 
 ----------------------------------------------------------
 6. Who were your key stakeholders?
@@ -324,7 +358,20 @@ Managed planning, execution, delivery, risks, dependencies, stakeholder communic
 8. How did you coordinate a team of 25 members?
 ----------------------------------------------------------
 
-I coordinated the team through Agile ceremonies such as Sprint Planning, Daily Stand-ups, Backlog Refinement, Sprint Reviews, and Retrospectives. I tracked progress using Jira and Confluence, monitored risks and dependencies, and ensured effective communication across all stakeholders.
+I coordinated the team through 
+Agile ceremonies such as 
+	Sprint Planning, 
+	Daily Stand-ups, 
+	Backlog Refinement, 
+	Sprint Reviews, and 
+	Retrospectives. 
+
+I tracked progress using 
+Jira and 
+Confluence, 
+monitored risks and dependencies, 
+and ensured effective communication 
+across all stakeholders.
 
 ----------------------------------------------------------
 9. How many developers were on your team?
@@ -338,25 +385,42 @@ There were 13 developers:
 10. How many QA Engineers supported the project?
 ----------------------------------------------------------
 
-We had 4 QA Engineers responsible for functional, integration, regression, and UAT support.
+We had 4 QA Engineers responsible for 
+functional, 
+integration, 
+regression, 
+and UAT support.
 
 ----------------------------------------------------------
 11. How many DevOps Engineers were involved?
 ----------------------------------------------------------
 
-We had 2 DevOps Engineers managing CI/CD pipelines, deployments, cloud infrastructure, and production support.
+We had 2 DevOps Engineers managing CI/CD pipelines, 
+deployments, 
+cloud infrastructure, 
+and production support.
 
 ----------------------------------------------------------
 12. What was the role of the Solution Architect?
 ----------------------------------------------------------
 
-The Solution Architect designed the overall technical architecture, reviewed solution designs, resolved technical challenges, and guided the engineering team.
+The Solution Architect designed the 
+overall technical architecture, 
+reviewed solution designs, 
+resolved technical challenges, 
+and guided the engineering team.
 
 ----------------------------------------------------------
 13. How did you work with the Product Manager?
 ----------------------------------------------------------
 
-I worked closely with the Product Manager to prioritize the backlog, define sprint goals, clarify requirements, manage scope, and communicate delivery progress.
+I worked closely with the 
+Product Manager to 
+prioritize the backlog, 
+define sprint goals, 
+clarify requirements, 
+manage scope, 
+and communicate delivery progress.
 
 ----------------------------------------------------------
 14. How did you manage communication?
