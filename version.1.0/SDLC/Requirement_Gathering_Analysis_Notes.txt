@@ -1,0 +1,340 @@
+=====================================================
+REQUIREMENT GATHERING & ANALYSIS
+=====================================================
+
+1. What is Requirement Gathering?
+---------------------------------
+Requirement Gathering is the process of collecting business needs,
+user expectations, functional requirements, and technical constraints
+from stakeholders before starting development.
+
+Goal:
+Build the right product that solves the customer's problem.
+
+-----------------------------------------------------
+
+2. What is Requirement Analysis?
+--------------------------------
+Requirement Analysis is the process of reviewing, validating,
+prioritizing, refining, and documenting gathered requirements
+to ensure they are complete, clear, feasible, and testable.
+
+Goal:
+Convert business needs into actionable development requirements.
+
+-----------------------------------------------------
+
+3. Difference
+
+Requirement Gathering
+- Collect information
+- Understand business needs
+- Meet stakeholders
+- Ask questions
+
+Requirement Analysis
+- Analyze collected information
+- Remove ambiguity
+- Prioritize requirements
+- Check feasibility
+- Prepare documentation
+
+-----------------------------------------------------
+
+4. Requirement Gathering Process
+
+Step 1
+Identify Stakeholders
+
+Examples:
+- Customer
+- Product Owner
+- Business Users
+- Engineering Team
+- QA Team
+- Architects
+- Operations Team
+
+↓
+
+Step 2
+Understand Business Goal
+
+Questions:
+- What problem are we solving?
+- Why is this project needed?
+- Expected business outcome?
+
+↓
+
+Step 3
+Gather Requirements
+
+Methods:
+- Meetings
+- Workshops
+- Interviews
+- Brainstorming
+- Surveys
+- Existing documentation
+- Observation
+
+↓
+
+Step 4
+Document Requirements
+
+Documents:
+- BRD
+- PRD
+- User Stories
+- Use Cases
+- Process Flow
+- Wireframes
+
+↓
+
+Step 5
+Validate Requirements
+
+Review with stakeholders
+
+Confirm:
+- Correct?
+- Complete?
+- No missing requirements?
+
+↓
+
+Step 6
+Get Approval
+
+Baseline the requirements before development starts.
+
+-----------------------------------------------------
+
+5. Types of Requirements
+
+A. Business Requirements
+Example:
+Increase online sales by 20%.
+
+B. Functional Requirements
+Example:
+User can login using email and password.
+
+C. Non-functional Requirements
+
+Examples:
+Performance
+Security
+Scalability
+Availability
+Reliability
+Usability
+
+D. Technical Requirements
+
+Examples:
+Cloud deployment
+Database
+API integration
+Authentication
+Encryption
+
+-----------------------------------------------------
+
+6. Requirement Gathering Techniques
+
+1. Stakeholder Interviews
+2. Workshops
+3. Brainstorming
+4. Observation
+5. Questionnaires
+6. Document Analysis
+7. Prototyping
+8. User Story Mapping
+
+-----------------------------------------------------
+
+7. Questions Asked During Requirement Gathering
+
+Business Questions
+
+What problem are we solving?
+
+Who are the users?
+
+What is the expected business value?
+
+What are the success criteria?
+
+Technical Questions
+
+Existing system?
+
+Required integrations?
+
+Security requirements?
+
+Performance expectations?
+
+Compliance requirements?
+
+Timeline?
+
+Budget?
+
+Risks?
+
+-----------------------------------------------------
+
+8. Requirement Prioritization
+
+Common Methods
+
+MoSCoW
+
+M = Must Have
+S = Should Have
+C = Could Have
+W = Won't Have
+
+OR
+
+High
+Medium
+Low
+
+-----------------------------------------------------
+
+9. Deliverables
+
+BRD
+PRD
+User Stories
+Acceptance Criteria
+Wireframes
+Process Flow
+Requirement Traceability Matrix (RTM)
+Backlog
+Sprint-ready stories
+
+-----------------------------------------------------
+
+10. Common Challenges
+
+Changing requirements
+Unclear expectations
+Conflicting stakeholder opinions
+Scope creep
+Incomplete documentation
+Communication gaps
+
+-----------------------------------------------------
+
+11. TPM Responsibilities
+
+Coordinate requirement workshops
+
+Understand business goals
+
+Challenge unclear requirements
+
+Identify dependencies
+
+Estimate effort
+
+Coordinate with engineering
+
+Prioritize backlog
+
+Manage requirement changes
+
+Track requirement status
+
+Maintain stakeholder communication
+
+-----------------------------------------------------
+
+12. Example
+
+Business Requirement
+
+Customers should order food online.
+
+↓
+
+Functional Requirements
+
+Customer registration
+
+Login
+
+Browse restaurants
+
+Search food
+
+Add to cart
+
+Place order
+
+Online payment
+
+Track order
+
+Rate delivery
+
+↓
+
+Non-functional Requirements
+
+99.9% availability
+
+Page load under 2 seconds
+
+Secure payment
+
+Support 10,000 concurrent users
+
+-----------------------------------------------------
+
+13. Interview Answer
+
+Q: How do you gather requirements?
+
+Answer:
+
+I begin by identifying all key stakeholders and understanding the
+business objectives. I conduct workshops and discussions to collect
+functional and non-functional requirements. I document them as user
+stories with acceptance criteria, validate them with stakeholders,
+prioritize using MoSCoW, identify dependencies and risks, and obtain
+approval before development begins. Throughout the project, I manage
+requirement changes through a structured change control process.
+
+-----------------------------------------------------
+
+14. Best Practices
+
+Listen actively.
+
+Ask "Why?" multiple times to understand the root need.
+
+Avoid assumptions.
+
+Document everything.
+
+Validate requirements early.
+
+Prioritize based on business value.
+
+Keep stakeholders engaged.
+
+Maintain requirement traceability.
+
+Review requirements before every sprint.
+
+Manage scope changes through formal approval.
+
+=====================================================

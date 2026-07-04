@@ -1,0 +1,525 @@
+===============================================================================
+TECHNICAL PROJECT MANAGER (TPM)
+END-TO-END SOFTWARE DELIVERY LIFECYCLE
+======================================
+
+## OBJECTIVE
+
+Understand where each stakeholder enters the project, what they own,
+their key deliverables, and where the TPM is responsible.
+
+===============================================================================
+PHASE 1 - BUSINESS IDEA / INITIATION
+====================================
+
+## Primary Owner
+
+• Business Sponsor
+• Business Leadership
+
+## Stakeholders Enter
+
+• Business Sponsor
+• Executive Leadership
+
+## Responsibilities
+
+Business Sponsor
+• Identify business problem
+• Define business objectives
+• Secure budget
+• Approve project initiation
+
+## Deliverables
+
+• Business Vision
+• Business Case
+• Initial Budget
+• Executive Approval
+
+## TPM Role
+
+Usually not involved or only informed at this stage.
+
+===============================================================================
+PHASE 2 - REQUIREMENT GATHERING
+===============================
+
+## Primary Owner
+
+• Business Analyst (BA)
+OR
+• Product Manager (PM)
+
+## Stakeholders Enter
+
+• Business Sponsor
+• Business Users
+• Subject Matter Experts (SMEs)
+• Business Analyst
+• Product Manager
+• Technical Project Manager
+• Solution Architect (if required)
+
+## Responsibilities
+
+Business Sponsor
+• Explain business objectives
+• Define expected outcomes
+
+Business Users
+• Explain current process
+• Describe pain points
+• Share business expectations
+
+Business Analyst
+• Conduct workshops
+• Gather business requirements
+• Document BRD
+
+Product Manager
+• Understand market needs
+• Define product vision
+• Prioritize business needs
+
+Technical Project Manager
+• Participate in requirement workshops
+• Understand business goals
+• Ask technical questions
+• Identify risks
+• Identify dependencies
+• Capture assumptions
+• Ensure requirements are clear
+
+Solution Architect
+• Provide technical guidance
+• Highlight architectural constraints
+
+## Deliverables
+
+• BRD
+• Meeting Notes
+• Initial Scope
+• Stakeholder Register
+
+===============================================================================
+PHASE 3 - REQUIREMENT ANALYSIS
+==============================
+
+## Primary Owner
+
+• Product Manager
+
+## Stakeholders Enter
+
+• TPM
+• Engineering Manager
+• Tech Lead
+• Solution Architect
+• Security Team
+• Infrastructure Team
+
+## Responsibilities
+
+Product Manager
+• Prepare PRD
+• Finalize product requirements
+
+Technical Project Manager
+• Validate requirements
+• Review feasibility
+• Identify dependencies
+• Estimate timeline
+• Conduct risk assessment
+• Coordinate estimation meetings
+
+Engineering Manager
+• Review feasibility
+• Allocate engineering resources
+
+Tech Lead
+• Provide technical estimates
+• Identify implementation challenges
+
+Solution Architect
+• Prepare high-level solution architecture
+
+## Deliverables
+
+• PRD
+• Architecture Design
+• High-Level Estimates
+• Risk Register
+• Dependency List
+
+===============================================================================
+PHASE 4 - PROJECT PLANNING
+==========================
+
+## Primary Owner
+
+• Technical Project Manager
+
+## Stakeholders Enter
+
+• Engineering Manager
+• QA Lead
+• DevOps
+• Product Owner
+
+## Responsibilities
+
+Technical Project Manager
+• Create project plan
+• Create release roadmap
+• Resource planning
+• Capacity planning
+• Sprint planning
+• Milestone planning
+• Communication plan
+• RAID Log
+• Project governance
+
+Engineering Manager
+• Assign engineering resources
+
+QA Lead
+• Test planning
+
+DevOps
+• Environment planning
+
+## Deliverables
+
+• Project Plan
+• Release Plan
+• Sprint Plan
+• Resource Plan
+• RAID Log
+• Communication Plan
+
+===============================================================================
+PHASE 5 - SOLUTION DESIGN
+=========================
+
+## Primary Owner
+
+• Solution Architect
+• UX/UI Designer
+
+## Stakeholders Enter
+
+• TPM
+• Engineering
+• Product Manager
+
+## Responsibilities
+
+Solution Architect
+• High-level architecture
+• API design
+• Database design
+
+UX/UI Designer
+• Wireframes
+• UI design
+• User experience
+
+Technical Project Manager
+• Track design progress
+• Coordinate design reviews
+
+## Deliverables
+
+• Architecture Diagram
+• API Design
+• Database Design
+• Wireframes
+• UI Mockups
+
+===============================================================================
+PHASE 6 - DEVELOPMENT
+=====================
+
+## Primary Owner
+
+• Engineering Team
+
+## Stakeholders Enter
+
+• Developers
+• Tech Lead
+• TPM
+• Product Owner
+
+## Responsibilities
+
+Developers
+• Coding
+• Unit testing
+• Code review
+• Bug fixing
+
+Tech Lead
+• Technical guidance
+• Code quality
+
+Technical Project Manager
+• Daily stand-up coordination
+• Sprint tracking
+• Remove blockers
+• Track dependencies
+• Manage risks
+• Status reporting
+• Stakeholder communication
+
+## Deliverables
+
+• Source Code
+• Working Features
+• Sprint Deliverables
+
+===============================================================================
+PHASE 7 - TESTING
+=================
+
+## Primary Owner
+
+• QA Team
+
+## Stakeholders Enter
+
+• QA Engineers
+• Developers
+• TPM
+• Product Owner
+
+## Responsibilities
+
+QA Team
+• Functional testing
+• Integration testing
+• Regression testing
+• Automation testing
+
+Developers
+• Resolve defects
+
+Technical Project Manager
+• Track defects
+• Coordinate defect resolution
+• Monitor quality metrics
+
+## Deliverables
+
+• Test Report
+• Defect Report
+• QA Sign-off
+
+===============================================================================
+PHASE 8 - USER ACCEPTANCE TESTING (UAT)
+=======================================
+
+## Primary Owner
+
+• Business Users
+• Product Owner
+
+## Stakeholders Enter
+
+• Business Users
+• TPM
+• QA
+• Support Team
+
+## Responsibilities
+
+Business Users
+• Validate business requirements
+
+Product Owner
+• Accept completed features
+
+Technical Project Manager
+• Coordinate UAT
+• Track issues
+• Obtain business approval
+
+## Deliverables
+
+• UAT Sign-off
+• Business Approval
+
+===============================================================================
+PHASE 9 - RELEASE
+=================
+
+## Primary Owner
+
+• DevOps
+• Technical Project Manager
+
+## Stakeholders Enter
+
+• DevOps
+• Engineering
+• QA
+• Operations
+• Product Team
+
+## Responsibilities
+
+DevOps
+• Production deployment
+• Rollback preparation
+
+Technical Project Manager
+• Release coordination
+• Release communication
+• Go-live monitoring
+• Stakeholder updates
+
+## Deliverables
+
+• Production Release
+• Release Notes
+
+===============================================================================
+PHASE 10 - HYPERCARE / PRODUCTION SUPPORT
+=========================================
+
+## Primary Owner
+
+• Support Team
+
+## Stakeholders Enter
+
+• Support Team
+• Developers
+• TPM
+• Product Team
+
+## Responsibilities
+
+Support Team
+• Incident management
+• Customer support
+
+Developers
+• Production bug fixes
+
+Technical Project Manager
+• Coordinate issue resolution
+• Monitor SLAs
+• Escalate critical issues
+
+## Deliverables
+
+• Incident Report
+• Production Stability Report
+
+===============================================================================
+PHASE 11 - PROJECT CLOSURE
+==========================
+
+## Primary Owner
+
+• Technical Project Manager
+
+## Stakeholders Enter
+
+• All Teams
+
+## Responsibilities
+
+Technical Project Manager
+• Project sign-off
+• Lessons learned
+• Retrospective
+• Documentation handover
+• Close RAID items
+• Archive project documents
+
+## Deliverables
+
+• Project Closure Report
+• Lessons Learned
+• Final Sign-off
+
+===============================================================================
+DOCUMENT OWNERSHIP
+==================
+
+Business Case
+Owner: Business Sponsor
+
+BRD (Business Requirements Document)
+Owner: Business Analyst / Product Manager
+
+PRD (Product Requirements Document)
+Owner: Product Manager / Product Owner
+
+Architecture Document
+Owner: Solution Architect
+
+Project Plan
+Owner: Technical Project Manager
+
+Sprint Backlog
+Owner: Product Owner
+
+User Stories
+Owner: Product Owner
+
+Technical Tasks
+Owner: Engineering Team
+
+Test Plan
+Owner: QA Lead
+
+Release Plan
+Owner: Technical Project Manager
+
+RAID Log
+Owner: Technical Project Manager
+
+Status Report
+Owner: Technical Project Manager
+
+Project Closure Report
+Owner: Technical Project Manager
+
+===============================================================================
+TPM RESPONSIBILITY STARTS HERE
+==============================
+
+✓ Participate in requirement gathering
+✓ Review and analyze requirements
+✓ Validate technical feasibility
+✓ Identify dependencies
+✓ Assess risks
+✓ Coordinate engineering estimates
+✓ Create project plan
+✓ Plan releases and milestones
+✓ Lead execution
+✓ Track delivery
+✓ Remove blockers
+✓ Coordinate testing
+✓ Manage release
+✓ Communicate with stakeholders
+✓ Close the project successfully
+
+===============================================================================
+ONE-LINE SUMMARY
+================
+
+Business Sponsor  -> Defines WHY the project is needed.
+Business Analyst  -> Documents business requirements (BRD).
+Product Manager   -> Defines WHAT should be built (PRD).
+Solution Architect-> Designs HOW the solution will work.
+Engineering Team  -> Builds the solution.
+QA Team           -> Verifies the solution.
+DevOps            -> Deploys the solution.
+Technical Project Manager -> Plans, coordinates, tracks, manages risks,
+dependencies, communication, and ensures successful end-to-end delivery.
+========================================================================

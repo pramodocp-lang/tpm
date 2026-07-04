@@ -25,7 +25,24 @@ As a TPM, your responsibility is to ensure every phase is executed successfully.
 
 # Standard SDLC Phases
 
-1. Requirement Gathering
+1. Requirement Gathering & Analysis
+
+	Objective: Understand business needs.
+
+	Activities:
+
+		Gather functional and non-functional requirements
+		Conduct stakeholder meetings
+		Define project scope
+		Prepare requirement documents (BRD/PRD)
+
+	Output:
+
+		Approved requirements
+		Product backlog or requirement specification
+
+
+
 2. Planning
 3. Design
 4. Development
