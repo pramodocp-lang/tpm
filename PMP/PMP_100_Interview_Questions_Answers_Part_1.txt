@@ -1,0 +1,214 @@
+PMP INTERVIEW QUESTIONS & ANSWERS
+Part 1 (Questions 1–20)
+
+---
+
+1. What is PMP?
+
+---
+
+Answer:
+PMP (Project Management Professional) is a globally recognized certification offered by the Project Management Institute (PMI). It validates a professional's ability to lead and manage projects using predictive, Agile, and hybrid approaches.
+
+---
+
+2. What is a project?
+
+---
+
+Answer:
+A project is a temporary endeavor undertaken to create a unique product, service, or result. Every project has a defined start, end, scope, budget, and objectives.
+
+---
+
+3. What is project management?
+
+---
+
+Answer:
+Project management is the application of knowledge, skills, tools, and techniques to meet project objectives while balancing scope, schedule, cost, quality, resources, and risks.
+
+---
+
+4. What is the role of a Project Manager?
+
+---
+
+Answer:
+A Project Manager is responsible for:
+
+* Planning the project
+* Managing stakeholders
+* Leading the team
+* Tracking progress
+* Managing risks and issues
+* Ensuring successful project delivery
+
+---
+
+5. What are the five Process Groups?
+
+---
+
+Answer:
+
+1. Initiating
+2. Planning
+3. Executing
+4. Monitoring & Controlling
+5. Closing
+
+---
+
+6. What are the ten Knowledge Areas?
+
+---
+
+Answer:
+
+1. Integration
+2. Scope
+3. Schedule
+4. Cost
+5. Quality
+6. Resource
+7. Communication
+8. Risk
+9. Procurement
+10. Stakeholder Management
+
+---
+
+7. What is a Project Charter?
+
+---
+
+Answer:
+The Project Charter formally authorizes the project. It defines the project's purpose, objectives, scope, sponsor, budget, high-level risks, and gives authority to the Project Manager.
+
+---
+
+8. Who creates the Project Charter?
+
+---
+
+Answer:
+The Project Sponsor usually creates or approves the Project Charter before the project officially begins.
+
+---
+
+9. What is a Stakeholder?
+
+---
+
+Answer:
+A stakeholder is any individual, group, or organization that can influence or be affected by the project.
+
+---
+
+10. What is Scope?
+
+---
+
+Answer:
+Scope defines all the work required to deliver the project's objectives and deliverables. Anything outside the approved scope is considered out of scope.
+
+---
+
+11. What is Scope Creep?
+
+---
+
+Answer:
+Scope creep is the uncontrolled addition of new requirements without proper approval or change management, which can affect schedule, cost, and quality.
+
+---
+
+12. What is a Work Breakdown Structure (WBS)?
+
+---
+
+Answer:
+A WBS is a hierarchical decomposition of the project into smaller, manageable work packages.
+
+---
+
+13. What is a Milestone?
+
+---
+
+Answer:
+A milestone is a significant point or event in a project used to measure progress. It has zero duration.
+
+---
+
+14. What is a Deliverable?
+
+---
+
+Answer:
+A deliverable is a measurable output or result produced during the project.
+
+---
+
+15. What is the Critical Path?
+
+---
+
+Answer:
+The Critical Path is the longest sequence of dependent activities that determines the minimum project duration. Delays on the critical path delay the entire project.
+
+---
+
+16. What is Float (Slack)?
+
+---
+
+Answer:
+Float is the amount of time an activity can be delayed without affecting the project completion date.
+
+Formula:
+Float = Late Start – Early Start
+
+---
+
+17. What is Risk?
+
+---
+
+Answer:
+A risk is an uncertain event or condition that may positively or negatively affect project objectives.
+
+---
+
+18. What is an Issue?
+
+---
+
+Answer:
+An issue is a problem that has already occurred and requires immediate action, whereas a risk is only a possibility.
+
+---
+
+19. What is RAID?
+
+---
+
+Answer:
+RAID stands for:
+R – Risks
+A – Assumptions
+I – Issues
+D – Dependencies
+
+It is a project management tool used to monitor and track key project information.
+
+---
+
+20. What is Change Management?
+
+---
+
+Answer:
+Change Management is the structured process of evaluating, approving, implementing, 
+and communicating changes to project scope, schedule, cost, or requirements while minimizing project impact.
