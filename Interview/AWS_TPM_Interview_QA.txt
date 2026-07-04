@@ -1,0 +1,387 @@
+=====================================================
+AWS FOR TECHNICAL PROGRAM MANAGER (TPM)
+INTERVIEW QUESTIONS & ANSWERS
+=====================================================
+
+1. What is AWS?
+
+AWS (Amazon Web Services) is a cloud computing platform that provides
+on-demand services such as computing, storage, databases, networking,
+security, analytics, and AI. Organizations use AWS to build scalable,
+secure, and highly available applications without managing physical servers.
+
+-----------------------------------------------------
+
+2. Why do organizations use AWS?
+
+- Scalability
+- High Availability
+- Pay-as-you-go pricing
+- Global Infrastructure
+- Strong Security
+- Faster deployment
+- Disaster Recovery
+- Managed Services
+
+-----------------------------------------------------
+
+3. As a TPM, what is your role in an AWS project?
+
+As a TPM, I am responsible for:
+- Planning cloud migration or implementation
+- Coordinating cross-functional teams
+- Managing risks and dependencies
+- Tracking milestones and deliverables
+- Facilitating stakeholder communication
+- Monitoring project progress
+- Ensuring timely delivery
+
+I work closely with Solution Architects, Developers, DevOps Engineers,
+Security Teams, QA, and Business Stakeholders.
+
+-----------------------------------------------------
+
+4. Explain Cloud Computing.
+
+Cloud computing is the delivery of computing resources such as servers,
+storage, networking, and software over the internet on demand.
+
+Benefits:
+- Reduced infrastructure cost
+- Scalability
+- Flexibility
+- High Availability
+- Faster deployment
+
+-----------------------------------------------------
+
+5. What are AWS Regions and Availability Zones?
+
+Region:
+A geographical area where AWS has data centers.
+
+Availability Zone (AZ):
+An isolated data center within a Region.
+
+Using multiple AZs improves application availability and fault tolerance.
+
+-----------------------------------------------------
+
+6. What is Amazon EC2?
+
+Amazon EC2 (Elastic Compute Cloud) provides virtual servers in the cloud.
+
+Use Cases:
+- Host applications
+- Run APIs
+- Web servers
+- Backend services
+
+-----------------------------------------------------
+
+7. What is Amazon S3?
+
+Amazon S3 is an object storage service used for storing files, images,
+videos, backups, and application data.
+
+Features:
+- Highly durable
+- Scalable
+- Secure
+- Cost-effective
+
+-----------------------------------------------------
+
+8. What is Amazon RDS?
+
+Amazon RDS is a managed relational database service.
+
+Benefits:
+- Automated backups
+- Software patching
+- High Availability
+- Easy maintenance
+
+-----------------------------------------------------
+
+9. What is DynamoDB?
+
+DynamoDB is AWS's managed NoSQL database.
+
+Use Cases:
+- High-speed applications
+- Gaming
+- IoT
+- Real-time applications
+
+-----------------------------------------------------
+
+10. What is Auto Scaling?
+
+Auto Scaling automatically increases or decreases EC2 instances based on
+traffic demand.
+
+Benefits:
+- Cost optimization
+- High Availability
+- Better performance
+
+-----------------------------------------------------
+
+11. What is a Load Balancer?
+
+A Load Balancer distributes incoming traffic across multiple servers.
+
+Benefits:
+- Prevents overload
+- Improves application availability
+- Increases reliability
+
+-----------------------------------------------------
+
+12. What is IAM?
+
+IAM (Identity and Access Management) controls access to AWS resources.
+
+Features:
+- Users
+- Groups
+- Roles
+- Policies
+- Multi-Factor Authentication (MFA)
+
+-----------------------------------------------------
+
+13. Explain IAM Users and IAM Roles.
+
+IAM User:
+Represents a person or service requiring long-term credentials.
+
+IAM Role:
+Provides temporary permissions that applications or AWS services assume
+without sharing permanent credentials.
+
+-----------------------------------------------------
+
+14. What is a VPC?
+
+A Virtual Private Cloud (VPC) is a private network within AWS where you
+launch and manage your cloud resources securely.
+
+-----------------------------------------------------
+
+15. What are Public and Private Subnets?
+
+Public Subnet:
+Has internet access through an Internet Gateway.
+
+Private Subnet:
+Does not have direct internet access and is used for databases and
+internal services.
+
+-----------------------------------------------------
+
+16. What is CloudWatch?
+
+CloudWatch is AWS's monitoring service.
+
+It monitors:
+- CPU utilization
+- Memory
+- Logs
+- Performance metrics
+- Application health
+
+It can also trigger alerts.
+
+-----------------------------------------------------
+
+17. What is CloudTrail?
+
+CloudTrail records user activities and API calls made within AWS.
+
+It is mainly used for:
+- Auditing
+- Security investigations
+- Compliance
+
+-----------------------------------------------------
+
+18. What is AWS Lambda?
+
+Lambda is a serverless compute service that runs code without managing
+servers.
+
+Benefits:
+- No server management
+- Automatic scaling
+- Pay only for execution time
+
+-----------------------------------------------------
+
+19. What is CI/CD?
+
+CI (Continuous Integration):
+Frequently merging code into a shared repository.
+
+CD (Continuous Delivery/Deployment):
+Automatically testing and deploying applications.
+
+Benefits:
+- Faster releases
+- Reduced manual effort
+- Higher software quality
+
+-----------------------------------------------------
+
+20. What is High Availability?
+
+High Availability ensures applications remain accessible even if one
+server or component fails.
+
+Common methods:
+- Multiple Availability Zones
+- Load Balancers
+- Auto Scaling
+
+-----------------------------------------------------
+
+21. What is Disaster Recovery?
+
+Disaster Recovery is the process of restoring applications and data after
+a major failure.
+
+Common strategies:
+- Backups
+- Multi-Region deployment
+- Database replication
+- Recovery testing
+
+-----------------------------------------------------
+
+22. What AWS project risks would you track?
+
+Technical Risks:
+- Migration failures
+- Downtime
+- Integration issues
+
+Business Risks:
+- Budget overruns
+- Scope changes
+- Resource constraints
+
+Operational Risks:
+- Security vulnerabilities
+- Performance degradation
+- Compliance issues
+
+-----------------------------------------------------
+
+23. How would you manage an AWS Cloud Migration project?
+
+1. Gather requirements.
+2. Identify applications for migration.
+3. Assess risks and dependencies.
+4. Develop migration strategy.
+5. Create project plan.
+6. Coordinate technical teams.
+7. Monitor progress.
+8. Validate migrated systems.
+9. Obtain stakeholder sign-off.
+10. Conduct post-migration review.
+
+-----------------------------------------------------
+
+24. How do you communicate with engineering teams?
+
+- Daily stand-ups
+- Sprint reviews
+- RAID log reviews
+- Architecture discussions
+- Status reports
+- Risk mitigation meetings
+- Executive updates
+
+-----------------------------------------------------
+
+25. Why is AWS knowledge important for a TPM?
+
+AWS knowledge helps a TPM:
+- Understand cloud architecture
+- Communicate effectively with engineers
+- Identify technical risks
+- Plan cloud migration projects
+- Estimate timelines
+- Make informed decisions
+- Drive successful cloud programs
+
+-----------------------------------------------------
+
+26. Difference between EC2 and Lambda?
+
+EC2:
+- Virtual server
+- You manage the operating system
+- Best for long-running applications
+
+Lambda:
+- Serverless
+- AWS manages infrastructure
+- Best for event-driven workloads
+- Pay per execution
+
+-----------------------------------------------------
+
+27. Difference between S3 and EBS?
+
+S3:
+- Object storage
+- Stores files such as images, videos, and backups
+- Accessible over the internet
+
+EBS:
+- Block storage
+- Attached to an EC2 instance like a hard disk
+- Used for operating systems, databases, and application storage
+
+-----------------------------------------------------
+
+28. How would you handle a production outage in AWS?
+
+- Assess the impact and severity.
+- Notify stakeholders.
+- Coordinate with engineering and operations teams.
+- Track actions and blockers.
+- Prioritize service restoration.
+- Monitor recovery progress.
+- Conduct a Root Cause Analysis (RCA).
+- Implement preventive actions and document lessons learned.
+
+-----------------------------------------------------
+
+29. What cloud-related metrics would you track as a TPM?
+
+- Application availability
+- Uptime
+- Response time
+- Error rate
+- Deployment frequency
+- Incident count
+- Mean Time to Recovery (MTTR)
+- Infrastructure cost
+- Sprint velocity
+- Project milestone completion
+
+-----------------------------------------------------
+
+30. What is your overall approach to managing AWS-based programs?
+
+I begin by understanding business objectives and technical requirements,
+align stakeholders on scope and priorities, identify risks and
+dependencies, and create a realistic delivery plan. Throughout execution,
+I monitor progress using Agile practices, track key metrics, facilitate
+cross-functional collaboration, manage risks proactively, and ensure
+successful delivery while balancing cost, performance, security, and
+quality.
+=====================================================

@@ -1,0 +1,468 @@
+HR PHONE SCREENING – SHORT & NATURAL ANSWERS
+
+1. Tell me about yourself
+
+Hello, and thank you for taking the time to speak with me today.
+
+My name is Pramod Kumar.
+I am a Technical Project Manager with experience in managing the complete software delivery lifecycle, 
+from requirement gathering and project planning to development, testing, production release, and post-production support.
+
+I collaborate closely with engineering, QA, product, and business teams 
+to ensure the timely delivery of high-quality software solutions 
+while effectively managing risks, dependencies, and stakeholder expectations. 
+
+My core focus areas include project planning, stakeholder management, risk mitigation,
+and successful execution of initiatives.
+
+I ensured regular stakeholder communication by providing clear project updates, 
+managing expectations, 
+and maintaining transparency throughout the project lifecycle.
+
+I also managed resource and capacity planning to optimize team utilization,
+proactively address potential bottlenecks, and ensure smooth project execution.
+
+
+--------------------------------------------------
+2. Are you currently working?
+
+Currently, I am not working and am actively exploring
+opportunities where I can contribute my project
+management experience and continue to develop my career.
+
+--------------------------------------------------
+
+3. When did you leave your previous organization?
+
+I left my previous organization in June 25.
+
+--------------------------------------------------
+
+4. Why did you leave your previous organization?
+
+The project I was supporting was successfully completed, and there were limited opportunities to take on 
+new initiatives within the organization.
+I decided it was the right time to explore new opportunities 
+where I can leverage my Technical Project Management experience, 
+contribute to challenging projects, continue learning, 
+and grow professionally while delivering value to the organization.
+
+--------------------------------------------------
+
+5. What are your salary expectations?
+
+Based on my experience in Technical Project management, project delivery, stakeholder management,
+I am looking for a compensation package in the range of ₹12LPA to ₹15LPA.
+
+However, I am open to discussing the overall package and would
+like to understand the complete compensation structure.
+
+-------------------------------------------------
+
+6. What are the roles and responsibilities of a TPM?
+
+As a Technical Project Manager (TPM), my role is to ensure successful delivery of technical projects 
+by coordinating between business and engineering teams.
+
+Responsibilities:
+
+Define project scope, goals, and timelines
+Plan and manage project execution using Agile methodology
+Track progress, sprints, and tasks using Jira
+Manage stakeholders and ensure clear communication
+Identify and mitigate risks, issues, and dependencies
+Ensure on-time delivery with quality output.
+
+--------------------------------------------------
+
+7. Tell me about a challenging project.
+
+We had a critical release with tight timelines and dependencies across teams.
+Through regular tracking and communication, we managed the risks and delivered the release successfully.
+
+--------------------------------------------------
+
+8. How do you handle conflicts?
+
+I focus on understanding different perspectives, 
+encouraging open communication, and finding a solution that supports the project goals.
+
+
+--------------------------------------------------
+
+9. How do you handle pressure?
+
+I prioritize tasks, stay organized, 
+and communicate proactively.
+Clear planning helps me manage pressure effectively.
+
+
+--------------------------------------------------
+
+
+10. Why should we hire you?
+
+I bring experience in end-to-end project delivery,
+strong stakeholder management skills, and the ability
+to coordinate effectively across technical and business
+teams.
+
+I have successfully managed project planning, risk
+mitigation, UAT, and release activities, and I am
+confident that I can contribute positively to your
+organization's project delivery goals.
+
+--------------------------------------------------
+11. How do you handle project risks?
+
+I proactively identify risks during project planning,
+maintain a RAID log, assess impact and probability,
+create mitigation plans, and regularly review risks
+with stakeholders to prevent project delays.
+
+--------------------------------------------------
+
+12. How do you manage difficult stakeholders?
+
+I focus on clear communication, understanding their
+concerns, maintaining transparency, and ensuring
+regular status updates.
+
+Building trust and managing expectations are key to
+handling difficult stakeholder situations.
+
+--------------------------------------------------
+13. Describe a challenging project you managed?
+
+A project faced scope changes and tight timelines.
+
+I worked with stakeholders to prioritize requirements,
+managed risks proactively, coordinated closely with the
+development team, and ensured regular communication.
+
+The project was delivered successfully within the
+agreed timeline.
+
+--------------------------------------------------
+
+14. Which are the tools you have used?
+
+I have worked with Jira for sprint and backlog management,
+Confluence for documentation, 
+Excel for reporting and project tracking, 
+and collaboration tools such as Microsoft Teams and Slack. 
+Depending on project needs, I use Excel and Power BI for data analysis 
+and stakeholder reporting.
+
+
+--------------------------------------------------
+
+15. Why do you want to join our company?
+
+I am impressed by the company's products and growth. 
+The role aligns well with my experience, 
+and I believe it offers a good opportunity to contribute and learn.
+
+--------------------------------------------------
+
+16. What are your strengths?
+
+• Stakeholder Management
+• Communication
+• Project Planning
+• Problem Solving
+• Risk Management
+
+--------------------------------------------------
+
+17. What is your weakness?
+
+Sometimes I spend extra time on planning, but I've learned to balance planning with execution.
+
+--------------------------------------------------
+
+18. Where do you see yourself in 5 years?
+
+I see myself growing into a senior leadership role
+where I can manage larger programs, mentor teams,
+drive strategic initiatives, and contribute
+significantly to business growth.
+
+
+--------------------------------------------------
+
+19. Why should we hire you?
+
+I bring project delivery experience, 
+strong coordination skills, and the ability to work effectively 
+with cross-functional teams to achieve business goals.
+
+--------------------------------------------------
+20. When can you join?
+
+I am available to join immediately.
+
+--------------------------------------------------
+
+
+--------------------------------------------------
+
+21. Do you have any questions for US?
+
+1. What are the key responsibilities of this role?
+
+2. What are the current projects the team is
+   working on?
+
+3. How is success measured in this position?
+
+4. What does the team structure look like?
+
+5. What are the next steps in the interview process?
+
+
+
+==========================================================
+TPM INTERVIEW - TEAM STRUCTURE (25 MEMBERS)
+==========================================================
+
+TEAM STRUCTURE (25 MEMBERS)
+
+Technical Project Manager : 1
+Product Manager           : 1
+Business Analysts         : 2
+Solution Architect        : 1
+Backend Developers        : 8
+Frontend Developers       : 5
+QA Engineers              : 4
+DevOps Engineers          : 2
+UI/UX Designer            : 1
+
+Total Team Size           : 25 Members
+
+
+----------------------------------------------------------
+1. Tell me about your team structure.
+----------------------------------------------------------
+
+I worked with a cross-functional Agile team of 25 members. 
+The team included 
+1 Product Manager, 
+2 Business Analysts, 
+1 Solution Architect, 
+8 Backend Developers, 
+5 Frontend Developers, 
+4 QA Engineers, 
+2 DevOps Engineers, and 
+1 UI/UX Designer. 
+
+As the Technical Project Manager, 
+I was responsible for 
+project planning, 
+execution, 
+stakeholder communication, 
+risk management, 
+and successful delivery.
+
+----------------------------------------------------------
+2. What was your team size?
+----------------------------------------------------------
+
+The team size was 
+25 members, 
+including product, 
+engineering, 
+QA, 
+DevOps, 
+architecture, 
+design, 
+and project management.
+
+----------------------------------------------------------
+3. What roles were included in your team?
+----------------------------------------------------------
+
+The team consisted of:
+- Technical Project Manager
+- Product Manager
+- Business Analysts
+- Solution Architect
+- Backend Developers
+- Frontend Developers
+- QA Engineers
+- DevOps Engineers
+- UI/UX Designer
+
+----------------------------------------------------------
+4. Did the team report to you?
+----------------------------------------------------------
+
+No. The engineering team reported functionally to the Engineering Manager. As the Technical Project Manager, 
+I was responsible for 
+delivery planning, 
+sprint execution, 
+dependency management, 
+stakeholder communication, 
+and project coordination.
+
+----------------------------------------------------------
+5. Who did you report to?
+----------------------------------------------------------
+
+I reported to the Delivery Manager or 
+Engineering Manager, 
+depending on the project. 
+I also provided regular updates to 
+business stakeholders and 
+senior leadership.
+
+----------------------------------------------------------
+6. Who were your key stakeholders?
+----------------------------------------------------------
+
+My key stakeholders included:
+- Product Manager
+- Engineering Manager
+- Business Owners
+- Solution Architect
+- QA Lead
+- DevOps Team
+- Senior Leadership
+
+----------------------------------------------------------
+7. How was work divided within the team?
+----------------------------------------------------------
+
+Product Manager:
+Defined business priorities and roadmap.
+
+Business Analysts:
+Gathered and documented requirements.
+
+Solution Architect:
+Designed technical solutions and architecture.
+
+Developers:
+Built and implemented application features.
+
+QA Engineers:
+Performed testing and quality assurance.
+
+DevOps Engineers:
+Managed CI/CD pipelines, deployments, and environments.
+
+Technical Project Manager:
+Managed planning, execution, delivery, risks, dependencies, stakeholder communication, and project tracking.
+
+----------------------------------------------------------
+8. How did you coordinate a team of 25 members?
+----------------------------------------------------------
+
+I coordinated the team through 
+Agile ceremonies such as 
+	Sprint Planning, 
+	Daily Stand-ups, 
+	Backlog Refinement, 
+	Sprint Reviews, and 
+	Retrospectives. 
+
+I tracked progress using 
+Jira and 
+Confluence, 
+monitored risks and dependencies, 
+and ensured effective communication 
+across all stakeholders.
+
+----------------------------------------------------------
+9. How many developers were on your team?
+----------------------------------------------------------
+
+There were 13 developers:
+- 8 Backend Developers
+- 5 Frontend Developers
+
+----------------------------------------------------------
+10. How many QA Engineers supported the project?
+----------------------------------------------------------
+
+We had 4 QA Engineers responsible for 
+functional, 
+integration, 
+regression, 
+and UAT support.
+
+----------------------------------------------------------
+11. How many DevOps Engineers were involved?
+----------------------------------------------------------
+
+We had 2 DevOps Engineers managing CI/CD pipelines, 
+deployments, 
+cloud infrastructure, 
+and production support.
+
+----------------------------------------------------------
+12. What was the role of the Solution Architect?
+----------------------------------------------------------
+
+The Solution Architect designed the 
+overall technical architecture, 
+reviewed solution designs, 
+resolved technical challenges, 
+and guided the engineering team.
+
+----------------------------------------------------------
+13. How did you work with the Product Manager?
+----------------------------------------------------------
+
+I worked closely with the 
+Product Manager to 
+prioritize the backlog, 
+define sprint goals, 
+clarify requirements, 
+manage scope, 
+and communicate delivery progress.
+
+----------------------------------------------------------
+14. How did you manage communication?
+----------------------------------------------------------
+
+I managed communication through:
+- Daily Stand-ups
+- Sprint Planning
+- Sprint Reviews
+- Retrospectives
+- Weekly Status Meetings
+- Risk Review Meetings
+- Stakeholder Updates
+
+----------------------------------------------------------
+15. What were your responsibilities as a Technical Project Manager?
+----------------------------------------------------------
+
+- Project Planning
+- Sprint Planning
+- Resource Coordination
+- Stakeholder Management
+- Risk Management
+- Dependency Management
+- Issue Resolution
+- Progress Tracking
+- Delivery Management
+- Status Reporting
+- Team Coordination
+- Release Planning
+
+==========================================================
+INTERVIEW TIP
+==========================================================
+
+Remember this simple sequence:
+
+Team Size
+→ Team Roles
+→ Reporting Structure
+→ Your Responsibilities
+→ Collaboration
+→ Delivery
+
+This structure helps answer almost every team-related interview question confidently.

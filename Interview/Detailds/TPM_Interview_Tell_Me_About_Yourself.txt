@@ -1,0 +1,35 @@
+==========================================================
+TELL ME ABOUT YOURSELF – TPM INTERVIEW ANSWER
+==========================================================
+
+Good morning/afternoon, and thank you for giving me the opportunity to introduce myself.
+
+My name is Pramod Kumar, and I have over 14 years of experience in the software industry, including more than 6 years as a Technical Project Manager, leading cross-functional teams to successfully deliver software products and business-critical initiatives.
+
+I started my career as a Software Engineer, where I gained hands-on experience in software development, databases, APIs, and the Software Development Life Cycle (SDLC). This technical foundation has enabled me to communicate effectively with engineering teams and make informed technical decisions throughout my career.
+
+Over the last six years, I transitioned into Technical Project and Program Management, where I have been responsible for planning, executing, monitoring, and delivering multiple projects from initiation to production. I have worked closely with Product Managers, Engineering teams, QA, DevOps, Business stakeholders, and customers to ensure projects are delivered on time, within scope, and with high quality.
+
+My key responsibilities include:
+- Program and Project Planning
+- Requirement Analysis
+- Agile Scrum Ceremonies
+- Sprint and Release Planning
+- Risk and Dependency Management
+- Stakeholder Communication
+- Resource Planning
+- Budget and Timeline Tracking
+- Delivery Governance
+- Executive Status Reporting
+
+Throughout my career, I have focused on building strong collaboration across teams, resolving blockers proactively, managing risks, and driving continuous process improvements. I believe in using data-driven metrics such as sprint velocity, burndown charts, release health, and delivery KPIs to ensure predictable execution and transparency.
+
+From a technical perspective, I have experience working with Cloud technologies, REST APIs, SQL, Agile methodologies, Jira, Confluence, Git, CI/CD concepts, and I am currently expanding my expertise in Data Engineering, Artificial Intelligence, and Machine Learning to better support modern technology programs.
+
+One of my strengths is my ability to bridge the gap between business and engineering teams. I enjoy translating business requirements into actionable technical plans while ensuring alignment among all stakeholders.
+
+At this stage of my career, I am looking for an opportunity where I can manage large-scale technical programs, work with innovative engineering teams, contribute to cloud and AI-driven initiatives, and continue growing as a Technical Program Manager.
+
+I believe my combination of technical background, program management experience, leadership skills, and collaborative approach enables me to add value to your organization.
+
+Thank you. I'd be happy to answer any questions.

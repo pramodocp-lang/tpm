@@ -1,0 +1,292 @@
+=========================================================
+SAFe (Scaled Agile Framework) - Interview Notes
+=========================================================
+
+1. What is SAFe?
+-----------------
+SAFe (Scaled Agile Framework) is a framework that helps large organizations
+implement Agile practices across multiple teams, programs, and portfolios.
+
+Interview Definition:
+"SAFe is a framework that enables organizations to scale Agile by coordinating
+multiple Agile teams, aligning business objectives with engineering execution,
+and delivering value faster."
+
+---------------------------------------------------------
+2. Why SAFe?
+---------------------------------------------------------
+
+Scrum works well for a single Agile team.
+
+When an organization has:
+- Multiple Scrum teams
+- Hundreds of engineers
+- Shared dependencies
+- Large products
+
+SAFe provides:
+- Better coordination
+- Common planning
+- Shared objectives
+- Predictable delivery
+
+---------------------------------------------------------
+3. Four Levels of SAFe
+---------------------------------------------------------
+
+A. Team Level
+-------------
+Focus:
+- Individual Agile teams
+
+Activities:
+- Sprint Planning
+- Daily Stand-up
+- Sprint Review
+- Sprint Retrospective
+
+Output:
+- Working software every sprint
+
+---------------------------------------------------------
+
+B. Program Level (Agile Release Train - ART)
+--------------------------------------------
+
+Focus:
+- Multiple Agile teams working together
+
+Key Concepts:
+- Agile Release Train (ART)
+- Program Increment (PI)
+- PI Planning
+- System Demo
+
+Output:
+- Coordinated delivery across teams
+
+---------------------------------------------------------
+
+C. Large Solution Level
+-----------------------
+
+Used when:
+- One Agile Release Train is not enough
+- Very large and complex systems
+
+Examples:
+- Banking platforms
+- Telecom systems
+- Aerospace software
+
+---------------------------------------------------------
+
+D. Portfolio Level
+------------------
+
+Focus:
+- Business strategy
+- Investment decisions
+- Budget allocation
+- Prioritization
+
+Output:
+- Alignment between business goals and execution
+
+---------------------------------------------------------
+4. Agile Release Train (ART)
+---------------------------------------------------------
+
+Definition:
+A long-lived team of Agile teams working together toward a common business goal.
+
+Typical Size:
+- 5 to 12 Agile teams
+- 50 to 125 people
+
+Purpose:
+- Synchronize planning
+- Manage dependencies
+- Deliver together
+
+---------------------------------------------------------
+5. Program Increment (PI)
+---------------------------------------------------------
+
+Definition:
+A planning and delivery cycle in SAFe.
+
+Duration:
+- 8 to 12 weeks
+- Usually 4 to 6 sprints
+
+Activities:
+- Planning
+- Development
+- Testing
+- Demo
+- Delivery
+
+---------------------------------------------------------
+6. PI Planning
+---------------------------------------------------------
+
+Purpose:
+All Agile teams come together to plan the upcoming Program Increment.
+
+Activities:
+- Understand business objectives
+- Break Features into User Stories
+- Identify dependencies
+- Estimate work
+- Commit to objectives
+- Discuss risks
+
+Outputs:
+- PI Objectives
+- Team commitments
+- Dependency map
+- Risk list
+
+---------------------------------------------------------
+7. Important Roles
+---------------------------------------------------------
+
+Product Manager
+- Owns program priorities
+- Defines Features
+
+Product Owner
+- Owns Team Backlog
+- Prioritizes User Stories
+
+Scrum Master
+- Facilitates Agile ceremonies
+- Removes blockers
+
+Release Train Engineer (RTE)
+- Chief Scrum Master for the Agile Release Train
+- Coordinates all teams
+- Removes cross-team impediments
+
+System Architect
+- Defines technical architecture
+- Guides technical decisions
+
+Business Owners
+- Define business goals
+- Approve priorities
+
+---------------------------------------------------------
+8. Key SAFe Artifacts
+---------------------------------------------------------
+
+- Portfolio Backlog
+- Program Backlog
+- Team Backlog
+- Epics
+- Features
+- User Stories
+- PI Objectives
+- Roadmap
+
+---------------------------------------------------------
+9. Benefits of SAFe
+---------------------------------------------------------
+
+- Better cross-team coordination
+- Improved visibility
+- Faster delivery
+- Effective dependency management
+- Business and engineering alignment
+- Predictable releases
+
+---------------------------------------------------------
+10. Challenges of SAFe
+---------------------------------------------------------
+
+- Initial learning curve
+- More planning overhead
+- Requires organizational commitment
+- Can become process-heavy if not implemented well
+
+---------------------------------------------------------
+11. SAFe vs Scrum
+---------------------------------------------------------
+
+Scrum
+------
+- Single Agile team
+- Sprint Planning
+- Scrum Master
+- Product Owner
+- Suitable for small projects
+
+SAFe
+-----
+- Multiple Agile teams
+- PI Planning + Sprint Planning
+- Release Train Engineer (RTE)
+- Product Manager + Product Owner
+- Suitable for enterprise-scale projects
+
+---------------------------------------------------------
+12. TPM Responsibilities in SAFe
+---------------------------------------------------------
+
+- Lead PI Planning activities
+- Manage cross-team dependencies
+- Track risks and RAID items
+- Coordinate multiple Agile teams
+- Facilitate stakeholder communication
+- Monitor program delivery
+- Ensure alignment with business objectives
+- Support release planning and execution
+
+---------------------------------------------------------
+13. Interview Answer (60 Seconds)
+---------------------------------------------------------
+
+"SAFe, or Scaled Agile Framework, is an enterprise Agile framework that helps
+organizations scale Agile practices across multiple teams. Unlike Scrum, which
+focuses on a single team, SAFe coordinates many Agile teams through Agile
+Release Trains (ARTs) and Program Increments (PIs). Teams participate in PI
+Planning to align on business goals, identify dependencies, estimate work,
+and commit to shared objectives. As a Technical Project Manager, I would
+facilitate PI Planning, manage cross-team dependencies, track risks, align
+stakeholders, and ensure successful program execution and predictable
+delivery."
+
+=========================================================
+Quick Revision
+=========================================================
+
+SAFe = Enterprise Agile Framework
+
+Levels:
+1. Team
+2. Program
+3. Large Solution
+4. Portfolio
+
+Important Terms:
+- Agile Release Train (ART)
+- Program Increment (PI)
+- PI Planning
+- Release Train Engineer (RTE)
+- Product Manager
+- Product Owner
+- Features
+- Epics
+- User Stories
+- PI Objectives
+
+TPM Focus:
+- PI Planning
+- Dependency Management
+- Risk Management
+- Stakeholder Communication
+- Program Delivery
+- Release Coordination
+
+=========================================================

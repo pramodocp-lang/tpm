@@ -1,0 +1,637 @@
+=========================================================
+ABACUS.AI - TECHNICAL PROGRAM MANAGER
+INTERVIEW PREPARATION GUIDE
+=========================================================
+
+Candidate: Pramod Kumar
+Target Role: Technical Program Manager
+Company: Abacus.AI
+
+=========================================================
+ROUND 1 - INTRODUCTION
+=========================================================
+
+Q1. Tell me about yourself.
+
+Sample Answer
+
+Hello, and thank you for taking the time to speak with me today.
+
+My name is Pramod Kumar, and I have over 14 years of experience in software
+engineering, technical leadership, and program delivery, including more than
+6 years as a Technical Project Manager leading cross-functional engineering
+teams.
+
+Throughout my career, I have managed end-to-end delivery of enterprise
+software applications while working closely with Engineering, Product, QA,
+Business, and Leadership teams.
+
+My responsibilities include:
+
+• Program Planning
+• Release Planning
+• Sprint Planning
+• Stakeholder Management
+• Risk Management
+• Dependency Management
+• Production Releases
+• Agile Delivery
+• Executive Reporting
+
+My technical background includes Python, FastAPI, SQL, REST APIs, Cloud
+Technologies, and Software Architecture.
+
+Recently, I have been expanding my expertise in Artificial Intelligence and
+Machine Learning by learning:
+
+• Python
+• NumPy
+• Pandas
+• Matplotlib
+• Seaborn
+• Scikit-learn
+
+This enables me to better collaborate with engineering teams building AI
+products while effectively managing technical programs.
+
+I am excited about the opportunity at Abacus.AI because it combines my
+technical program management experience with my passion for AI-powered
+products.
+
+=========================================================
+EXPERIENCE QUESTIONS
+=========================================================
+
+Q2. Walk me through your recent project.
+
+Explain:
+
+• Project Overview
+• Business Goal
+• Team Size
+• Your Responsibilities
+• Technologies Used
+• Challenges
+• Results
+• Lessons Learned
+
+Project Overview
+My recent project was a SaaS-based business management platform that helped organizations manage their day-to-day operations through a centralized web application. It included modules for user management, workflow automation, reporting, and role-based access.
+Business Goal
+The goal was to replace manual processes with a scalable digital platform, improve operational efficiency, and provide real-time visibility into business data.
+Team Size
+The project team consisted of around 10 members:
+5 Backend Developers
+2 Frontend Developers
+2 QA Engineers
+1 UI/UX Designer
+I worked as the Technical Lead, coordinating with product owners and stakeholders.
+My Responsibilities
+Planned project execution and sprint deliverables.
+Broke requirements into technical tasks.
+Coordinated developers, QA, and product teams.
+Managed risks, dependencies, and release timelines.
+Reviewed code and ensured coding standards.
+Mentored team members and resolved technical blockers.
+Provided regular project status updates to stakeholders.
+Technologies Used
+PHP, Laravel
+MySQL
+REST APIs
+JavaScript
+Git
+AWS (EC2, S3)
+Docker
+Jira
+Challenges The biggest challenge was changing business requirements during development while maintaining delivery timelines. We prioritized features, refined the backlog, improved stakeholder communication, and released high-priority functionality first to stay on schedule.
+Results
+Delivered the project on time.
+Improved system performance and scalability.
+Reduced manual work through automation.
+Received positive feedback from business stakeholders.
+Established a stable foundation for future feature enhancements.
+Lessons Learned The project reinforced that successful delivery depends not only on technical execution but also on clear communication, proactive risk management, and continuous collaboration across cross-functional teams. Early stakeholder alignment and regular feedback significantly reduce rework and delivery risks.
+---------------------------------------------------------
+
+Q3. Describe your biggest program.
+
+Mention:
+
+• Timeline
+• Budget (if applicable)
+• Team Size
+• Stakeholders
+• Risks
+• Deliverables
+• Outcome
+
+---------------------------------------------------------
+
+Q4. Tell me about a challenging project.
+
+Answer using STAR
+
+Situation
+
+Task
+
+Action
+
+Result
+
+=========================================================
+TECHNICAL PROGRAM MANAGEMENT
+=========================================================
+
+Q5. Difference between Project Manager and Technical Program Manager?
+
+Project Manager
+
+• Focuses on project delivery
+• Schedule
+• Budget
+• Resources
+
+Technical Program Manager
+
+• Understands technical architecture
+• Works closely with Engineering
+• Manages technical dependencies
+• Drives engineering execution
+• Supports product strategy
+
+---------------------------------------------------------
+
+Q6. How do you manage multiple projects?
+
+Answer
+
+• Prioritize work
+• Maintain Roadmap
+• Jira Dashboards
+• Weekly Reviews
+• RAID Log
+• Stakeholder Meetings
+• Escalation Management
+
+---------------------------------------------------------
+
+Q7. How do you manage risks?
+
+Steps
+
+1. Identify Risk
+
+2. Analyze Impact
+
+3. Define Mitigation
+
+4. Assign Owner
+
+5. Track Weekly
+
+6. Escalate if Required
+
+---------------------------------------------------------
+
+Q8. What is RAID?
+
+R = Risks
+
+A = Assumptions
+
+I = Issues
+
+D = Dependencies
+
+---------------------------------------------------------
+
+Q9. How do you handle project delays?
+
+Answer
+
+• Identify Root Cause
+• Assess Impact
+• Discuss with Engineering
+• Reprioritize
+• Update Stakeholders
+• Create Recovery Plan
+• Track Daily
+
+=========================================================
+AGILE QUESTIONS
+=========================================================
+
+Q10. Explain Scrum.
+
+Roles
+
+• Product Owner
+
+• Scrum Master
+
+• Development Team
+
+Ceremonies
+
+• Sprint Planning
+
+• Daily Stand-up
+
+• Sprint Review
+
+• Sprint Retrospective
+
+Artifacts
+
+• Product Backlog
+
+• Sprint Backlog
+
+• Increment
+
+---------------------------------------------------------
+
+Q11. What happens during Sprint Planning?
+
+• Sprint Goal
+
+• Capacity Planning
+
+• Story Selection
+
+• Story Estimation
+
+• Sprint Commitment
+
+---------------------------------------------------------
+
+Q12. Agile Metrics
+
+• Velocity
+
+• Burndown Chart
+
+• Burnup Chart
+
+• Cycle Time
+
+• Lead Time
+
+• Sprint Predictability
+
+• Defect Density
+
+=========================================================
+RELEASE MANAGEMENT
+=========================================================
+
+Q13. Explain Release Planning.
+
+Answer
+
+Requirements Complete
+
+↓
+
+Development Complete
+
+↓
+
+Testing Complete
+
+↓
+
+UAT
+
+↓
+
+Go/No-Go Meeting
+
+↓
+
+Production Deployment
+
+↓
+
+Monitoring
+
+↓
+
+Post Release Review
+
+=========================================================
+STAKEHOLDER MANAGEMENT
+=========================================================
+
+Q14. How do you manage difficult stakeholders?
+
+Answer
+
+• Listen carefully
+
+• Understand expectations
+
+• Share facts using data
+
+• Communicate regularly
+
+• Escalate appropriately
+
+• Build trust
+
+---------------------------------------------------------
+
+Q15. How do you communicate project status?
+
+Include
+
+• Weekly Reports
+
+• Dashboard
+
+• KPIs
+
+• Risks
+
+• Dependencies
+
+• Milestones
+
+• Executive Summary
+
+=========================================================
+TECHNICAL QUESTIONS
+=========================================================
+
+Q16. Explain SDLC.
+
+Requirements
+
+↓
+
+Design
+
+↓
+
+Development
+
+↓
+
+Testing
+
+↓
+
+Deployment
+
+↓
+
+Maintenance
+
+---------------------------------------------------------
+
+Q17. What is Story Estimation?
+
+Methods
+
+• Story Points
+
+• Planning Poker
+
+• Fibonacci
+
+Factors
+
+• Complexity
+
+• Effort
+
+• Risk
+
+---------------------------------------------------------
+
+Q18. What is CI/CD?
+
+CI
+
+Continuous Integration
+
+CD
+
+Continuous Delivery
+
+Benefits
+
+• Faster Releases
+
+• Better Quality
+
+• Automation
+
+---------------------------------------------------------
+
+Q19. Explain REST API.
+
+API allows two systems to communicate using HTTP methods.
+
+Methods
+
+GET
+
+POST
+
+PUT
+
+DELETE
+
+=========================================================
+AI & MACHINE LEARNING
+=========================================================
+
+Q20. Why are you learning AI?
+
+Sample Answer
+
+AI is transforming software products. As a Technical Program Manager,
+understanding Machine Learning workflows helps me communicate effectively
+with engineering teams, identify technical risks, improve planning, and
+deliver AI-powered products successfully.
+
+---------------------------------------------------------
+
+Q21. What is Machine Learning?
+
+Machine Learning enables systems to learn patterns from data and make
+predictions without explicit programming for every scenario.
+
+---------------------------------------------------------
+
+Q22. What is Scikit-learn?
+
+Scikit-learn is a Python Machine Learning library used for
+
+• Regression
+
+• Classification
+
+• Clustering
+
+• Model Evaluation
+
+• Feature Engineering
+
+• Hyperparameter Tuning
+
+---------------------------------------------------------
+
+Q23. Why Pandas?
+
+• Data Cleaning
+
+• Data Transformation
+
+• Data Analysis
+
+• Data Preparation
+
+---------------------------------------------------------
+
+Q24. Why Matplotlib & Seaborn?
+
+• Data Visualization
+
+• Trend Analysis
+
+• Statistical Charts
+
+• Better Business Insights
+
+=========================================================
+LEADERSHIP QUESTIONS
+=========================================================
+
+Q25. Tell me about a conflict you resolved.
+
+Use STAR
+
+Situation
+
+Task
+
+Action
+
+Result
+
+---------------------------------------------------------
+
+Q26. How do you motivate engineering teams?
+
+• Clear Goals
+
+• Remove Blockers
+
+• Encourage Ownership
+
+• Recognize Achievements
+
+• Continuous Feedback
+
+---------------------------------------------------------
+
+Q27. Describe a production issue.
+
+Explain
+
+• Incident
+
+• Impact
+
+• Communication
+
+• Root Cause
+
+• Resolution
+
+• Lessons Learned
+
+=========================================================
+HR QUESTIONS
+=========================================================
+
+Q28. Why Abacus.AI?
+
+Answer
+
+• AI-first company
+
+• Generative AI Products
+
+• Fast-paced Engineering
+
+• Opportunity to build products at scale
+
+• Excellent learning environment
+
+---------------------------------------------------------
+
+Q29. Why should we hire you?
+
+Mention
+
+• 15+ Years Overall Experience
+
+• 6+ Years TPM Experience
+
+• Software Engineering Background
+
+• Agile Delivery
+
+• Stakeholder Management
+
+• Technical Knowledge
+
+• AI & Machine Learning Learning Journey
+
+• Strong Ownership
+
+=========================================================
+QUESTIONS TO ASK THE INTERVIEWER
+=========================================================
+
+1. How is the Technical Program Management team structured?
+
+2. What are the biggest challenges for this role?
+
+3. What does success look like in the first 90 days?
+
+4. How do TPMs collaborate with Engineering Managers and Product Managers?
+
+5. What engineering metrics are most important?
+
+6. What is your release cadence?
+
+7. What AI initiatives are the highest priority this year?
+
+8. What qualities distinguish top-performing TPMs at Abacus.AI?
+
+=========================================================
+INTERVIEW TIPS
+=========================================================
+
+✓ Use the STAR method for behavioral questions.
+
+✓ Quantify achievements whenever possible.
+
+✓ Demonstrate technical understanding without overclaiming expertise.
+
+✓ Emphasize collaboration across Engineering, Product, QA, Design, and Leadership.
+
+✓ Show ownership, execution, and a bias for action.
+
+✓ Highlight your continuous learning in AI and Machine Learning.
+
+✓ End every interview by asking thoughtful questions.
+
+=========================================================
+END OF DOCUMENT
+=========================================================
