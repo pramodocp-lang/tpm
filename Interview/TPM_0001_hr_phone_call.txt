@@ -77,10 +77,26 @@ Ensure on-time delivery with quality output.
 
 7. Tell me about a challenging project.
 
-We had a critical release with tight timelines and dependencies across teams.
-Through regular tracking and communication, we managed the risks and delivered the release successfully.
+One of the most challenging projects 
+I worked on involved a critical product release with a very tight timeline and multiple dependencies across engineering, 
+QA, product, and business teams.
 
+The biggest challenge was coordinating all stakeholders 
+while managing changing priorities and 
+ensuring that dependent tasks stayed on schedule.
+
+As the Technical Program Manager, 
+I closely tracked progress through Jira, 
+conducted regular stand-ups and status meetings, 
+proactively identified risks, and maintained clear communication 
+with all stakeholders. 
+Whenever blockers arose, 
+I worked with the respective teams to resolve them quickly and adjusted the plan where necessary.
+
+As a result, we successfully delivered the release on time with minimal issues, 
+and the stakeholders were satisfied with the overall execution and coordination.
 --------------------------------------------------
+
 
 8. How do you handle conflicts?
 
