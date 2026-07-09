@@ -1,0 +1,150 @@
+=========================================================
+TPM SITUATIONAL INTERVIEW QUESTIONS & ANSWERS (PART 1)
+Technical Program Manager Interview Preparation
+=========================================================
+
+1. A project is behind schedule. What would you do?
+
+Answer:
+- Analyze the root cause of the delay.
+- Review the project plan and identify the critical path.
+- Meet with the team to understand blockers.
+- Reprioritize tasks based on business priority.
+- Allocate additional resources if available.
+- Update stakeholders with a revised timeline.
+- Track progress daily until the project is back on schedule.
+
+---------------------------------------------------------
+
+2. A developer says they cannot complete a task on time.
+
+Answer:
+- Understand the reason for the delay.
+- Identify whether it is a technical issue, dependency, or resource constraint.
+- Help remove blockers.
+- Reassign work if necessary.
+- Inform stakeholders if delivery is impacted.
+- Monitor the task until completion.
+
+---------------------------------------------------------
+
+3. Two team members disagree on a technical solution.
+
+Answer:
+- Listen to both perspectives.
+- Review business requirements and technical constraints.
+- Compare the advantages and disadvantages of each approach.
+- Consult the Technical Lead or Solution Architect if needed.
+- Make a decision based on scalability, maintainability, cost, and business value.
+
+---------------------------------------------------------
+
+4. A stakeholder keeps changing requirements.
+
+Answer:
+- Understand the business reason for the change.
+- Assess the impact on scope, timeline, budget, and resources.
+- Discuss trade-offs with stakeholders.
+- Follow the formal change management process.
+- Update the backlog, documentation, and project plan after approval.
+
+---------------------------------------------------------
+
+5. Production goes down during a release.
+
+Answer:
+- Initiate the incident response process.
+- Notify stakeholders immediately.
+- Coordinate with Development, QA, and DevOps teams.
+- Roll back the deployment if required.
+- Restore service as quickly as possible.
+- Conduct a Root Cause Analysis (RCA).
+- Implement preventive actions to avoid recurrence.
+
+---------------------------------------------------------
+
+6. A customer reports a high-priority production issue.
+
+Answer:
+- Assess the severity and business impact.
+- Assign the issue to the engineering team immediately.
+- Keep the customer informed with regular updates.
+- Track progress until resolution.
+- Validate the fix before deployment.
+- Conduct RCA and document lessons learned.
+
+---------------------------------------------------------
+
+7. Your team consistently misses Sprint commitments.
+
+Answer:
+- Review sprint metrics and velocity.
+- Analyze estimation accuracy.
+- Identify recurring blockers.
+- Improve backlog refinement.
+- Coach the team on realistic planning.
+- Monitor improvements over future sprints.
+
+---------------------------------------------------------
+
+8. Senior management requests an unrealistic deadline.
+
+Answer:
+- Review project estimates and dependencies.
+- Present data supporting a realistic timeline.
+- Explain project risks.
+- Suggest phased delivery or an MVP approach.
+- Align expectations with stakeholders.
+
+---------------------------------------------------------
+
+9. A critical team member resigns during the project.
+
+Answer:
+- Assess the impact on project delivery.
+- Reassign responsibilities.
+- Conduct knowledge transfer sessions.
+- Update the project schedule.
+- Inform stakeholders if timelines are affected.
+- Cross-train remaining team members.
+
+---------------------------------------------------------
+
+10. The client is unhappy with project progress.
+
+Answer:
+- Listen carefully to their concerns.
+- Share transparent project status.
+- Explain corrective actions.
+- Increase communication frequency.
+- Deliver quick wins where possible.
+- Rebuild stakeholder confidence through regular updates.
+
+=========================================================
+Interview Tip
+
+Whenever possible, answer using the STAR Method.
+
+Situation:
+Briefly explain the project context.
+
+Task:
+Explain your responsibility.
+
+Action:
+Describe the steps you took.
+
+Result:
+Share the measurable outcome.
+
+Example:
+"We had a critical release with multiple dependencies.
+As the TPM, I coordinated engineering, QA, and DevOps teams,
+tracked risks using a RAID Log, removed blockers through daily
+stand-ups, and communicated progress to stakeholders.
+As a result, we delivered the release on schedule with no
+critical production issues."
+
+=========================================================
+End of Part 1
+=========================================================

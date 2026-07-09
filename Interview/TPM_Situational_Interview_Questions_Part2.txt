@@ -1,0 +1,274 @@
+=========================================================
+TPM SITUATIONAL INTERVIEW QUESTIONS & ANSWERS (PART 2)
+Advanced Technical Program Manager Interview Preparation
+=========================================================
+
+11. A project dependency is delayed by another team. What would you do?
+
+Answer:
+- Identify the impacted deliverables.
+- Meet with the dependent team to understand the delay.
+- Explore workarounds or parallel activities.
+- Update the project plan.
+- Communicate the impact to stakeholders.
+- Monitor the dependency until it is resolved.
+
+---------------------------------------------------------
+
+12. A critical project risk has become an issue.
+
+Answer:
+- Assess the business impact immediately.
+- Activate the mitigation or contingency plan.
+- Inform stakeholders.
+- Assign ownership for resolution.
+- Track progress daily.
+- Document lessons learned after closure.
+
+---------------------------------------------------------
+
+13. QA finds several critical defects before release.
+
+Answer:
+- Prioritize defects by severity.
+- Focus on fixing P1 and P2 issues first.
+- Re-test all fixes.
+- Review release readiness with stakeholders.
+- Delay the release if product quality is at risk.
+
+---------------------------------------------------------
+
+14. Team morale is low due to workload.
+
+Answer:
+- Meet with team members individually.
+- Identify the root cause.
+- Rebalance workloads where possible.
+- Recognize achievements.
+- Encourage work-life balance.
+- Maintain regular team communication.
+
+---------------------------------------------------------
+
+15. Multiple projects need the same resources.
+
+Answer:
+- Review business priorities.
+- Discuss resource allocation with management.
+- Optimize project schedules.
+- Consider temporary resources if available.
+- Keep stakeholders informed of any timeline changes.
+
+---------------------------------------------------------
+
+16. A customer requests a new feature during development.
+
+Answer:
+- Understand the business value.
+- Estimate effort and impact.
+- Review with Product Owner and stakeholders.
+- Follow the change management process.
+- Add it to the backlog or future sprint based on priority.
+
+---------------------------------------------------------
+
+17. Your project budget is reduced by 20%.
+
+Answer:
+- Review project priorities.
+- Identify cost-saving opportunities.
+- Reduce non-essential scope.
+- Optimize resource utilization.
+- Discuss trade-offs with stakeholders.
+- Update the project plan.
+
+---------------------------------------------------------
+
+18. A vendor fails to deliver on time.
+
+Answer:
+- Contact the vendor immediately.
+- Understand the reason for the delay.
+- Escalate if required.
+- Explore alternate vendors if necessary.
+- Update stakeholders.
+- Revise the delivery schedule.
+
+---------------------------------------------------------
+
+19. The project sponsor asks for a status update unexpectedly.
+
+Answer:
+- Present project health clearly.
+- Highlight completed work.
+- Explain current risks and mitigation plans.
+- Share upcoming milestones.
+- Mention any support required from leadership.
+
+---------------------------------------------------------
+
+20. Two stakeholders have conflicting priorities.
+
+Answer:
+- Meet with both stakeholders.
+- Understand their objectives.
+- Evaluate business impact.
+- Present available options.
+- Facilitate a decision based on organizational priorities.
+
+---------------------------------------------------------
+
+21. Your Scrum team is not updating Jira.
+
+Answer:
+- Explain the importance of transparency.
+- Review Jira usage during Daily Stand-ups.
+- Ensure every task has an owner.
+- Monitor board hygiene regularly.
+- Coach the team on Agile best practices.
+
+---------------------------------------------------------
+
+22. Sprint Velocity has dropped significantly.
+
+Answer:
+- Analyze sprint metrics.
+- Identify blockers and interruptions.
+- Review estimation accuracy.
+- Reduce work in progress.
+- Improve Sprint Planning and Backlog Refinement.
+
+---------------------------------------------------------
+
+23. A production release fails after deployment.
+
+Answer:
+- Activate the incident management process.
+- Roll back the release if required.
+- Inform stakeholders.
+- Coordinate with Engineering and DevOps.
+- Conduct Root Cause Analysis (RCA).
+- Improve deployment and testing processes.
+
+---------------------------------------------------------
+
+24. A security vulnerability is discovered before release.
+
+Answer:
+- Assess the severity immediately.
+- Involve the Security team.
+- Prioritize remediation.
+- Re-test the application.
+- Release only after security validation.
+- Document preventive measures.
+
+---------------------------------------------------------
+
+25. A senior executive requests additional reports every day.
+
+Answer:
+- Understand the reporting expectations.
+- Automate dashboards where possible.
+- Share concise project health reports.
+- Focus on KPIs, risks, milestones, and blockers.
+- Maintain a consistent reporting schedule.
+
+---------------------------------------------------------
+
+26. The business team wants faster delivery, but Engineering needs more time.
+
+Answer:
+- Facilitate a discussion between both teams.
+- Review scope and priorities.
+- Consider phased delivery.
+- Focus on delivering an MVP first.
+- Align expectations through transparent communication.
+
+---------------------------------------------------------
+
+27. The project scope continues to increase without additional budget.
+
+Answer:
+- Assess the impact on cost and schedule.
+- Prioritize high-value features.
+- Discuss trade-offs with stakeholders.
+- Seek approval for additional funding or revised timelines.
+- Update project documentation.
+
+---------------------------------------------------------
+
+28. Team members are working across multiple time zones.
+
+Answer:
+- Establish overlapping working hours.
+- Use asynchronous communication tools.
+- Document meeting outcomes.
+- Rotate meeting schedules fairly.
+- Ensure clear ownership of tasks.
+
+---------------------------------------------------------
+
+29. A key stakeholder is not attending project meetings.
+
+Answer:
+- Reach out individually.
+- Understand the reason.
+- Provide concise status updates.
+- Escalate if critical decisions are blocked.
+- Keep communication proactive.
+
+---------------------------------------------------------
+
+30. You discover a major issue just before Go-Live.
+
+Answer:
+- Assess the severity and business impact.
+- Discuss options with stakeholders.
+- Decide whether to proceed or postpone the release.
+- Prioritize customer impact and system stability.
+- Communicate the decision clearly.
+- Capture lessons learned after resolution.
+
+=========================================================
+COMMON TPM INTERVIEW FRAMEWORK
+
+When answering situational questions, follow this structure:
+
+1. Understand the problem.
+2. Assess the impact.
+3. Prioritize the issue.
+4. Communicate with stakeholders.
+5. Coordinate cross-functional teams.
+6. Execute the resolution plan.
+7. Monitor progress.
+8. Conduct Root Cause Analysis (RCA).
+9. Document lessons learned.
+10. Implement preventive actions.
+
+=========================================================
+TPM KEYWORDS TO USE DURING INTERVIEWS
+
+- Stakeholder Management
+- Cross-functional Collaboration
+- Risk Assessment
+- RAID Log
+- Change Management
+- Sprint Planning
+- Backlog Prioritization
+- Release Management
+- Incident Management
+- Root Cause Analysis (RCA)
+- Project Health
+- Dependency Management
+- Escalation Management
+- Resource Planning
+- Capacity Planning
+- Continuous Improvement
+- Agile Delivery
+- Business Value
+- Customer Impact
+- Data-driven Decision Making
+
+=========================================================
+End of Part 2
+=========================================================
