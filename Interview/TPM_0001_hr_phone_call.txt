@@ -12,8 +12,8 @@ I collaborate closely with engineering, QA, product, and business teams
 to ensure the timely delivery of high-quality software solutions 
 while effectively managing risks, dependencies, and stakeholder expectations. 
 
-My core focus areas include project planning, stakeholder management, risk mitigation,
-and successful execution of initiatives.
+My core focus areas include project planning, sprint planning, backlog refinement, cross-team coordination, risk mitigation,
+stakeholder management, and successful execution of initiatives.
 
 I ensured regular stakeholder communication by providing clear project updates, 
 managing expectations, 
