@@ -1,0 +1,195 @@
+====================================================
+Mind IT Systems - TPM Interview Preparation
+====================================================
+
+Company Overview
+----------------
+Company Name : Mind IT Systems
+Industry     : IT Services & Software Development
+Focus Areas  :
+- Digital Transformation
+- AI Workflow Automation
+- Legacy Modernization
+- Custom Software Development
+- Dedicated Engineering Teams
+- Enterprise Applications
+
+Key Highlights
+--------------
+- 11+ Years in Business
+- 200+ Clients
+- 500+ Projects Delivered
+- Presence in 14+ Countries
+
+Industries Served
+-----------------
+- FinTech
+- Healthcare
+- Lending
+- Supply Chain
+- Enterprise Solutions
+
+Services
+--------
+- Custom Software Development
+- AI Workflow Automation
+- Legacy System Modernization
+- Cloud Solutions
+- Product Engineering
+- Enterprise Application Development
+- Application Maintenance & Support
+- Technology Consulting
+
+Technology Areas
+----------------
+- AI & Machine Learning
+- Cloud (AWS/Azure)
+- APIs & Integrations
+- Microservices
+- Web & Mobile Development
+- DevOps & CI/CD
+
+Expected TPM Responsibilities
+-----------------------------
+- Lead cross-functional engineering teams.
+- Manage Agile/Scrum delivery.
+- Conduct Sprint Planning, Daily Standups, Sprint Review, and Retrospectives.
+- Manage project scope, schedule, budget, and risks.
+- Coordinate with clients and stakeholders.
+- Manage third-party vendors and dependencies.
+- Track project KPIs and delivery metrics.
+- Drive successful product releases.
+- Ensure on-time, high-quality project delivery.
+
+Key TPM Skills to Prepare
+-------------------------
+Agile & Scrum
+- Sprint Planning
+- Product Backlog
+- Story Points
+- Burndown Chart
+- Velocity
+- Kanban
+- Jira
+- Confluence
+
+Project Management
+------------------
+- Project Planning
+- Risk Management
+- RAID Log
+- Stakeholder Management
+- Budget Tracking
+- Resource Planning
+- Change Management
+- Dependency Management
+
+Cloud
+-----
+- AWS Basics
+- Azure Basics
+- Cloud Migration
+- High Availability
+- Security
+- CI/CD
+
+System Design (High Level)
+--------------------------
+- Microservices
+- API Integrations
+- Scalability
+- Performance
+- Database Selection
+- Security
+- Monitoring
+- Disaster Recovery
+
+AI / ML
+--------
+- AI Workflow Automation
+- Generative AI
+- LLM Basics
+- RAG
+- Prompt Engineering
+- AI Governance
+
+Possible Interview Questions
+----------------------------
+1. Tell me about yourself.
+2. Describe a challenging project.
+3. How do you manage project risks?
+4. How do you handle scope changes?
+5. How do you prioritize competing tasks?
+6. How do you communicate with executives?
+7. How do you manage stakeholders?
+8. Explain your Agile experience.
+9. How do you track project health?
+10. Which KPIs do you monitor?
+11. How do you manage vendor dependencies?
+12. Describe a cloud migration project.
+13. Explain an AI/ML project you managed.
+14. How do you resolve team conflicts?
+15. How do you ensure on-time delivery?
+
+Executive Communication
+-----------------------
+Always communicate using this format:
+
+Current Status
+Business Impact
+Risks
+Mitigation Plan
+Decision Required
+Next Steps
+
+Example:
+Project Status : Green
+
+Progress
+- Development: 80%
+- Testing: 60%
+
+Risk
+- Vendor API delay.
+
+Mitigation
+- Daily follow-up with vendor.
+- Reprioritized sprint tasks.
+
+Decision Required
+- Approval for one additional engineering resource.
+
+My Interview Introduction
+-------------------------
+I have over 14 years of experience in software development and project management.
+I have led cross-functional teams, managed Agile projects, coordinated with business
+stakeholders, and delivered software solutions on time and within budget. Recently,
+I have been strengthening my expertise in cloud technologies, AI/ML, and Technical
+Program Management to lead large-scale digital transformation initiatives.
+
+Why Mind IT Systems?
+--------------------
+- Strong focus on Digital Transformation.
+- Growing AI capabilities.
+- Opportunity to work with global clients.
+- Exposure to enterprise-scale projects.
+- Excellent environment to grow as a Technical Program Manager.
+
+Revision Checklist
+------------------
+[ ] Agile & Scrum
+[ ] Jira & Confluence
+[ ] RAID Log
+[ ] Risk Management
+[ ] Executive Communication
+[ ] AWS Fundamentals
+[ ] Azure Fundamentals
+[ ] AI & LLM Basics
+[ ] System Design
+[ ] Stakeholder Management
+[ ] Budget Management
+[ ] Lean Six Sigma Basics
+
+====================================================
+End of Notes
+====================================================

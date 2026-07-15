@@ -1,0 +1,120 @@
+==========================================================
+TECHNICAL PROJECT MANAGER MOCK INTERVIEW
+Question & Answer Set - 01
+==========================================================
+
+Q1. Tell me about yourself.
+
+Answer:
+
+Hello everyone. Thank you for taking the time to speak with me today.
+
+My name is Pramod Kumar, and I have over 14 years of IT experience, with recent experience as a Technical Project Manager.
+
+I have managed the complete project lifecycle, including requirement gathering, project planning, sprint planning, development, testing, 
+UAT, release, and post-production support.
+
+I work closely with Product, Engineering, QA, DevOps, and business stakeholders to ensure projects are delivered on time, within scope, and within budget.
+
+My key responsibilities include backlog refinement, sprint planning, resource and capacity planning, risk management, 
+stakeholder communication, release planning, and tracking project progress through Agile metrics and dashboards.
+
+I enjoy coordinating cross-functional teams, solving delivery challenges, and ensuring successful project outcomes. 
+I'm now looking for an opportunity where I can contribute my project management experience while continuing to grow as a Technical Project Manager.
+
+==========================================================
+
+Q2. Why are you looking for a job change?
+
+Answer:
+
+I am looking for more challenging and complex projects with greater responsibilities and leadership opportunities, 
+where I can contribute my experience while continuing to grow in my career.
+
+After successfully delivering multiple projects, I felt it was the right time to take on more challenging responsibilities. 
+I'm looking for an organization where I can work on larger, more complex programs, collaborate with diverse stakeholders, 
+and continue growing as a Technical Project Manager.
+
+==========================================================
+
+Q3. A vendor has delayed API integration and the project is behind schedule. What would you do?
+
+Answer:
+
+First, I would assess the impact of the vendor delay on the project timeline and identify which deliverables are affected.
+
+Then, I would immediately connect with the vendor to understand the root cause, obtain a realistic ETA, and escalate the issue if required.
+
+In parallel, I would work with the Engineering, QA, and UAT teams to reprioritize the sprint and continue with other tasks that are not blocked.
+
+I would proactively communicate the situation, mitigation plan, and revised timeline to stakeholders so there are no surprises.
+
+Finally, I would closely monitor the vendor's progress until the issue is resolved, 
+ensuring the impact on the project timeline and business objectives is kept to a minimum.
+
+==========================================================
+
+Q4. How do you ensure a project is delivered on time, within scope, and within budget?
+
+Answer:
+
+To ensure a project is delivered on time, within scope, and within budget, I focus on proper planning, execution, and continuous monitoring.
+
+First, I work with stakeholders to clearly define the project scope, requirements, 
+timelines, budget, and success criteria so everyone has the same expectations.
+
+Next, I create a realistic project plan, estimate resources, and break the work into manageable sprints with clear priorities and ownership.
+
+During execution, I track progress through daily stand-ups, sprint reviews, 
+Jira dashboards, burndown charts, and project KPIs. I identify risks and dependencies early and take corrective actions before they impact the schedule.
+
+I also maintain regular communication with Product, Engineering, QA, DevOps, 
+UAT teams, vendors, and business stakeholders to provide status updates, resolve blockers quickly, and manage any change requests through proper impact analysis.
+
+Finally, I closely monitor the project timeline, scope, budget, and quality throughout the lifecycle to ensure successful delivery and customer satisfaction.
+
+==========================================================
+
+Q5. Tell me about a project that went off track. What happened, and what did you do?
+
+Answer:
+
+In one of my projects, we started falling behind schedule because the client introduced new requirements during development, 
+and an external API vendor also delayed their integration.
+
+As the Technical Project Manager, my responsibility was to minimize the impact and keep the project on track.
+
+I first assessed the impact on the timeline and identified the critical tasks that were blocked.
+
+Then, I coordinated with the Product Owner to prioritize the new requirements and worked with the 
+Engineering team to continue development on features that were not dependent on the vendor.
+
+I stayed in regular contact with the vendor, escalated the issue when required, 
+and kept stakeholders informed with transparent status updates and a revised delivery plan.
+
+As a result, we reduced the delay, completed the remaining work efficiently, 
+and delivered the project with only a minor schedule impact while maintaining the expected quality.
+
+==========================================================
+
+Q6. What project management tools have you used?
+
+Answer:
+
+I have primarily used Jira and Confluence for Agile project management.
+
+In Jira, I create and manage Epics, Stories, Tasks, and Bugs, plan and manage sprints, prioritize the backlog, 
+assign work to team members, and track progress using dashboards, burndown charts, velocity reports, and sprint reports.
+
+In Confluence, I maintain project documentation such as BRDs, meeting notes, release notes, project plans, decision logs, and knowledge-sharing documents.
+
+For communication and collaboration, I use Microsoft Teams, Outlook, and Slack to coordinate with Product, 
+Engineering, QA, DevOps, business stakeholders, and external vendors.
+
+I also use Microsoft Excel for project tracking, reporting, resource planning, RAID logs, and status reports.
+
+These tools help me improve project visibility, collaboration, and on-time delivery.
+
+==========================================================
+END OF MOCK INTERVIEW SET - 01
+==========================================================
