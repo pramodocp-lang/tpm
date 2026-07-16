@@ -2,25 +2,28 @@ HR PHONE SCREENING – SHORT & NATURAL ANSWERS
 
 1. Tell me about yourself
 
+## 1. Tell me about yourself
+
 Hello, and thank you for taking the time to speak with me today.
 
 My name is Pramod Kumar.
-I am a Technical Project Manager with experience in managing the complete software delivery lifecycle, 
+
+I am a Technical Project Manager with experience managing the complete Software Development Life Cycle (SDLC), 
 from requirement gathering and project planning to development, testing, production release, and post-production support.
 
-I collaborate closely with engineering, QA, product, and business teams 
-to ensure the timely delivery of high-quality software solutions 
-while effectively managing risks, dependencies, and stakeholder expectations. 
+I collaborate closely with engineering, QA, product, and 
+business teams to ensure the timely delivery of high-quality software solutions 
+while effectively managing risks, dependencies, and stakeholder expectations.
 
-My core focus areas include project planning, sprint planning, backlog refinement, cross-team coordination, risk mitigation,
-stakeholder management, and successful execution of initiatives.
+My core focus areas include project planning, sprint planning, backlog refinement, 
+cross-team coordination, risk mitigation, stakeholder management, and the successful execution of projects.
 
-I ensured regular stakeholder communication by providing clear project updates, 
-managing expectations, 
-and maintaining transparency throughout the project lifecycle.
+I ensure regular stakeholder communication by providing clear project updates, 
+managing expectations, and maintaining transparency throughout the project lifecycle.
 
-I also managed resource and capacity planning to optimize team utilization,
+I also manage resource and capacity planning to optimize team utilization, 
 proactively address potential bottlenecks, and ensure smooth project execution.
+
 
 
 --------------------------------------------------

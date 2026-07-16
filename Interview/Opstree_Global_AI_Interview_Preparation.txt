@@ -1,0 +1,197 @@
+=========================================================
+OPSTREE GLOBAL - TECHNICAL PROJECT MANAGER
+AI INTERVIEW PREPARATION
+=========================================================
+
+Q1. Tell me about yourself.
+
+Answer:
+
+Hello, and thank you for giving me this opportunity.
+
+My name is Pramod Kumar, and I have over 14 years of IT experience, with recent experience as a Technical Project Manager.
+
+I have managed the complete project lifecycle, including requirement gathering, project planning, sprint planning, development, testing, UAT, release, and post-production support.
+
+I work closely with Product, Engineering, QA, DevOps, UAT, and business stakeholders to ensure projects are delivered on time, within scope, and within budget.
+
+My key responsibilities include backlog refinement, sprint planning, resource planning, stakeholder management, risk management, release planning, and project reporting through Agile metrics and dashboards.
+
+I enjoy leading cross-functional teams, solving delivery challenges, and ensuring successful project outcomes. I'm now looking for an opportunity where I can contribute my experience while continuing to grow as a Technical Project Manager.
+
+=========================================================
+
+Q2. Why do you want to join Opstree Global?
+
+Answer:
+
+I am excited about joining Opstree Global because of its strong focus on cloud technologies, DevOps, digital transformation, and modern engineering practices.
+
+The opportunity to work on challenging projects with cross-functional teams aligns perfectly with my experience and career goals.
+
+I believe my background in Agile project delivery, stakeholder management, and project execution will allow me to contribute effectively while continuing to learn and grow.
+
+=========================================================
+
+Q3. Why are you looking for a job change?
+
+Answer:
+
+I am looking for more challenging and complex projects with greater responsibilities and leadership opportunities where I can contribute my experience while continuing to grow in my career.
+
+I am seeking an organization where I can work on larger programs, collaborate with talented teams, and create greater business value.
+
+=========================================================
+
+Q4. Tell me about a challenging project.
+
+Answer:
+
+One of my projects faced challenges because the client introduced new requirements during development, and an external vendor delayed API integration.
+
+I assessed the impact, reprioritized the sprint with the Product Owner and Engineering team, maintained continuous communication with the vendor, and provided regular updates to stakeholders.
+
+By proactively managing risks and keeping everyone aligned, we delivered the project with only a minor schedule impact while maintaining quality.
+
+=========================================================
+
+Q5. How do you handle project risks?
+
+Answer:
+
+I identify risks early during project planning and maintain a RAID log throughout the project.
+
+I regularly review risks with the team, assess their impact and probability, prepare mitigation plans, assign owners, and continuously monitor them.
+
+For high-priority risks, I communicate proactively with stakeholders and take corrective actions before they affect the project timeline.
+
+=========================================================
+
+Q6. Describe your experience with Agile and Scrum.
+
+Answer:
+
+I have extensive experience working in Agile Scrum environments.
+
+My responsibilities include sprint planning, backlog refinement, daily stand-ups, sprint reviews, retrospectives, release planning, and stakeholder communication.
+
+I use Jira to manage Epics, Stories, Tasks, Bugs, sprint progress, burndown charts, and project dashboards.
+
+=========================================================
+
+Q7. How do you manage stakeholders?
+
+Answer:
+
+I maintain regular communication with Product Owners, Engineering teams, QA, DevOps, business users, and external vendors.
+
+I provide weekly status updates, discuss project risks, resolve issues quickly, and ensure everyone is aligned with project goals and timelines.
+
+Transparent communication helps build trust and enables faster decision-making.
+
+=========================================================
+
+Q8. How do you resolve conflicts within your team?
+
+Answer:
+
+I first understand the concerns of each team member by listening carefully.
+
+Then I focus on facts, project priorities, and business objectives instead of personal opinions.
+
+I encourage open communication, facilitate discussions, and work with the team to reach a solution that benefits both the project and the organization.
+
+=========================================================
+
+Q9. Describe your leadership style.
+
+Answer:
+
+My leadership style is collaborative and supportive.
+
+I believe in empowering team members, providing clear direction, removing blockers, and encouraging open communication.
+
+I focus on creating a positive environment where everyone feels accountable and motivated to achieve project goals.
+
+=========================================================
+
+Q10. Why should we hire you?
+
+Answer:
+
+I bring over 14 years of IT experience with strong expertise in Technical Project Management, Agile delivery, stakeholder management, risk management, sprint planning, and cross-functional team leadership.
+
+I have successfully managed end-to-end project delivery and enjoy solving complex business challenges.
+
+I am confident that my technical understanding, leadership skills, and delivery experience will allow me to make a positive contribution to Opstree Global from day one.
+
+=========================================================
+
+BONUS QUESTIONS
+
+Q11. How do you prioritize work in a sprint?
+
+Answer:
+
+I work with the Product Owner to prioritize backlog items based on business value, customer impact, dependencies, risks, and team capacity.
+
+Critical and high-value features are planned first while balancing technical debt and ongoing support activities.
+
+=========================================================
+
+Q12. Which project management tools have you used?
+
+Answer:
+
+Jira
+Confluence
+Microsoft Teams
+Slack
+Microsoft Excel
+Outlook
+
+I use Jira for sprint planning, backlog management, dashboards, and reporting.
+
+Confluence is used for documentation including BRDs, meeting notes, release notes, and project plans.
+
+Excel is used for RAID logs, resource planning, project tracking, and management reporting.
+
+=========================================================
+
+Q13. What are your strengths?
+
+Answer:
+
+• Strong stakeholder management
+• Excellent communication skills
+• Agile project delivery
+• Risk identification and mitigation
+• Cross-functional team coordination
+• Problem-solving
+• Ownership and accountability
+
+=========================================================
+
+Q14. What is your biggest weakness?
+
+Answer:
+
+Earlier, I preferred handling multiple critical tasks myself to ensure quality.
+
+Over time, I learned that effective delegation and empowering team members improves both team performance and project outcomes.
+
+=========================================================
+
+Q15. Closing Statement
+
+Thank you for giving me the opportunity to introduce myself.
+
+I am excited about the possibility of joining Opstree Global and contributing my Technical Project Management experience to your team.
+
+I look forward to discussing how my skills and experience can add value to your organization.
+
+Thank you for your time.
+
+=========================================================
+GOOD LUCK!
+=========================================================
