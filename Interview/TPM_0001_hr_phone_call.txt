@@ -7,8 +7,8 @@ Hello, and thank you for taking the time to speak with me today.
 My name is Pramod Kumar.
 
 I have over 14 years of experience in software development and project management. Over the last six years, 
-I have been working as a Technical Project Manager, leading end-to-end project delivery. My responsibilities include project initiation, planning, development, 
-User Acceptance Testing (UAT), risk management, release management, and production support.
+I have been working as a Technical Project Manager, leading end-to-end project delivery. My responsibilities include project initiation, 
+planning, development, User Acceptance Testing (UAT), risk management, release management, and production support.
 
 I collaborate closely with engineering, QA, product, and business teams 
 to drive the successful delivery of high-quality software solutions. 
