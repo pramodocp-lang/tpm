@@ -6,21 +6,35 @@ Hello, and thank you for taking the time to speak with me today.
 
 My name is Pramod Kumar.
 
-I am a Technical Project Manager with experience managing the complete Software Development Life Cycle (SDLC), 
-from requirement gathering and project planning to development, testing, production release, and post-production support.
+I have over 14 years of experience in software development and project management. Over the last six years, 
+I have been working as a Technical Project Manager, leading end-to-end project delivery.
 
-I collaborate closely with engineering, QA, product, and 
-business teams to ensure the timely delivery of high-quality software solutions 
-while effectively managing risks, dependencies, and stakeholder expectations.
+My responsibilities include project initiation, planning, development, 
+User Acceptance Testing (UAT), risk management, release management, and production support.
 
-My core focus areas include project planning, sprint planning, backlog refinement, 
-cross-team coordination, risk mitigation, stakeholder management, and the successful execution of projects.
+I collaborate closely with engineering, QA, product, and business teams 
+to drive the successful delivery of high-quality software solutions. 
+I coordinate cross-functional teams, manage project risks and dependencies, 
+facilitate effective communication, and ensure stakeholder 
+expectations are aligned throughout the project lifecycle.
 
-I ensure regular stakeholder communication by providing clear project updates, 
-managing expectations, and maintaining transparency throughout the project lifecycle.
+My core areas of expertise include project planning, sprint planning, 
+backlog refinement, cross-functional team coordination, risk mitigation, 
+stakeholder management, and ensuring the successful execution and delivery of projects within scope, 
+schedule, and quality expectations.
 
-I also manage resource and capacity planning to optimize team utilization, 
-proactively address potential bottlenecks, and ensure smooth project execution.
+I ensure effective stakeholder communication by providing regular project status updates, 
+proactively managing expectations, addressing risks and dependencies, and 
+maintaining transparency throughout the project lifecycle to keep everyone aligned and informed.
+
+I enjoy working in Agile environments, where I focus on collaboration, 
+continuous improvement, and delivering value to customers. 
+I am passionate about building strong relationships with stakeholders 
+and enabling teams to deliver successful outcomes.
+
+I am now looking for an opportunity where I can leverage my technical background, 
+project management expertise, and leadership skills to contribute to the 
+success of the organization while continuing to grow as a Technical Project Manager.
 
 
 
