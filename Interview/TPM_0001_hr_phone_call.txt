@@ -6,24 +6,19 @@ Hello, and thank you for taking the time to speak with me today.
 
 My name is Pramod Kumar.
 
-I have over 14 years of experience in software development and project management. Over the last six years, 
-I have been working as a Technical Project Manager, leading end-to-end project delivery. My responsibilities include project initiation, 
-planning, development, User Acceptance Testing (UAT), risk management, release management, and production support.
+I have over 14 years of experience in software development and project management. 
+Over the last six years, I have been working as a Technical Project Manager, managing the complete project life-cycle from project initiation, 
+planning, development tracking, UAT, risk management, release management, and production support.
 
-I collaborate closely with engineering, QA, product, and business teams 
-to drive the successful delivery of high-quality software solutions. 
-I coordinate cross-functional teams, manage project risks and dependencies, 
-facilitate effective communication, and ensure stakeholder 
-expectations are aligned throughout the project lifecycle.
-
-My core areas of expertise include project planning, sprint planning, 
-backlog refinement, cross-functional team coordination, risk mitigation, 
+I collborate closely with engineering, QA, product and businesses team to 
+ensure timely delivery of high-quality projects that align with business objectives.
+ 
+My core areas of expertise include sprint planning, 
+backlog refinement, risk mitigation, cross-functional team coordination, 
 stakeholder management, and ensuring the successful execution and delivery of projects within scope, 
 schedule, and quality expectations.
 
-I ensure effective stakeholder communication by providing regular project status updates, 
-proactively managing expectations, addressing risks and dependencies, and 
-maintaining transparency throughout the project lifecycle to keep everyone aligned and informed.
+
 
 I enjoy working in Agile environments, where I focus on collaboration, 
 continuous improvement, and delivering value to customers. 
