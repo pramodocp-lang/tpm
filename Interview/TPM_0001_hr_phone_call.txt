@@ -8,22 +8,14 @@ My name is Pramod Kumar.
 
 I have over 14 years of experience in software development and project management. 
 Over the last six years, I have been working as a Technical Project Manager, managing the complete project life-cycle from project initiation, 
-planning, development tracking, UAT, risk management, release management, and production support.
+planning, development tracking, UAT coordination, release management, and production support.
 
 I collborate closely with engineering, QA, product and businesses team to 
-ensure timely delivery of high-quality projects that align with business objectives.
+ensure projects are delivered on time wihin scope and budget.
  
-My core areas of expertise include sprint planning, 
-backlog refinement, risk mitigation, cross-functional team coordination, 
+My core areas of expertise include sprint planning, backlog refinement, remove blockers,
 stakeholder management, and ensuring the successful execution and delivery of projects within scope, 
 schedule, and quality expectations.
-
-
-
-I enjoy working in Agile environments, where I focus on collaboration, 
-continuous improvement, and delivering value to customers. 
-I am passionate about building strong relationships with stakeholders 
-and enabling teams to deliver successful outcomes.
 
 I am now looking for an opportunity where I can leverage my technical background, 
 project management expertise, and leadership skills to contribute to the 
