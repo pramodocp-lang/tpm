@@ -7,50 +7,49 @@ Hello, and thank you for taking the time to speak with me today.
 My name is Pramod Kumar.
 
 I have over 14 years of experience in software development and project management. 
-Over the last six years, I have been working as a Technical Project Manager, managing the complete project life-cycle from project initiation, 
+
+Over the last six years, I have been working as a Technical Project Manager, 
+managing the complete project life-cycle from project initiation, 
 planning, development tracking, UAT coordination, release management, and production support.
 
 I collborate closely with engineering, QA, product and businesses team to 
 ensure projects are delivered on time wihin scope and budget.
  
-My core areas of expertise include sprint planning, backlog refinement, remove blockers,
-stakeholder management, and ensuring the successful execution and delivery of projects within scope, 
-schedule, and quality expectations.
+My responsibilities include sprint planning, backlog refinement, sprint progress tracking, facilitating Scrum ceremonies, 
+monitoring sprint KPIs, and regularly updating stakeholders on development progress, blockers, and risks.
 
 I am now looking for an opportunity where I can leverage my technical background, 
 project management expertise, and leadership skills to contribute to the 
 success of the organization while continuing to grow as a Technical Project Manager.
 
-
-
 --------------------------------------------------
 2. Are you currently working?
 
-Currently, I am not working and am actively exploring
-opportunities where I can contribute my project
-management experience and continue to develop my career.
+Currently, I am not working and am actively looking for a Technical Project Manager opportunity 
+where I can leverage my experience and continue to learn and grow.
 
 --------------------------------------------------
 
 3. When did you leave your previous organization?
 
-I left my previous organization in June 25.
+I left my previous organization in June 2025.
 
 --------------------------------------------------
 
 4. Why did you leave your previous organization?
 
-The project I was leading was successfully completed, and there were limited opportunities to take on 
-new initiatives within the organization. I decided it was the right time to explore new opportunities where 
-I can leverage my Technical Project Management experience, contribute to challenging projects, continue learning, 
-and grow professionally while delivering value to the organization.
+The project I was leading was successfully completed, and there were limited opportunities 
+to work on new projects within the organization. So, 
+I decided it was the right time to explore new opportunities where 
+I can leverage my Technical Project Management experience, 
+take on new challenges, and continue to grow while contributing to the organization's success.
 
 --------------------------------------------------
 
 5. What are your salary expectations?
 
 Based on my experience in Technical Project management, project delivery, stakeholder management,
-I am looking for a compensation package in the range of ₹12LPA to ₹15LPA.
+I am looking for a compensation package ₹15LPA.
 
 However, I am open to discussing the overall package and would
 like to understand the complete compensation structure.
@@ -65,11 +64,8 @@ by coordinating between business and engineering teams.
 Responsibilities:
 
 Define project scope, goals, and timelines
-Plan and manage project execution using Agile methodology
-Track progress, sprints, and tasks using Jira
-Manage stakeholders and ensure clear communication
-Identify and mitigate risks, issues, and dependencies
-Ensure on-time delivery with quality output.
+sprint planning, baclkog refinements, sprint progress tracking, 
+KPIs monotringand regularly update the progress to stakeholders.
 
 --------------------------------------------------
 
@@ -480,3 +476,49 @@ Team Size
 → Delivery
 
 This structure helps answer almost every team-related interview question confidently.
+
+
+
+
+
+
+Can you walk me through one of the projects you managed from initiation to delivery? Please explain:
+
+What was the project?
+What was your role?
+How did you plan and execute it?
+What challenges did you face?
+How did you measure success?"
+
+
+
+One of the recent projects I managed was an Educational CRM platform designed to 
+manage the complete student admission journey for overseas education.
+
+The objective of the project was to streamline the entire process, 
+starting from student onboarding through counselling, course selection, 
+application processing, visa management, and finally university enrolment.
+
+The system included multiple modules such as 
+Student Onboarding, Front Office, Counsellor Portal, Branch Office, Mentor Portal, and Super Admin.
+
+As the Technical Project Manager, 
+I was responsible for project planning, 
+requirement discussions with business stakeholders, 
+sprint planning, backlog prioritization, coordinating the development and QA teams, 
+tracking project progress in Jira, managing risks and dependencies, 
+and providing regular status updates to stakeholders.
+
+We followed Agile Scrum with two-week sprints. I facilitated sprint planning, 
+daily stand-ups, sprint reviews, and retrospectives to ensure smooth delivery.
+
+One of the key challenges was accommodating changing business requirements 
+while keeping the release schedule on track. We addressed this through backlog refinement, 
+impact analysis, and close collaboration with stakeholders.
+
+The project was delivered successfully, users adopted the platform, 
+and it significantly improved the efficiency of the student admission process.
+
+
+
+
