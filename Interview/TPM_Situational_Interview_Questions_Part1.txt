@@ -14,17 +14,31 @@ Answer:
 - Update stakeholders with a revised timeline.
 - Track progress daily until the project is back on schedule.
 
+
 ---------------------------------------------------------
 
 2. A developer says they cannot complete a task on time.
 
-Answer:
-- Understand the reason for the delay.
-- Identify whether it is a technical issue, dependency, or resource constraint.
-- Help remove blockers.
-- Reassign work if necessary.
-- Inform stakeholders if delivery is impacted.
-- Monitor the task until completion.
+First, I would understand why the developer is delayed. 
+Then I would identify whether the issue is technical, a dependency, 
+unclear requirements, or a resource constraint. 
+
+I would work to remove blockers, provide additional support or reassign work 
+if necessary, and assess the impact on the sprint and project timeline. 
+If the delivery is affected, 
+I would communicate the risk to stakeholders early and 
+continue monitoring the task until it is completed. 
+Finally, I would discuss the root cause in the 
+sprint retrospective to avoid similar issues in the future.
+
+This version reflects the key TPM competencies interviewers look for:
+
+Root cause analysis
+Risk management
+Blocker removal
+Stakeholder communication
+Ownership and accountability
+Continuous improvement
 
 ---------------------------------------------------------
 
