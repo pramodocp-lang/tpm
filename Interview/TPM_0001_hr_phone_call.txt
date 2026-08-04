@@ -98,7 +98,8 @@ I also maintained transparent communication with stakeholders by sharing progres
 mitigation plans, and any schedule impacts early, ensuring there were no surprises.
 
 Result:
-As a result, we successfully delivered the release on schedule with high quality. The production deployment was smooth, critical defects were minimal, and the business was able to start the admission cycle on time. 
+As a result, we successfully delivered the release on schedule with high quality. The production deployment was smooth,
+critical defects were minimal, and the business was able to start the admission cycle on time. 
 The project strengthened stakeholder confidence, and the structured coordination process we followed became a model for future releases.
 --------------------------------------------------
 
