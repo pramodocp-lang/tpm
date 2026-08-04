@@ -71,24 +71,35 @@ KPIs monotringand regularly update the progress to stakeholders.
 
 7. Tell me about a challenging project.
 
-One of the most challenging projects 
-I worked on involved a critical product release with a very tight timeline and multiple dependencies across engineering, 
-QA, product, and business teams.
+Situation:
+One of the most challenging projects I worked on was delivering a 
+major release for our Educational CRM platform. The release included multiple features such as enhancements to 
+Student Admission Management, Counsellor Dashboard, and Application Tracking. 
+We had a strict deadline because the release needed to go live before the new admission cycle.
 
-The biggest challenge was coordinating all stakeholders 
-while managing changing priorities and 
-ensuring that dependent tasks stayed on schedule.
+Task:
+As the Technical Project Manager, my responsibility was to ensure the release was delivered on time 
+while coordinating engineering, QA, product, DevOps, and business stakeholders. 
+The biggest challenge was managing multiple cross-team dependencies, changing business priorities, and resolving technical blockers 
+without impacting the release schedule.
 
-As the Technical Program Manager, 
-I closely tracked progress through Jira, 
-conducted regular stand-ups and status meetings, 
-proactively identified risks, and maintained clear communication 
-with all stakeholders. 
-Whenever blockers arose, 
-I worked with the respective teams to resolve them quickly and adjusted the plan where necessary.
+Action:
+I started by breaking the work into clear milestones and identifying the critical path. 
+I tracked all work items in Jira and maintained visibility through sprint boards and dashboards.
 
-As a result, we successfully delivered the release on time with minimal issues, 
-and the stakeholders were satisfied with the overall execution and coordination.
+I facilitated daily stand-ups, backlog refinement sessions, sprint planning, 
+and weekly stakeholder meetings to ensure everyone had the latest updates.
+
+Whenever risks or blockers were identified, I recorded them in the RAID log, assigned owners, 
+and followed up until they were resolved. For example, when a dependency delayed one feature, 
+I worked with the Product Owner to reprioritize the backlog so the team could continue working on other high-priority items instead of waiting.
+
+I also maintained transparent communication with stakeholders by sharing progress, risks, 
+mitigation plans, and any schedule impacts early, ensuring there were no surprises.
+
+Result:
+As a result, we successfully delivered the release on schedule with high quality. The production deployment was smooth, critical defects were minimal, and the business was able to start the admission cycle on time. 
+The project strengthened stakeholder confidence, and the structured coordination process we followed became a model for future releases.
 --------------------------------------------------
 
 
