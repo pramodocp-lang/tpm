@@ -15,8 +15,10 @@ planning, development tracking, UAT coordination, release management, and produc
 I collborate closely with engineering, QA, product and businesses team to 
 ensure projects are delivered on time wihin scope and budget.
  
-My responsibilities include sprint planning, backlog refinement, sprint progress tracking, facilitating Scrum ceremonies, 
-monitoring sprint KPIs, and regularly updating stakeholders on development progress, blockers, and risks.
+My responsibilities include sprint planning, backlog refinement, sprint progress tracking, 
+facilitating Scrum ceremonies, 
+manage dependencies, remove blockers, risk mitigations, monitoring sprint KPIs, and regularly 
+updating stakeholders on development progress.
 
 I am now looking for an opportunity where I can leverage my technical background, 
 project management expertise, and leadership skills to contribute to the 
