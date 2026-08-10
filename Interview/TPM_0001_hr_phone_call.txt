@@ -14,14 +14,18 @@ planning, development tracking, UAT coordination, release management, and produc
 
 I collborate closely with engineering, QA, product and businesses team to 
 ensure projects are delivered on time wihin scope and budget.
- 
+
+I have experience managing Agile delivery across the end-to-end SDLC.
+I use sprint reviews and retrospectives to incorporate feedback and continuously improve the delivery process. 
+
 My responsibilities include sprint planning, backlog refinement, sprint progress tracking, 
-facilitating Scrum ceremonies, 
-manage dependencies, remove blockers, risk mitigations, monitoring sprint KPIs, and regularly 
+facilitating Scrum ceremonies, manage dependencies, remove blockers, risk mitigations, 
+monitoring sprint KPIs, and regularly 
 updating stakeholders on development progress.
 
+
 I am now looking for an opportunity where I can leverage my technical background, 
-project management expertise, and leadership skills to contribute to the 
+project management expertise, and leadership skills to contribute to the
 success of the organization while continuing to grow as a Technical Project Manager.
 
 --------------------------------------------------
