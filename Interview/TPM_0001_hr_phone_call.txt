@@ -141,10 +141,88 @@ organization's project delivery goals.
 --------------------------------------------------
 11. How do you handle project risks?
 
-I proactively identify risks during project planning,
-maintain a RAID log, assess impact and probability,
-create mitigation plans, and regularly review risks
-with stakeholders to prevent project delays.
+I proactively identify risks during the project planning phase and maintain a RAID log to track them.
+
+I assess each risk based on its probability and impact, and then create appropriate mitigation or contingency plans.
+
+I regularly review the risks with the project team and key stakeholders and assign clear owners and target dates.
+
+If a risk materializes into an issue, I take immediate action, communicate the impact to stakeholders, and work with the team to resolve it.
+
+This helps me minimize project delays and keep the project on track.
+
+
+Example 1 — Key Developer Unavailable
+
+One example was when a key developer became unavailable during an important sprint. 
+I identified this as a delivery risk and assessed its potential impact on the sprint timeline.
+
+I discussed the situation with the Engineering Manager and identified another team member 
+who could take over the critical tasks. We also prioritized the backlog and focused on the high-priority items first.
+
+As a result, we were able to minimize the impact and keep the sprint on track.
+
+
+
+Example 2 — Third-Party API Dependency
+
+Another example was when our project depended on a third-party payment API, 
+and there was a risk that the API integration could be delayed.
+
+I discussed the dependency with the technical team, tracked it in the RAID log, 
+and agreed on a mitigation plan. We requested the API documentation and test environment early and also planned a 
+mock API so that development could continue while the external dependency was being resolved.
+
+This helped us avoid blocking the development team and reduced the risk of delaying the release.
+
+
+
+Example 3 — Changing Business Requirements
+
+One risk I have handled was frequent changes in business requirements during development. 
+I identified the risk of scope creep and potential impact on the timeline.
+
+I worked with the Product Owner to assess each change based on business priority, 
+effort, and project impact. Critical changes were prioritized, while non-critical changes were moved to the next sprint.
+
+This helped us control scope and maintain the committed delivery timeline.
+
+
+
+Example 4 — UAT Delay
+
+Another example was a potential UAT delay because the business users were not available for testing.
+
+I identified this as a delivery risk and discussed it with the business stakeholders. 
+We agreed on the UAT schedule in advance and assigned specific users for testing.
+
+I also tracked UAT progress regularly and escalated any pending feedback. 
+This helped us complete UAT on time and avoid impacting the release.
+
+
+
+Example 5 — Production Release Risk
+
+Before an important production release, we identified a risk related to a critical feature that had limited testing time.
+
+I worked with QA and engineering to prioritize the critical test scenarios and ensure that 
+all high-severity defects were addressed before release.
+
+We also prepared a rollback plan in case any critical issue occurred after deployment. 
+This reduced the risk associated with the production release.
+
+
+
+Example 6 — Resource Availability
+
+In one project, I identified a resource availability risk because multiple team members 
+were planned for different projects at the same time.
+
+I discussed the resource allocation with the Engineering Manager and reviewed the 
+project priorities. We redistributed some tasks and 
+cross-trained team members to reduce dependency on specific individuals.
+
+As a result, the project continued without a significant impact on the timeline.
 
 --------------------------------------------------
 
